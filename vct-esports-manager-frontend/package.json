@@ -11,7 +11,9 @@
   "dependencies": {
     "@ai-sdk/amazon-bedrock": "^0.0.29",
     "@aws-sdk/client-bedrock-agent-runtime": "^3.670.0",
+    "@heroicons/react": "^2.1.5",
     "ai": "^3.4.9",
+    "clsx": "^2.1.1",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
@@ -21,6 +23,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/uuid": "^10.0.0",
     "eslint": "^8",
     "eslint-config-next": "14.2.15",
     "eslint-config-prettier": "^9.1.0",
