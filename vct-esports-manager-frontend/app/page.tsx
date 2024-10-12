@@ -6,7 +6,6 @@ import clsx from "clsx";
 import {
   ClipboardEventHandler,
   KeyboardEventHandler,
-  useEffect,
   useRef,
   useState,
 } from "react";
@@ -86,6 +85,7 @@ export default function Home() {
 
     const decoder = new TextDecoder("utf-8");
 
+    // @ts-expect-error for some reason trying to loop over response.body throws error
     for await (const chunk of response.body) {
       setMessages((messages) => [
         {
