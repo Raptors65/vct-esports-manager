@@ -3,11 +3,9 @@
 import { ChatRequestBody } from "@/types/api";
 import { CpuChipIcon, PaperAirplaneIcon } from "@heroicons/react/24/outline";
 import clsx from "clsx";
-import { UUID } from "crypto";
 import {
   ClipboardEventHandler,
   KeyboardEventHandler,
-  useEffect,
   useRef,
   useState,
 } from "react";
