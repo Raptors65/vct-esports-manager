@@ -145,10 +145,11 @@ export default function Home() {
     <main className="container mx-auto pt-5">
       {messages.length === 0 && (
         <div className="text-center mx-auto max-w-xl text-gray-200">
-          <h1 className="text-3xl font-bold">VCT Esports Manager</h1>
+          <h1 className="text-3xl font-bold">TeamForge</h1>
           <p className="my-2">
-            Enter a prompt in the text field to get started, or select one of
-            the prompts below:
+            Welcome to TeamForge, an LLM-powered digital assistant designed to
+            help you build a VALORANT esports team. Enter a prompt in the text
+            field to get started, or select one of the prompts below:
           </p>
           <div className="flex flex-wrap gap-x-3 gap-y-2 justify-center">
             {prewrittenPrompts.map((prompt) => (
