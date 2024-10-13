@@ -3,9 +3,11 @@
 import { ChatRequestBody } from "@/types/api";
 import { CpuChipIcon, PaperAirplaneIcon } from "@heroicons/react/24/outline";
 import clsx from "clsx";
+import { UUID } from "crypto";
 import {
   ClipboardEventHandler,
   KeyboardEventHandler,
+  useEffect,
   useRef,
   useState,
 } from "react";
@@ -53,6 +55,7 @@ export default function Home() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isInFocus, setIsInFocus] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [uuid, setUuid] = useState<string | null>(null);
   const inputRef = useRef<HTMLDivElement>(null);
 
   const submitPrompt = async () => {
@@ -75,10 +78,18 @@ export default function Home() {
     ]);
     setIsLoading(true);
 
+    let currentUuid;
+    if (uuid === null) {
+      currentUuid = uuidv6();
+      setUuid(currentUuid);
+    } else {
+      currentUuid = uuid;
+    }
+
     const response = await fetch("/api/chat", {
       method: "POST",
       body: JSON.stringify({
-        sessionId: uuidv6(),
+        sessionId: currentUuid,
         inputText: prompt,
       } as ChatRequestBody),
       headers: {
@@ -94,7 +105,7 @@ export default function Home() {
     for await (const chunk of response.body) {
       const data = decoder.decode(chunk);
 
-      // console.log(data);
+      console.log(data);
 
       setMessages((messages) => [
         {

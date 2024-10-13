@@ -24,6 +24,7 @@ function iteratorToStream(
         // console.log(value);
         if (value.chunk) {
           controller.enqueue(value.chunk.bytes);
+          controller.close();
         } else if (value.trace?.trace?.orchestrationTrace) {
           const orchestrationTrace = value.trace?.trace?.orchestrationTrace;
 
@@ -59,6 +60,7 @@ function iteratorToStream(
             controller.enqueue(
               encoder.encode(orchestrationTrace.observation.finalResponse.text)
             );
+            controller.close();
           }
         }
       }
