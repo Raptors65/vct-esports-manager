@@ -123,6 +123,7 @@ export default function Home() {
 
   const handleInputKeydown: KeyboardEventHandler<HTMLDivElement> = (e) => {
     if (e.key === "Enter") {
+      e.preventDefault();
       submitPrompt();
     }
     // console.log(e.target.innerText);
