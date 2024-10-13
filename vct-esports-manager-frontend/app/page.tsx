@@ -52,6 +52,7 @@ const prewrittenPrompts = [
 export default function Home() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isInFocus, setIsInFocus] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const inputRef = useRef<HTMLDivElement>(null);
 
   const submitPrompt = async () => {
@@ -72,6 +73,7 @@ export default function Home() {
       },
       ...messages,
     ]);
+    setIsLoading(true);
 
     const response = await fetch("/api/chat", {
       method: "POST",
@@ -79,6 +81,9 @@ export default function Home() {
         sessionId: uuidv6(),
         inputText: prompt,
       } as ChatRequestBody),
+      headers: {
+        "Content-Type": "application/json",
+      },
     });
 
     if (!response.body) return; // TODO: error handling
@@ -87,6 +92,10 @@ export default function Home() {
 
     // @ts-expect-error for some reason trying to loop over response.body throws error
     for await (const chunk of response.body) {
+      const data = decoder.decode(chunk);
+
+      // console.log(data);
+
       setMessages((messages) => [
         {
           author: "AI",
@@ -94,7 +103,13 @@ export default function Home() {
         },
         ...messages.slice(1),
       ]);
+
+      if (!data.includes(`<p class="trace-step">`)) {
+        break;
+      }
     }
+
+    setIsLoading(false);
   };
 
   const handleInputKeydown: KeyboardEventHandler<HTMLDivElement> = (e) => {
@@ -141,7 +156,7 @@ export default function Home() {
           </div>
         </div>
       )}
-      <div className="flex flex-col-reverse gap-y-5 pb-24">
+      <div className="flex flex-col-reverse gap-y-5 pb-24 max-w-5xl mx-auto">
         {messages.map((message, i) => (
           <div
             key={i}
@@ -154,17 +169,17 @@ export default function Home() {
             )}
           >
             {message.author === "AI" && <CpuChipIcon className="size-8" />}
-            <div className={clsx("whitespace-pre-line flex-1")}>
-              <p>
-                {message.content || (
-                  <div className="lds-facebook">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                  </div>
-                )}
-              </p>
-            </div>
+            {isLoading && i === 0 && (
+              <div className="lds-facebook">
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+            )}
+            <div
+              className={clsx("whitespace-pre-line flex-1")}
+              dangerouslySetInnerHTML={{ __html: message.content }}
+            ></div>
           </div>
         ))}
       </div>

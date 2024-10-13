@@ -57,3 +57,8 @@ body {
     height: 16px;
   }
 }
+
+.trace-step {
+  font-size: theme("fontSize.sm");
+  color: theme("colors.gray.300");
+}
