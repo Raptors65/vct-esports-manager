@@ -12,7 +12,9 @@ function iteratorToStream(
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   iterator: AsyncIterator<ResponseStream, any, any>
 ) {
-  return new ReadableStream<string | Buffer | Uint8Array>({
+  const encoder = new TextEncoder();
+
+  return new ReadableStream<Uint8Array>({
     async pull(controller) {
       const { value, done } = await iterator.next();
 
@@ -30,24 +32,32 @@ function iteratorToStream(
               orchestrationTrace.invocationInput.knowledgeBaseLookupInput?.text
             ) {
               controller.enqueue(
-                `<p class="trace-step">Searching knowledge base: ${orchestrationTrace.invocationInput.knowledgeBaseLookupInput.text}</p>`
+                encoder.encode(
+                  `<p class="trace-step">Searching knowledge base: ${orchestrationTrace.invocationInput.knowledgeBaseLookupInput.text}</p>`
+                )
               );
             }
           } else if (orchestrationTrace.modelInvocationInput) {
-            controller.enqueue(`<p class="trace-step">Prompting model</p>`);
+            controller.enqueue(
+              encoder.encode(`<p class="trace-step">Prompting model</p>`)
+            );
           } else if (orchestrationTrace.modelInvocationOutput) {
-            controller.enqueue(`<p class="trace-step">Response received</p>`);
+            controller.enqueue(
+              encoder.encode(`<p class="trace-step">Response received</p>`)
+            );
           } else if (orchestrationTrace.rationale) {
             // TODO: add message here
           } else if (
             orchestrationTrace.observation?.knowledgeBaseLookupOutput
           ) {
             controller.enqueue(
-              `<p class="trace-step">Knowledge base response received</p>`
+              encoder.encode(
+                `<p class="trace-step">Knowledge base response received</p>`
+              )
             );
           } else if (orchestrationTrace.observation?.finalResponse?.text) {
             controller.enqueue(
-              orchestrationTrace.observation.finalResponse.text
+              encoder.encode(orchestrationTrace.observation.finalResponse.text)
             );
           }
         }
