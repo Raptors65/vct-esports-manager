@@ -34,17 +34,17 @@ function iteratorToStream(
             ) {
               controller.enqueue(
                 encoder.encode(
-                  `<p class="trace-step">Searching knowledge base: ${orchestrationTrace.invocationInput.knowledgeBaseLookupInput.text}</p>`
+                  `<p class="trace-step">Searching knowledge base: ${orchestrationTrace.invocationInput.knowledgeBaseLookupInput.text}...</p>`
                 )
               );
             }
           } else if (orchestrationTrace.modelInvocationInput) {
             controller.enqueue(
-              encoder.encode(`<p class="trace-step">Prompting model</p>`)
+              encoder.encode(`<p class="trace-step">Prompting model...</p>`)
             );
           } else if (orchestrationTrace.modelInvocationOutput) {
             controller.enqueue(
-              encoder.encode(`<p class="trace-step">Response received</p>`)
+              encoder.encode(`<p class="trace-step">Response received...</p>`)
             );
           } else if (orchestrationTrace.rationale) {
             // TODO: add message here
@@ -53,7 +53,7 @@ function iteratorToStream(
           ) {
             controller.enqueue(
               encoder.encode(
-                `<p class="trace-step">Knowledge base response received</p>`
+                `<p class="trace-step">Knowledge base response received...</p>`
               )
             );
           } else if (orchestrationTrace.observation?.finalResponse?.text) {
