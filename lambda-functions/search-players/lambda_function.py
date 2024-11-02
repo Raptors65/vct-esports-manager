@@ -24,7 +24,11 @@ def lambda_handler(event, context):
     if "minRating" in param_dict:
         response = response.gte("rating", param_dict["minRating"])
     if "region" in param_dict:
-        response = response.ilike("region", f"%{param_dict['region']}%")
+        if ", " in param_dict['region']:
+            regions = param_dict['region'].split(', ')
+            response = response.in_("region", regions)
+        else:
+            response = response.ilike("region", f"%{param_dict['region']}%")
     if "sortBy" in param_dict:
         response = response.order(param_dict["sortBy"], desc=True)
     
@@ -82,24 +86,29 @@ def lambda_handler(event, context):
         
     return action_response
 
-if __name__ == "__main__":
-    res = lambda_handler({
-        "actionGroup": None,
-        "function": None,
-        "parameters": [
-          {
-            "name": "league",
-            "type": "string",
-            "value": "VCT International"
-          },
-          {
-            "name": "agents",
-            "type": "array",
-            "value": "[\"Phoenix\", \"Reyna\", \"Jett\", \"Raze\", \"Yoru\", \"Neon\", \"Iso\", \"Brimstone\", \"Viper\", \"Omen\", \"Astra\", \"Harbor\", \"Clove\", \"Sage\", \"Cypher\", \"Killjoy\", \"Chamber\", \"Deadlock\", \"Sova\", \"Breach\", \"Skye\", \"KAY/O\", \"Fade\", \"Gekko\"]"
-          }
-        ],
-        "sessionAttributes": {},
-        "promptSessionAttributes": {}
-    }, None)
+# if __name__ == "__main__":
+#     res = lambda_handler({
+#         "actionGroup": None,
+#         "function": None,
+#         "parameters": [
+#           {
+#             "name": "league",
+#             "type": "string",
+#             "value": "VCT International"
+#           },
+#           {
+#               "name": "region",
+#               "type": "string",
+#               "value": "Americas, EMEA, Pacific"
+#           },
+#           {
+#             "name": "agents",
+#             "type": "array",
+#             "value": "[\"Phoenix\", \"Reyna\", \"Jett\", \"Raze\", \"Yoru\", \"Neon\", \"Iso\", \"Brimstone\", \"Viper\", \"Omen\", \"Astra\", \"Harbor\", \"Clove\", \"Sage\", \"Cypher\", \"Killjoy\", \"Chamber\", \"Deadlock\", \"Sova\", \"Breach\", \"Skye\", \"KAY/O\", \"Fade\", \"Gekko\"]"
+#           }
+#         ],
+#         "sessionAttributes": {},
+#         "promptSessionAttributes": {}
+#     }, None)
 
-    print(res)
+#     print(res)
