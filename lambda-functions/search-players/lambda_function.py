@@ -15,16 +15,16 @@ def lambda_handler(event, context):
 
     supabase = create_client(config["SUPABASE_URL"], config["SUPABASE_KEY"])
 
-    response = supabase.table("players").select("username, league, team, country, region, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").limit(10)
+    response = supabase.table("players").select("username, league, team, country, region, role, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").limit(10)
 
-    if "agents" in param_dict:
-        response = response.contains("agents", json.loads(param_dict["agents"]))
+    if "role" in param_dict:
+        response = response.ilike("role", json.loads(param_dict["role"]))
     if "league" in param_dict:
-        response = response.like("league", f"%{param_dict['league']}%")
+        response = response.ilike("league", f"%{param_dict['league']}%")
     if "minRating" in param_dict:
         response = response.gte("rating", param_dict["minRating"])
     if "region" in param_dict:
-        response = response.like("region", f"%{param_dict['region']}%")
+        response = response.ilike("region", f"%{param_dict['region']}%")
     if "sortBy" in param_dict:
         response = response.order(param_dict["sortBy"], desc=True)
     
@@ -42,7 +42,7 @@ def lambda_handler(event, context):
         else:
             agents = ", ".join(player["agents"][:-1]) + f", and {player["agents"][-1]}"
         
-        text_response += f"""{player["username"]} is a {player["league"]} player{f" for {player["team"]}" if player["team"].strip() else ""}{f" from {player["country"]}" if player["country"] != "N/A" else ""} who plays{" " + agents if agents else ""}:
+        text_response += f"""{player["username"]} is a {player["league"]}{f" {player["role"].lower()}" if player["role"] != "N/A" else ""} player{f" for {player["team"]}" if player["team"].strip() else ""}{f" from {player["country"]}" if player["country"] != "N/A" else ""} who plays{" " + agents if agents else ""}:
 - {player["rounds"]} rounds played
 - {player["rating"]} rating
 - {player["acs"]} average combat score
@@ -82,24 +82,24 @@ def lambda_handler(event, context):
         
     return action_response
 
-# if __name__ == "__main__":
-#     res = lambda_handler({
-#         "actionGroup": None,
-#         "function": None,
-#         "parameters": [
-#             {
-#                 "name": "league",
-#                 "type": "string",
-#                 "value": "VCT International"
-#             },
-#             {
-#                 "name": "agents",
-#                 "type": "array",
-#                 "value": '["Raze"]'
-#             }
-#         ],
-#         "sessionAttributes": {},
-#         "promptSessionAttributes": {}
-#     }, None)
+if __name__ == "__main__":
+    res = lambda_handler({
+        "actionGroup": None,
+        "function": None,
+        "parameters": [
+          {
+            "name": "league",
+            "type": "string",
+            "value": "VCT International"
+          },
+          {
+            "name": "agents",
+            "type": "array",
+            "value": "[\"Phoenix\", \"Reyna\", \"Jett\", \"Raze\", \"Yoru\", \"Neon\", \"Iso\", \"Brimstone\", \"Viper\", \"Omen\", \"Astra\", \"Harbor\", \"Clove\", \"Sage\", \"Cypher\", \"Killjoy\", \"Chamber\", \"Deadlock\", \"Sova\", \"Breach\", \"Skye\", \"KAY/O\", \"Fade\", \"Gekko\"]"
+          }
+        ],
+        "sessionAttributes": {},
+        "promptSessionAttributes": {}
+    }, None)
 
-#     print(res)
+    print(res)
