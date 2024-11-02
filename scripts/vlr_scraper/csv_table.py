@@ -11,6 +11,7 @@ headings = [
     "team",
     "country",
     "region",
+    "role",
     "agents",
     "rounds",
     "rating",
@@ -54,6 +55,34 @@ agentConv = {
     "vyse": "Vyse",
 }
 
+roleConv = {
+    "Brimstone": "Controller",
+    "Viper": "Controller",
+    "Omen": "Controller",
+    "Killjoy": "Sentinel",
+    "Cypher": "Sentinel",
+    "Sova": "Initiator",
+    "Sage": "Sentinel",
+    "Phoenix": "Duelist",
+    "Jett": "Duelist",
+    "Reyna": "Duelist",
+    "Raze": "Duelist",
+    "Breach": "Initiator",
+    "Skye": "Initiator",
+    "Yoru": "Duelist",
+    "Astra": "Controller",
+    "KAY/O": "Initiator",
+    "Chamber": "Sentinel",
+    "Neon": "Duelist",
+    "Fade": "Initiator",
+    "Harbor": "Controller",
+    "Gekko": "Initiator",
+    "Deadlock": "Sentinel",
+    "Iso": "Duelist",
+    "Clove": "Controller",
+    "Vyse": "Sentinel",
+}
+
 continents_to_regions = {
     "North America": "Americas",
     "South America": "Americas",
@@ -61,7 +90,7 @@ continents_to_regions = {
     "Africa": "EMEA",
     "Asia": "Pacific",
     "Australia": "Pacific",
-    "Oceania": "Pacific"
+    "Oceania": "Pacific",
 }
 
 overrides = {
@@ -89,7 +118,7 @@ overrides = {
     "Turkey": "EMEA",
     "Turkmenistan": "EMEA",
     "United Arab Emirates": "EMEA",
-    "Uzbekistan": "EMEA"
+    "Uzbekistan": "EMEA",
 }
 
 
@@ -108,7 +137,7 @@ def extract_overall_data(stats: list[str], filename: str, league: str):
                 color_sqs = table_row.find_all(class_="mod-color-sq")
 
                 country_code = table_row.find("i").get("class")[-1][-2:].upper()
-            
+
                 country = countries.get(alpha_2=country_code)
                 if country is None:
                     if country_code == "EN":
@@ -120,8 +149,18 @@ def extract_overall_data(stats: list[str], filename: str, league: str):
                 else:
                     country_name = country.name
                     try:
-                        continent_code = pc.country_alpha2_to_continent_code(country_code)
-                        region = overrides[country_name] if country_name in overrides else continents_to_regions[pc.convert_continent_code_to_continent_name(continent_code)]
+                        continent_code = pc.country_alpha2_to_continent_code(
+                            country_code
+                        )
+                        region = (
+                            overrides[country_name]
+                            if country_name in overrides
+                            else continents_to_regions[
+                                pc.convert_continent_code_to_continent_name(
+                                    continent_code
+                                )
+                            ]
+                        )
                     except:
                         if country_code == "SX":
                             region = "Americas"
@@ -129,9 +168,8 @@ def extract_overall_data(stats: list[str], filename: str, league: str):
                             print(f"Unknown country code: {country_code}")
                             region = "N/A"
 
-
                 agents_list = [
-                    f"\"{agentConv[img.get("src").split("/")[-1].split(".")[0]]}\""
+                    f'"{agentConv[img.get("src").split("/")[-1].split(".")[0]]}"'
                     for img in table_row.find(class_="mod-agents").find_all("img")[:-1]
                 ]
 
@@ -145,6 +183,16 @@ def extract_overall_data(stats: list[str], filename: str, league: str):
                 #     agents = ", ".join(agents_list[:-1]) + f", and {agents_list[-1]}"
 
                 agents = "[" + ", ".join(agents_list) + "]"
+
+                if len(agents_list) >= 2:
+                    if roleConv[agents_list[0][1:-1]] == roleConv[agents_list[1][1:-1]]:
+                        role = roleConv[agents_list[0][1:-1]]
+                    else:
+                        role = "Flex"
+                elif len(agents_list) == 1:
+                    role = roleConv[agents_list[0][1:-1]]
+                else:
+                    role = "N/A"
 
                 username = table_row.find(class_="text-of").get_text()  # Username
                 team = table_row.find(class_="stats-player-country").get_text()
@@ -163,7 +211,29 @@ def extract_overall_data(stats: list[str], filename: str, league: str):
                 hs = color_sqs[9].get_text()[:-1]  # HS%
                 cl = color_sqs[10].get_text()[:-1]  # CL%
 
-                csv_writer.writerow([username, league, team, country_name, region, agents, num_rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, cl])
+                csv_writer.writerow(
+                    [
+                        username,
+                        league,
+                        team,
+                        country_name,
+                        region,
+                        role,
+                        agents,
+                        num_rounds,
+                        rating,
+                        acs,
+                        kd,
+                        kast,
+                        adr,
+                        kpr,
+                        apr,
+                        fkpr,
+                        fdpr,
+                        hs,
+                        cl,
+                    ]
+                )
 
 
 vct_international_vlr = requests.get(
