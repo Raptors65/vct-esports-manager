@@ -17,19 +17,27 @@ def lambda_handler(event, context):
 
     response = supabase.table("players").select("username, league, team, country, region, role, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").limit(10)
 
-    if "role" in param_dict:
-        response = response.ilike("role", json.loads(param_dict["role"]))
-    if "league" in param_dict:
-        response = response.ilike("league", f"%{param_dict['league']}%")
-    if "minRating" in param_dict:
+    if "role" in param_dict and param_dict["role"] != "all":
+        if ", " in param_dict['role']:
+            roles = param_dict['role'].split(', ')
+            response = response.in_("role", roles)
+        else:
+            response = response.ilike("role", f"%{param_dict['role']}%")
+    if "league" in param_dict and param_dict["league"] != "all":
+        if ", " in param_dict['league']:
+            leagues = param_dict['league'].split(', ')
+            response = response.in_("league", leagues)
+        else:
+            response = response.ilike("league", f"%{param_dict['league']}%")
+    if "minRating" in param_dict and param_dict["minRating"] != "none":
         response = response.gte("rating", param_dict["minRating"])
-    if "region" in param_dict:
+    if "region" in param_dict and param_dict["region"] != "all":
         if ", " in param_dict['region']:
             regions = param_dict['region'].split(', ')
             response = response.in_("region", regions)
         else:
             response = response.ilike("region", f"%{param_dict['region']}%")
-    if "sortBy" in param_dict:
+    if "sortBy" in param_dict and param_dict["sortBy"] != "none":
         response = response.order(param_dict["sortBy"], desc=True)
     
     response = response.execute()
@@ -86,29 +94,39 @@ def lambda_handler(event, context):
         
     return action_response
 
-# if __name__ == "__main__":
-#     res = lambda_handler({
-#         "actionGroup": None,
-#         "function": None,
-#         "parameters": [
-#           {
-#             "name": "league",
-#             "type": "string",
-#             "value": "VCT International"
-#           },
-#           {
-#               "name": "region",
-#               "type": "string",
-#               "value": "Americas, EMEA, Pacific"
-#           },
-#           {
-#             "name": "agents",
-#             "type": "array",
-#             "value": "[\"Phoenix\", \"Reyna\", \"Jett\", \"Raze\", \"Yoru\", \"Neon\", \"Iso\", \"Brimstone\", \"Viper\", \"Omen\", \"Astra\", \"Harbor\", \"Clove\", \"Sage\", \"Cypher\", \"Killjoy\", \"Chamber\", \"Deadlock\", \"Sova\", \"Breach\", \"Skye\", \"KAY/O\", \"Fade\", \"Gekko\"]"
-#           }
-#         ],
-#         "sessionAttributes": {},
-#         "promptSessionAttributes": {}
-#     }, None)
+if __name__ == "__main__":
+    res = lambda_handler({
+        "actionGroup": None,
+        "function": None,
+        "parameters": [
+          {
+            "name": "role",
+            "type": "string",
+            "value": "all"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "value": "VCT Challengers, VCT Game Changers"
+          },
+          {
+            "name": "minRating",
+            "type": "number",
+            "value": "1"
+          },
+          {
+            "name": "sortBy",
+            "type": "string",
+            "value": "rating"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "value": "all"
+          }
+        ],
+        "sessionAttributes": {},
+        "promptSessionAttributes": {}
+    }, None)
 
-#     print(res)
+    print(res)

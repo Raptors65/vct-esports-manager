@@ -37,20 +37,14 @@ def lambda_handler(event, context):
 
     param_dict = {param["name"]: param["value"] for param in parameters}
 
-    player1_agents = json.loads(param_dict["player1_agents"])
-    player2_agents = json.loads(param_dict["player2_agents"])
-    player3_agents = json.loads(param_dict["player3_agents"])
-    player4_agents = json.loads(param_dict["player4_agents"])
-    player5_agents = json.loads(param_dict["player5_agents"])
-
-    combined_pool = player1_agents + player2_agents + player3_agents + player4_agents + player5_agents
+    agents = json.loads(param_dict["agents"])
 
     text_response = ""
     for (map, required_agents) in must_haves.items():
         missing_agents = []
 
         for must_have in required_agents:
-            if must_have not in combined_pool:
+            if must_have not in agents:
                 missing_agents.append(must_have)
 
         if len(missing_agents) == 0:
