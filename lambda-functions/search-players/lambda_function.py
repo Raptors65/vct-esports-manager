@@ -30,9 +30,35 @@ def lambda_handler(event, context):
     
     response = response.execute()
 
+    text_response = ""
+
+    for player in response.data:
+        if len(player["agents"]) == 0:
+            agents = ""
+        elif len(player["agents"]) == 1:
+            agents = player["agents"][0]
+        elif len(player["agents"]) == 2:
+            agents = f"{player["agents"][0]} and {player["agents"][1]}"
+        else:
+            agents = ", ".join(player["agents"][:-1]) + f", and {player["agents"][-1]}"
+        
+        text_response += f"""{player["username"]} is a {player["league"]} player{f" for {player["team"]}" if player["team"].strip() else ""}{f" from {player["country"]}" if player["country"] != "N/A" else ""} who plays{" " + agents if agents else ""}:
+- {player["rounds"]} rounds played
+- {player["rating"]} rating
+- {player["acs"]} average combat score
+- {player["kd"]} K/D
+- {player["kast"]}% KAST
+- {player["adr"]} average damage per round
+- {player["kpr"]} kills per round
+- {player["adr"]} assists per round
+- {player["fkpr"]} first kills per round
+- {player["fdpr"]} first deaths per round
+- {player["hs"]}% headshots
+- {player["clutch_rate"]}% clutch success rate\n\n"""
+
     response_body = {
         'TEXT': {
-            'body': json.dumps(response.data)
+            'body': text_response
         }
     }
     
