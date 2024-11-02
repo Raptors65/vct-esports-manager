@@ -15,7 +15,7 @@ def lambda_handler(event, context):
 
     supabase = create_client(config["SUPABASE_URL"], config["SUPABASE_KEY"])
 
-    response = supabase.table("players").select("username, league, team, country, region, role, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").limit(10)
+    response = supabase.table("players").select("username, league, team, country, region, role, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").not_.is_("rating", "null").limit(5)
 
     if "role" in param_dict and param_dict["role"] != "all":
         if ", " in param_dict['role']:
@@ -54,7 +54,7 @@ def lambda_handler(event, context):
         else:
             agents = ", ".join(player["agents"][:-1]) + f", and {player["agents"][-1]}"
         
-        text_response += f"""{player["username"]} is a {player["league"]}{f" {player["role"].lower()}" if player["role"] != "N/A" else ""} player{f" for {player["team"]}" if player["team"].strip() else ""}{f" from {player["country"]}" if player["country"] != "N/A" else ""} who plays{" " + agents if agents else ""}:
+        text_response += f"""{player["username"]} is a {player["league"]}{f" {player["role"].lower()}" if player["role"] != "N/A" else ""} player{f" for {player["team"]}" if player["team"] and player["team"].strip() else ""}{f" from {player["country"]}" if player["country"] != "N/A" else ""} who plays{" " + agents if agents else ""}:
 - {player["rounds"]} rounds played
 - {player["rating"]} rating
 - {player["acs"]} average combat score
@@ -94,39 +94,24 @@ def lambda_handler(event, context):
         
     return action_response
 
-if __name__ == "__main__":
-    res = lambda_handler({
-        "actionGroup": None,
-        "function": None,
-        "parameters": [
-          {
-            "name": "role",
-            "type": "string",
-            "value": "all"
-          },
-          {
-            "name": "league",
-            "type": "string",
-            "value": "VCT Challengers, VCT Game Changers"
-          },
-          {
-            "name": "minRating",
-            "type": "number",
-            "value": "1"
-          },
-          {
-            "name": "sortBy",
-            "type": "string",
-            "value": "rating"
-          },
-          {
-            "name": "region",
-            "type": "string",
-            "value": "all"
-          }
-        ],
-        "sessionAttributes": {},
-        "promptSessionAttributes": {}
-    }, None)
+# if __name__ == "__main__":
+#     res = lambda_handler({
+#         "actionGroup": None,
+#         "function": None,
+#         "parameters": [
+#           {
+#             "name": "league",
+#             "type": "string",
+#             "value": "VCT Challengers, VCT Game Changers"
+#           },
+#           {
+#             "name": "sortBy",
+#             "type": "string",
+#             "value": "rating"
+#           }
+#         ],
+#         "sessionAttributes": {},
+#         "promptSessionAttributes": {}
+#     }, None)
 
-    print(res)
+#     print(res)
