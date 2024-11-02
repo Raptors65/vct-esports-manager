@@ -1,475 +1,475 @@
-username,league,team,country,region,agents,rounds,rating,acs,kd,kast,adr,kpr,apr,fkpr,fdpr,hs,clutch_rate
-florescent,VCT Game Changers,SR,Viet Nam,Pacific,"[""Raze"", ""Jett""]",1160,1.45,306.6,1.69,78,196.0,1.09,0.21,0.21,0.12,26,16
-Alexy,VCT Game Changers,XIP,Philippines,Pacific,"[""Raze"", ""Jett""]",563,1.38,256.8,1.73,83,167.7,0.94,0.29,0.14,0.10,26,11
-dorothy,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,"[""Jett"", ""Neon""]",335,1.35,278.6,1.46,78,182.6,0.99,0.19,0.21,0.11,24,24
-Miku,VCT Game Changers,NCL.GC,Colombia,Americas,"[""Yoru"", ""Reyna""]",607,1.34,306.6,1.41,75,188.4,1.04,0.25,0.30,0.18,20,16
-srN,VCT Game Changers,MIBR.GC,Brazil,Americas,"[""Jett"", ""Raze""]",870,1.34,295.0,1.43,75,193.3,1.03,0.22,0.27,0.18,23,25
-Vania,VCT Game Changers,G2.G,Türkiye,Pacific,"[""Omen"", ""Viper""]",1064,1.34,234.5,1.52,83,151.8,0.85,0.41,0.08,0.05,38,21
-shirazi,VCT Game Changers,XIP,Philippines,Pacific,"[""Killjoy"", ""Viper""]",563,1.32,231.6,1.59,82,156.9,0.82,0.34,0.09,0.05,20,19
-conir,VCT Game Changers,KRÜ.B,Chile,Americas,"[""Omen"", ""Gekko""]",750,1.30,225.9,1.50,82,146.2,0.84,0.41,0.08,0.06,28,29
-dods,VCT Game Changers,KRÜ.B,Brazil,Americas,"[""Fade"", ""Skye""]",750,1.29,278.6,1.46,77,180.1,1.01,0.21,0.23,0.14,32,30
-Nezha,VCT Game Changers,BBB,Mexico,Americas,"[""Breach"", ""Skye""]",427,1.29,264.1,1.39,78,165.9,0.96,0.38,0.12,0.10,36,15
-mmonch,VCT Game Changers,AKV.GC,Mexico,Americas,"[""Gekko"", ""Viper""]",979,1.28,231.8,1.43,78,151.3,0.85,0.26,0.09,0.05,32,21
-Kamiyu,VCT Game Changers,XIP,Philippines,Pacific,"[""Skye"", ""Omen""]",563,1.28,234.1,1.46,82,151.9,0.84,0.48,0.07,0.06,33,32
-enerii,VCT Game Changers,XIP,Indonesia,Pacific,"[""Reyna"", ""Skye""]",563,1.28,271.1,1.46,79,171.3,0.95,0.26,0.22,0.14,25,4
-tok1o,VCT Game Changers,9ZG.GC,Argentina,Americas,"[""Chamber"", ""Raze""]",804,1.27,267.2,1.35,74,174.0,0.95,0.18,0.19,0.15,26,21
-Jade,VCT Game Changers,,Germany,EMEA,"[""Omen"", ""KAY/O""]",838,1.25,233.6,1.21,77,150.1,0.82,0.50,0.09,0.04,31,17
-dodonut,VCT Game Changers,FLY.R,Thailand,Pacific,"[""Raze"", ""Jett""]",1854,1.24,261.2,1.33,76,169.0,0.91,0.23,0.20,0.15,24,17
-elfie,VCT Game Changers,MKS,Singapore,Pacific,"[""Phoenix"", ""Reyna""]",447,1.23,249.7,1.18,73,165.2,0.88,0.26,0.12,0.12,28,20
-Jelly,VCT Game Changers,MIBR.GC,Brazil,Americas,"[""KAY/O"", ""Fade""]",870,1.22,233.4,1.28,78,149.0,0.85,0.37,0.10,0.06,37,17
-Lied,VCT Game Changers,FSX,Peru,Americas,"[""Raze"", ""Omen""]",1055,1.22,268.3,1.28,73,175.7,0.94,0.23,0.21,0.14,25,19
-lexa,VCT Game Changers,TWIS.O,Sweden,EMEA,"[""Killjoy"", ""Cypher""]",317,1.21,235.8,1.33,74,161.5,0.84,0.20,0.09,0.07,30,11
-patitop,VCT Game Changers,,Chile,Americas,"[""Killjoy"", ""Cypher""]",443,1.21,242.4,1.27,72,165.9,0.88,0.16,0.12,0.11,33,17
-Liz,VCT Game Changers,NTH,Mexico,Americas,"[""Jett"", ""Raze""]",363,1.20,246.6,1.22,71,168.6,0.85,0.24,0.14,0.09,35,10
-aNNja,VCT Game Changers,NSR.I,Serbia,EMEA,"[""Jett"", ""Raze""]",516,1.20,258.3,1.23,70,171.1,0.91,0.19,0.18,0.16,35,17
-Emi,VCT Game Changers,BLW,Australia,Pacific,"[""Yoru"", ""Killjoy""]",311,1.18,227.9,1.18,72,150.2,0.81,0.29,0.15,0.09,23,24
-miNt,VCT Game Changers,FL.GC,"Korea, Republic of",Pacific,"[""Jett""]",686,1.18,266.2,1.28,71,169.4,0.95,0.15,0.24,0.17,33,20
-PowerPixele,VCT Game Changers,PP,United States,Americas,"[""Viper"", ""Breach""]",550,1.17,224.6,1.20,79,144.4,0.77,0.51,0.09,0.07,20,22
-eva,VCT Game Changers,FLCV,Türkiye,Pacific,"[""Omen"", ""Skye""]",1407,1.17,209.1,1.27,76,136.8,0.78,0.25,0.05,0.05,30,14
-UR,VCT Game Changers,ZETA.GC,Japan,Pacific,"[""Gekko"", ""Viper""]",628,1.17,220.9,1.17,73,147.3,0.78,0.36,0.08,0.07,25,25
-waved,VCT Game Changers,LOUD.GC,Brazil,Americas,"[""Raze"", ""Jett""]",586,1.17,262.7,1.20,73,174.3,0.89,0.20,0.22,0.15,28,17
-LunaFox,VCT Game Changers,KS,United States,Americas,"[""Skye"", ""Gekko""]",644,1.16,231.0,1.11,71,156.7,0.80,0.36,0.11,0.11,34,13
-Bizerra,VCT Game Changers,TL,Brazil,Americas,"[""Sage"", ""Killjoy""]",894,1.16,218.4,1.15,74,147.6,0.76,0.35,0.09,0.08,27,16
-mads,VCT Game Changers,MDK,United Kingdom,EMEA,"[""Raze""]",556,1.16,242.1,1.22,74,158.4,0.86,0.19,0.15,0.13,21,17
-Babytz,VCT Game Changers,FSS,Thailand,Pacific,"[""Phoenix"", ""Cypher""]",745,1.16,231.8,1.21,71,156.5,0.82,0.27,0.12,0.12,23,22
-Leen,VCT Game Changers,,Saudi Arabia,EMEA,"[""Neon"", ""Raze""]",431,1.16,263.3,1.25,71,170.0,0.92,0.19,0.20,0.15,31,21
-bstrdd,VCT Game Changers,TL,Chile,Americas,"[""Raze"", ""Jett""]",894,1.15,249.2,1.21,71,162.7,0.87,0.19,0.19,0.17,26,19
-Moco,VCT Game Changers,,Japan,Pacific,"[""Viper"", ""Omen""]",628,1.15,206.7,1.17,75,132.5,0.74,0.39,0.06,0.08,23,13
-Bless,VCT Game Changers,Erit,Singapore,Pacific,"[""Cypher"", ""Killjoy""]",256,1.15,201.7,1.18,68,133.5,0.75,0.17,0.09,0.05,37,23
-Kon,VCT Game Changers,SISU,Philippines,Pacific,"[""Sage"", ""Clove""]",598,1.14,227.6,1.15,74,156.8,0.79,0.28,0.11,0.08,35,8
-grahams,VCT Game Changers,SISU,Philippines,Pacific,"[""Gekko"", ""Skye""]",769,1.14,233.9,1.16,75,150.2,0.81,0.28,0.12,0.12,35,15
-L4CE,VCT Game Changers,UCI,United States,Americas,"[""Viper"", ""Sova""]",1335,1.14,215.1,1.20,78,139.9,0.76,0.34,0.08,0.05,32,13
-StarBound,VCT Game Changers,FLY.R,Canada,Americas,"[""Cypher"", ""Killjoy""]",1854,1.14,215.3,1.24,75,142.6,0.77,0.21,0.09,0.07,20,17
-Joliinaa,VCT Game Changers,GX.GC,Sweden,EMEA,"[""Omen"", ""Astra""]",1373,1.14,221.7,1.17,76,140.2,0.78,0.43,0.09,0.06,27,20
-Cendary,VCT Game Changers,NF,Thailand,Pacific,[],201,1.14,288.1,1.10,77,190.7,0.99,0.37,0.14,0.12,24,10
-unstable,VCT Game Changers,DSG,"Korea, Republic of",Pacific,"[""Skye"", ""Jett""]",828,1.14,228.9,1.27,76,143.1,0.84,0.24,0.16,0.10,32,18
-rezq,VCT Game Changers,G2.G,Türkiye,Pacific,"[""Raze"", ""Jett""]",1064,1.14,260.3,1.29,74,164.7,0.91,0.20,0.25,0.17,25,22
-antG,VCT Game Changers,LOUD.GC,Brazil,Americas,"[""Brimstone"", ""Viper""]",586,1.14,213.0,1.14,75,135.2,0.78,0.36,0.08,0.08,31,10
-Akita,VCT Game Changers,ZER.M,France,EMEA,"[""Reyna"", ""Phoenix""]",418,1.14,267.9,1.17,71,172.2,0.93,0.18,0.23,0.19,27,27
-bethany,VCT Game Changers,SL9,Australia,Pacific,"[""Omen"", ""Sage""]",209,1.14,209.0,1.14,77,134.1,0.76,0.41,0.08,0.07,22,17
-ness,VCT Game Changers,GX.GC,Türkiye,Pacific,"[""Killjoy"", ""Cypher""]",1334,1.13,203.0,1.13,77,137.0,0.71,0.33,0.07,0.05,26,14
-vaZ,VCT Game Changers,ROA,Chile,Americas,"[""Astra"", ""Viper""]",386,1.13,190.4,1.11,76,130.9,0.68,0.34,0.05,0.05,25,22
-fluxxy,VCT Game Changers,HERO,Sint Maarten (Dutch part),Americas,"[""Breach"", ""Cypher""]",1086,1.13,214.2,1.16,76,143.6,0.77,0.24,0.08,0.07,30,17
-Kohaibi,VCT Game Changers,SMG.GC,Singapore,Pacific,"[""Brimstone"", ""Sova""]",745,1.13,222.3,1.14,76,146.3,0.76,0.29,0.10,0.07,25,9
-Lil Bob,VCT Game Changers,MDK,Germany,EMEA,"[""Omen"", ""Brimstone""]",678,1.13,216.6,1.14,72,145.7,0.77,0.35,0.08,0.06,28,20
-Micro,VCT Game Changers,LL,Thailand,Pacific,"[""Omen"", ""Reyna""]",292,1.13,245.7,1.13,76,165.0,0.87,0.20,0.14,0.13,36,10
-romily,VCT Game Changers,KRÜ.B,Chile,Americas,"[""Cypher"", ""Killjoy""]",750,1.13,196.9,1.36,78,132.2,0.74,0.22,0.06,0.06,32,19
-none,VCT Game Changers,9ZG.GC,Brazil,Americas,"[""Jett"", ""Raze""]",1050,1.13,259.1,1.16,69,171.7,0.89,0.19,0.22,0.18,23,18
-Sadeem,VCT Game Changers,,Saudi Arabia,EMEA,"[""Viper"", ""Brimstone""]",300,1.13,221.7,1.09,73,140.7,0.82,0.33,0.09,0.07,25,16
-winter,VCT Game Changers,RZN,Switzerland,EMEA,"[""Reyna"", ""Fade""]",315,1.13,251.1,1.12,68,165.8,0.88,0.21,0.16,0.17,28,15
-soko,VCT Game Changers,PIP,Australia,Pacific,"[""Phoenix"", ""Raze""]",210,1.12,228.2,1.11,67,153.4,0.80,0.21,0.12,0.09,31,4
-mimi,VCT Game Changers,G2.G,Denmark,EMEA,"[""Breach"", ""Brimstone""]",1064,1.12,189.2,1.21,78,124.5,0.69,0.37,0.07,0.05,30,13
-Ivy,VCT Game Changers,AKV.GC,Colombia,Americas,"[""Skye"", ""Chamber""]",936,1.12,211.1,1.15,75,141.9,0.76,0.33,0.10,0.10,33,20
-micaela,VCT Game Changers,KRÜ.B,Argentina,Americas,"[""Raze"", ""Jett""]",750,1.12,195.4,1.22,78,130.4,0.72,0.35,0.09,0.09,34,20
-sarahcat,VCT Game Changers,SR,Canada,Americas,"[""Viper"", ""Sova""]",1260,1.12,224.8,1.18,77,144.6,0.77,0.33,0.11,0.11,25,22
-anesilia,VCT Game Changers,GMX.L,Russian Federation,EMEA,"[""Skye"", ""Fade""]",470,1.12,196.9,1.10,79,128.7,0.68,0.54,0.08,0.06,21,26
-Thuy,VCT Game Changers,ZER.M,France,EMEA,"[""Omen"", ""Viper""]",595,1.12,213.5,1.15,76,136.6,0.77,0.38,0.09,0.10,25,31
-jduh,VCT Game Changers,BBL.Q,Türkiye,Pacific,"[""Fade"", ""Astra""]",913,1.12,204.8,1.13,73,131.8,0.74,0.34,0.06,0.08,36,22
-amxlist,VCT Game Changers,,Brazil,Americas,"[""Breach"", ""KAY/O""]",443,1.12,197.3,1.04,76,129.8,0.68,0.55,0.07,0.07,34,12
-may,VCT Game Changers,GMX.L,France,EMEA,"[""Killjoy"", ""Raze""]",280,1.11,236.1,1.17,75,149.5,0.84,0.16,0.15,0.10,20,6
-meL,VCT Game Changers,SR,United States,Americas,"[""Omen"", ""Viper""]",1260,1.10,208.7,1.12,78,132.2,0.71,0.46,0.11,0.09,27,18
-LizA,VCT Game Changers,VLNT,N/A,N/A,"[""Killjoy"", ""Cypher""]",1227,1.10,232.3,1.16,69,151.7,0.84,0.14,0.16,0.14,36,17
-PIETY,VCT Game Changers,SISU,Philippines,Pacific,"[""Gekko"", ""Breach""]",737,1.10,213.1,1.12,72,142.1,0.74,0.27,0.09,0.05,30,15
-JuW,VCT Game Changers,AKV.GC,Guatemala,Americas,"[""Raze"", ""Jett""]",979,1.10,238.1,1.19,74,151.9,0.84,0.22,0.20,0.17,25,24
-Bobbiexo,VCT Game Changers,Athe,United Kingdom,EMEA,"[""Killjoy"", ""Cypher""]",390,1.10,210.8,1.14,70,141.6,0.77,0.15,0.07,0.07,26,23
-Anva,VCT Game Changers,fuVi,Türkiye,Pacific,"[""Viper"", ""Gekko""]",612,1.10,237.3,1.19,73,153.5,0.83,0.20,0.14,0.11,23,18
-LauGuz,VCT Game Changers,MVR,Colombia,Americas,"[""Raze"", ""Jett""]",519,1.10,234.0,1.14,72,156.5,0.84,0.15,0.16,0.13,31,13
-LiNLiN,VCT Game Changers,AKV.GC,Costa Rica,Americas,"[""Viper"", ""Omen""]",979,1.10,201.1,1.13,79,137.3,0.75,0.39,0.07,0.06,35,18
-JinNy,VCT Game Changers,ALG.GC,Thailand,Pacific,"[""Omen"", ""Astra""]",272,1.09,195.2,1.11,74,140.0,0.72,0.44,0.03,0.04,28,13
-DREAM,VCT Game Changers,VLNT,China,China,"[""Viper"", ""Omen""]",640,1.09,203.2,1.15,73,134.4,0.72,0.21,0.07,0.06,23,20
-onni,VCT Game Changers,CYG,Japan,Pacific,"[""Omen"", ""Jett""]",211,1.09,230.9,1.08,67,142.1,0.81,0.27,0.12,0.16,26,9
-misu,VCT Game Changers,RF.GC,United States,Americas,"[""Sova"", ""Fade""]",1167,1.09,206.4,1.07,74,136.5,0.72,0.35,0.06,0.07,25,18
-Noia,VCT Game Changers,SR,Denmark,EMEA,"[""Cypher"", ""Killjoy""]",1260,1.09,205.1,1.19,75,137.7,0.72,0.23,0.08,0.08,27,17
-biazik,VCT Game Changers,KRÜ.B,Brazil,Americas,"[""Breach"", ""Sova""]",678,1.09,194.7,1.10,79,133.5,0.68,0.37,0.10,0.07,24,16
-Buffala,VCT Game Changers,BBB,Dominican Republic,Americas,"[""Killjoy"", ""Yoru""]",311,1.09,230.6,1.08,67,153.5,0.80,0.26,0.17,0.14,27,20
-Naxa,VCT Game Changers,ZEN.GC,Chile,Americas,"[""Jett"", ""Raze""]",607,1.09,253.6,1.12,67,167.8,0.90,0.17,0.18,0.16,27,8
-madv,VCT Game Changers,FLCV,Saudi Arabia,EMEA,"[""Breach"", ""Astra""]",1407,1.08,204.5,1.08,75,132.5,0.72,0.39,0.08,0.07,37,18
-h6tedthemost,VCT Game Changers,ACE,N/A,N/A,"[""Omen"", ""Brimstone""]",221,1.08,211.7,1.11,76,130.3,0.76,0.41,0.08,0.09,28,14
-bae,VCT Game Changers,,Chile,Americas,"[""Fade"", ""Raze""]",455,1.08,206.7,1.01,72,142.0,0.72,0.26,0.08,0.09,28,13
-klaudia,VCT Game Changers,O1O,United States,Americas,"[""KAY/O""]",691,1.08,200.3,1.05,78,132.6,0.70,0.55,0.06,0.05,27,18
-Ayumiii,VCT Game Changers,RRQ.K,Malaysia,Pacific,"[""Deadlock"", ""Raze""]",745,1.08,229.1,1.11,72,150.5,0.78,0.27,0.16,0.15,22,18
-Glance,VCT Game Changers,KC.GC,Russian Federation,EMEA,"[""Omen"", ""Sova""]",1103,1.08,200.9,1.07,74,134.7,0.71,0.33,0.06,0.05,27,19
-Xaline,VCT Game Changers,Huge,France,EMEA,"[""Cypher"", ""Deadlock""]",319,1.08,213.8,1.10,71,145.0,0.75,0.24,0.08,0.10,23,10
-melya,VCT Game Changers,MYTH,Pakistan,Pacific,"[""Raze"", ""Jett""]",872,1.08,219.0,1.05,73,145.6,0.75,0.34,0.08,0.07,27,14
-edith,VCT Game Changers,YFP ,United States,Americas,"[""Jett"", ""Raze""]",264,1.07,228.7,1.14,64,149.5,0.81,0.14,0.16,0.20,27,15
-amy,VCT Game Changers,G2.G,Netherlands,EMEA,"[""Cypher"", ""Killjoy""]",1064,1.07,200.4,1.24,74,135.4,0.75,0.23,0.08,0.06,33,16
-ritsu,VCT Game Changers,Gala,Türkiye,Pacific,"[""Killjoy"", ""Cypher""]",394,1.07,214.2,1.10,68,148.0,0.77,0.13,0.12,0.09,32,10
-alexis,VCT Game Changers,SR,United States,Americas,"[""Skye"", ""Harbor""]",1260,1.07,175.1,1.06,78,111.1,0.63,0.53,0.06,0.05,31,20
-kv7m,VCT Game Changers,UNta,United States,Americas,"[""Omen"", ""Viper""]",284,1.07,189.7,1.07,75,125.6,0.67,0.50,0.04,0.06,28,20
-karie,VCT Game Changers,SNG,Fiji,Pacific,"[""Killjoy"", ""Cypher""]",1212,1.07,217.7,1.10,71,145.1,0.79,0.22,0.07,0.06,29,12
-moshieroo,VCT Game Changers,SK.N,Sweden,EMEA,"[""KAY/O"", ""Sova""]",343,1.07,210.0,1.01,75,136.2,0.73,0.43,0.08,0.08,29,16
-ja2,VCT Game Changers,Huge,France,EMEA,"[""Raze"", ""Neon""]",319,1.07,226.4,1.11,68,144.5,0.81,0.24,0.17,0.18,23,20
-Leyre,VCT Game Changers,TU.O,Spain,EMEA,"[""Astra"", ""Omen""]",914,1.06,209.7,1.07,73,138.6,0.75,0.37,0.09,0.08,37,16
-aluvily,VCT Game Changers,Sere,United States,Americas,"[""Brimstone"", ""Omen""]",576,1.06,213.6,1.06,71,144.1,0.78,0.21,0.10,0.09,32,10
-ary,VCT Game Changers,DAS,Chile,Americas,"[""Harbor"", ""Brimstone""]",204,1.06,236.3,1.07,69,147.7,0.80,0.32,0.12,0.08,21,14
-suzu,VCT Game Changers,FL.GC,Japan,Pacific,"[""Omen"", ""Raze""]",628,1.06,244.0,1.13,71,161.6,0.85,0.23,0.19,0.20,25,13
-Kazler,VCT Game Changers,RF.GC,Poland,EMEA,"[""Omen"", ""Sova""]",964,1.06,210.6,1.03,73,137.1,0.74,0.36,0.09,0.09,30,29
-Smurfette,VCT Game Changers,GX.GC,Türkiye,Pacific,"[""Jett"", ""Raze""]",1373,1.06,237.0,1.14,70,155.3,0.84,0.16,0.21,0.17,27,17
-Tweeya,VCT Game Changers,,Philippines,Pacific,"[""Clove"", ""Viper""]",320,1.06,223.9,1.05,73,147.3,0.79,0.29,0.05,0.10,17,9
-star,VCT Game Changers,FKS.S,Germany,EMEA,"[""Jett"", ""Raze""]",218,1.06,226.1,1.14,72,147.8,0.81,0.16,0.17,0.15,33,5
-nicky,VCT Game Changers,,Argentina,Americas,"[""Omen"", ""Viper""]",1050,1.06,202.2,1.02,73,131.2,0.71,0.36,0.08,0.06,31,17
-Mary,VCT Game Changers,FLCV,Bahrain,EMEA,"[""Jett"", ""Chamber""]",693,1.06,243.5,1.12,67,159.1,0.86,0.17,0.21,0.19,33,15
-Jazzyk1ns,VCT Game Changers,PP,Canada,Americas,"[""Raze"", ""Cypher""]",828,1.06,217.2,1.10,71,147.2,0.74,0.23,0.13,0.13,21,22
-PuriTy,VCT Game Changers,SK.N,Serbia,EMEA,"[""Fade"", ""Gekko""]",206,1.06,208.5,1.01,73,136.4,0.72,0.31,0.06,0.05,26,3
-mandy,VCT Game Changers,TBS,Brazil,Americas,"[""Jett"", ""Raze""]",819,1.05,227.7,1.04,69,150.5,0.81,0.33,0.13,0.13,34,16
-Alessia,VCT Game Changers,MDK,Spain,EMEA,"[""Jett"", ""Chamber""]",740,1.05,201.0,1.13,67,133.5,0.75,0.14,0.11,0.13,36,18
-332,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,"[""Killjoy"", ""Viper""]",335,1.05,208.9,1.11,72,138.3,0.73,0.26,0.08,0.08,27,6
-ellie,VCT Game Changers,aTTaX,Germany,EMEA,"[""Jett"", ""Raze""]",785,1.05,222.0,1.11,68,146.3,0.81,0.14,0.16,0.18,31,13
-Pinkalie,VCT Game Changers,ZER.M,France,EMEA,"[""Omen"", ""Skye""]",410,1.05,183.8,0.99,79,118.3,0.66,0.51,0.07,0.06,29,15
-GuterWoman,VCT Game Changers,SKC.Q,Colombia,Americas,"[""Cypher"", ""Killjoy""]",409,1.05,220.9,1.07,67,148.9,0.80,0.14,0.09,0.10,33,11
-m4ndzin,VCT Game Changers,LOUD.GC,Brazil,Americas,"[""Gekko"", ""Omen""]",586,1.05,205.1,1.00,74,135.0,0.71,0.44,0.09,0.05,22,15
-peace,VCT Game Changers,TWIS.O,Saudi Arabia,EMEA,"[""Omen"", ""Brimstone""]",313,1.05,214.3,1.06,73,138.7,0.74,0.35,0.09,0.11,32,10
-Lateu,VCT Game Changers,fuVi,Türkiye,Pacific,"[""Deadlock"", ""Omen""]",612,1.05,188.5,1.05,77,122.8,0.68,0.37,0.07,0.06,27,17
-lazylion,VCT Game Changers,DSG,Viet Nam,Pacific,"[""Cypher"", ""Killjoy""]",828,1.05,211.3,1.11,73,140.5,0.74,0.26,0.09,0.09,26,15
-Dano,VCT Game Changers,FSX,Mexico,Americas,"[""Skye"", ""Sova""]",1135,1.05,190.0,1.01,73,129.1,0.68,0.43,0.05,0.06,26,13
-Kaah,VCT Game Changers,TLV,Brazil,Americas,"[""Killjoy"", ""Viper""]",343,1.04,201.6,1.00,73,130.4,0.72,0.29,0.07,0.10,30,27
-kari,VCT Game Changers,,Uruguay,Americas,"[""Sova"", ""Fade""]",295,1.04,179.1,1.03,72,120.0,0.66,0.26,0.06,0.06,29,5
-HakuNa,VCT Game Changers,RIG.L,"Korea, Republic of",Pacific,"[""Killjoy"", ""Viper""]",359,1.04,192.6,1.00,67,130.7,0.67,0.18,0.06,0.06,25,21
-tiff,VCT Game Changers,PIP,Australia,Pacific,"[""Gekko"", ""Sova""]",210,1.04,217.0,1.03,72,144.5,0.74,0.34,0.11,0.11,25,8
-Petra,VCT Game Changers,G2.G,Netherlands,EMEA,"[""Fade"", ""Sova""]",1064,1.04,199.5,1.08,75,133.5,0.68,0.32,0.09,0.10,29,17
-ZIDIAN,VCT Game Changers,K7,Mexico,Americas,"[""Phoenix"", ""Sova""]",364,1.04,215.6,0.96,74,142.1,0.73,0.42,0.07,0.12,17,10
-terror,VCT Game Changers,oomf,Russian Federation,EMEA,"[""Chamber"", ""Sova""]",532,1.04,216.2,1.02,68,140.8,0.73,0.27,0.10,0.10,31,13
-Joojina,VCT Game Changers,TL,Brazil,Americas,"[""Omen"", ""Brimstone""]",894,1.04,196.2,0.99,75,128.2,0.68,0.42,0.07,0.07,24,11
-emluo,VCT Game Changers,PAW,United States,Americas,"[""Omen"", ""Killjoy""]",871,1.03,204.8,1.03,70,134.7,0.73,0.27,0.10,0.09,41,18
-Karra,VCT Game Changers,FLY.R,"Korea, Republic of",Pacific,"[""Sova"", ""Omen""]",510,1.03,191.3,1.00,74,127.9,0.67,0.36,0.08,0.07,34,18
-Miyori,VCT Game Changers,GX.GC,Türkiye,Pacific,"[""Sova"", ""Fade""]",1373,1.03,209.8,1.09,70,139.1,0.74,0.19,0.12,0.12,27,26
-susbake,VCT Game Changers,NB,Poland,EMEA,"[""Sage"", ""Deadlock""]",391,1.03,220.6,1.02,71,145.7,0.76,0.25,0.11,0.10,33,22
-Wens,VCT Game Changers,BBL.Q,Türkiye,Pacific,"[""Killjoy"", ""Cypher""]",747,1.03,204.7,1.07,70,136.0,0.73,0.19,0.11,0.09,37,19
-rainssa,VCT Game Changers,BACK,Türkiye,Pacific,"[""Omen"", ""Astra""]",343,1.03,208.8,1.06,73,141.3,0.73,0.28,0.10,0.11,29,21
-panini,VCT Game Changers,oomf,United States,Americas,"[""Clove"", ""Omen""]",288,1.03,213.1,1.02,76,136.3,0.74,0.31,0.10,0.08,28,11
-Cami,VCT Game Changers,FIRE,Colombia,Americas,"[""Brimstone"", ""Omen""]",899,1.03,194.6,0.97,74,128.5,0.71,0.37,0.09,0.07,32,15
-tokameite,VCT Game Changers,NSR.I,Russian Federation,EMEA,"[""Viper"", ""Sova""]",897,1.03,184.1,0.98,73,125.1,0.67,0.37,0.05,0.06,30,11
-devilasxa,VCT Game Changers,O1O,Spain,EMEA,"[""Breach"", ""KAY/O""]",831,1.03,200.0,0.98,72,132.1,0.69,0.37,0.08,0.08,34,15
-Princessicy,VCT Game Changers,Noct,United States,Americas,"[""Viper"", ""Omen""]",357,1.03,213.2,0.96,65,140.2,0.75,0.29,0.11,0.11,38,12
-romia,VCT Game Changers,FL.GC,Japan,Pacific,"[""Killjoy"", ""Cypher""]",686,1.03,200.4,1.07,69,132.9,0.73,0.19,0.08,0.07,28,17
-crona,VCT Game Changers,DAS,Brazil,Americas,"[""Viper"", ""Killjoy""]",407,1.03,204.2,1.00,67,133.1,0.73,0.28,0.08,0.06,29,12
-Ellie,VCT Game Changers,KS,"Venezuela, Bolivarian Republic of",Americas,"[""Viper"", ""Omen""]",526,1.03,205.6,1.02,71,132.1,0.72,0.30,0.08,0.07,28,16
-maryna,VCT Game Changers,:3,United States,Americas,"[""Brimstone"", ""Astra""]",295,1.03,199.1,1.01,75,130.3,0.73,0.34,0.06,0.07,31,16
-kitkatwc,VCT Game Changers,NE,Thailand,Pacific,"[""Killjoy"", ""Skye""]",493,1.03,214.5,1.05,73,137.2,0.73,0.35,0.10,0.07,24,12
-Jiex,VCT Game Changers,VLNT,Türkiye,Pacific,"[""Jett"", ""Raze""]",815,1.03,203.1,1.00,73,134.6,0.72,0.37,0.10,0.09,34,9
-blue,VCT Game Changers,PIP,Myanmar,Pacific,"[""Cypher"", ""Killjoy""]",210,1.02,195.3,1.05,71,135.1,0.70,0.24,0.07,0.13,33,25
-Asomy,VCT Game Changers,NCL.GC,Guatemala,Americas,"[""KAY/O"", ""Raze""]",709,1.02,203.3,0.98,70,131.8,0.71,0.34,0.08,0.10,25,14
-BIBI,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,"[""Sova"", ""Fade""]",335,1.02,203.4,1.00,75,136.2,0.70,0.35,0.08,0.11,23,22
-isa1,VCT Game Changers,isa ,Brazil,Americas,"[""Jett"", ""Raze""]",382,1.02,199.7,1.04,73,133.2,0.71,0.27,0.11,0.12,22,16
-Flossie,VCT Game Changers,FIRE,Argentina,Americas,"[""Cypher"", ""Killjoy""]",711,1.02,212.3,1.01,66,143.7,0.74,0.20,0.07,0.06,21,16
-h4ste,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,"[""Gekko"", ""Omen""]",335,1.02,201.9,1.02,76,129.1,0.71,0.39,0.12,0.10,28,35
-ponix,VCT Game Changers,9ZG.GC,Chile,Americas,"[""Sova"", ""Gekko""]",1050,1.02,184.9,0.98,74,123.6,0.66,0.32,0.05,0.06,28,15
-safiaa,VCT Game Changers,NSR.I,France,EMEA,"[""Cypher"", ""Omen""]",1030,1.02,193.7,1.00,70,133.8,0.70,0.24,0.08,0.07,31,15
-Karina,VCT Game Changers,FKS.S,Germany,EMEA,"[""Killjoy"", ""Viper""]",1124,1.02,206.2,1.05,68,138.3,0.75,0.16,0.09,0.07,34,12
-YamzzI,VCT Game Changers,FL.GC,"Korea, Republic of",Pacific,"[""KAY/O"", ""Skye""]",686,1.02,180.4,1.00,72,120.0,0.66,0.40,0.07,0.07,32,19
-avery,VCT Game Changers,FLOP,Sweden,EMEA,"[""Gekko"", ""Breach""]",852,1.01,184.7,0.96,72,123.0,0.65,0.37,0.06,0.07,24,18
-Nora,VCT Game Changers,MYTH,United States,Americas,"[""Gekko"", ""KAY/O""]",802,1.01,202.2,1.03,72,131.6,0.70,0.32,0.09,0.09,30,12
-pannyx,VCT Game Changers,BMG,Thailand,Pacific,"[""Fade"", ""Brimstone""]",257,1.01,191.8,0.97,71,128.0,0.69,0.29,0.05,0.05,31,12
-calsushi,VCT Game Changers,TDY,N/A,N/A,"[""Gekko"", ""Sova""]",431,1.01,203.6,0.92,66,138.3,0.71,0.23,0.07,0.06,31,16
-sonder,VCT Game Changers,FLY.R,China,China,"[""Skye"", ""KAY/O""]",1854,1.01,212.8,0.98,76,134.7,0.72,0.49,0.11,0.11,25,15
-maripo,VCT Game Changers,RIG.L,Japan,Pacific,"[""Sova"", ""Fade""]",359,1.01,190.2,0.96,70,130.0,0.68,0.32,0.06,0.09,19,25
-Raven,VCT Game Changers,TDY,Mexico,Americas,"[""Viper"", ""Omen""]",610,1.01,189.3,0.98,70,128.1,0.68,0.28,0.05,0.06,35,13
-Scarlett,VCT Game Changers,GMX.L,England,EMEA,"[""Jett"", ""Raze""]",446,1.01,213.6,1.04,74,137.9,0.74,0.25,0.15,0.12,22,9
-Addi,VCT Game Changers,FMG.GC,United Kingdom,EMEA,"[""Raze"", ""Neon""]",372,1.01,230.6,0.99,66,148.8,0.81,0.20,0.16,0.17,24,10
-Kreya,VCT Game Changers,NB,Germany,EMEA,"[""Yoru"", ""Cypher""]",295,1.01,181.1,0.96,73,114.3,0.65,0.38,0.07,0.04,22,11
-R4M,VCT Game Changers,,Japan,Pacific,"[""Omen"", ""Viper""]",359,1.01,197.6,0.94,75,128.6,0.69,0.39,0.07,0.09,23,17
-Sliicyy,VCT Game Changers,char,France,EMEA,"[""Raze"", ""Neon""]",363,1.01,206.3,0.97,72,130.5,0.71,0.45,0.11,0.12,27,24
-noze,VCT Game Changers,FMG.GC,Switzerland,EMEA,"[""Killjoy"", ""Cypher""]",224,1.01,187.8,0.95,63,130.4,0.71,0.11,0.09,0.09,30,16
-Nelo,VCT Game Changers,KC.GC,France,EMEA,"[""Killjoy"", ""Cypher""]",1103,1.01,215.0,1.02,73,139.4,0.75,0.29,0.11,0.08,33,15
-yumi,VCT Game Changers,PIP,Australia,Pacific,"[""Jett"", ""Breach""]",210,1.01,203.0,0.97,73,137.2,0.73,0.30,0.06,0.07,28,10
-evv,VCT Game Changers,FLY.R,Canada,Americas,"[""KAY/O"", ""Skye""]",848,1.01,208.3,1.00,74,135.3,0.73,0.33,0.07,0.07,33,16
-Annie,VCT Game Changers,O1O,Spain,EMEA,"[""Raze"", ""Neon""]",1026,1.01,224.1,1.06,68,146.5,0.80,0.14,0.22,0.20,33,17
-MyoH4nN,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,"[""Jett"", ""Raze""]",201,1.00,226.7,1.01,68,147.6,0.79,0.18,0.11,0.17,28,8
-Alluka,VCT Game Changers,RRQ.K,Philippines,Pacific,"[""Sage"", ""Breach""]",745,1.00,182.2,0.94,74,116.0,0.64,0.50,0.06,0.05,23,10
-Australis,VCT Game Changers,SaD ,United States,Americas,"[""KAY/O"", ""Fade""]",585,1.00,199.6,0.94,71,136.5,0.71,0.35,0.09,0.11,23,14
-mili,VCT Game Changers,RF.GC,Mexico,Americas,"[""Raze"", ""Jett""]",842,1.00,215.8,1.01,74,143.0,0.75,0.19,0.14,0.11,27,12
-mal,VCT Game Changers,,Saudi Arabia,EMEA,"[""Viper""]",213,1.00,192.6,0.98,69,128.3,0.69,0.21,0.04,0.06,22,13
-Battison,VCT Game Changers,SaD ,United States,Americas,"[""Gekko"", ""Sova""]",275,1.00,217.5,0.99,65,147.3,0.76,0.23,0.13,0.13,33,16
-Nidxvilco,VCT Game Changers,MDK,Spain,EMEA,"[""Viper"", ""Fade""]",740,1.00,187.9,1.02,71,122.9,0.68,0.32,0.06,0.09,29,19
-kyracujoh,VCT Game Changers,ZER.M,France,EMEA,"[""Raze""]",247,1.00,230.5,1.02,73,149.1,0.79,0.15,0.17,0.11,23,5
-schnellÆ,VCT Game Changers,BBL.Q,Türkiye,Pacific,"[""Jett"", ""Raze""]",587,1.00,214.1,1.03,71,140.7,0.75,0.24,0.13,0.13,31,17
-jademwah,VCT Game Changers,O1O,Sint Maarten (Dutch part),Americas,"[""Sova"", ""KAY/O""]",1113,1.00,213.7,1.00,69,137.5,0.74,0.33,0.12,0.14,21,18
-Muffyn,VCT Game Changers,ALG.GC,Thailand,Pacific,"[""Jett"", ""Raze""]",272,1.00,269.9,1.20,71,163.7,0.92,0.25,0.21,0.19,18,14
-Toki,VCT Game Changers,FLCV,Spain,EMEA,"[""Raze"", ""Chamber""]",1407,1.00,213.3,1.02,71,141.5,0.71,0.26,0.16,0.15,30,18
-Chloe,VCT Game Changers,FIRE,Costa Rica,Americas,"[""Viper"", ""KAY/O""]",852,0.99,193.1,0.96,72,127.0,0.71,0.33,0.10,0.09,25,15
-Bugsy,VCT Game Changers,,Philippines,Pacific,"[""Brimstone"", ""Viper""]",256,0.99,203.8,0.98,70,128.5,0.75,0.36,0.08,0.09,31,5
-Nami,VCT Game Changers,NSR.I,France,EMEA,"[""Omen"", ""Viper""]",1030,0.99,193.6,0.96,72,124.0,0.69,0.31,0.08,0.09,35,12
-Tara,VCT Game Changers,XIP,Indonesia,Pacific,"[""Omen"", ""Cypher""]",563,0.99,171.1,1.08,77,111.5,0.61,0.40,0.06,0.06,26,24
-ferret,VCT Game Changers,YIPP,Australia,Pacific,"[""Cypher"", ""Viper""]",372,0.99,206.5,0.97,72,131.7,0.72,0.36,0.11,0.10,30,5
-BySmall,VCT Game Changers,HOWL.M,Türkiye,Pacific,"[""Sova"", ""Gekko""]",272,0.99,191.6,0.92,71,129.0,0.67,0.25,0.03,0.04,32,12
-alkyia,VCT Game Changers,BBL.Q,Türkiye,Pacific,"[""Sova"", ""Fade""]",747,0.99,222.1,1.02,67,149.4,0.76,0.23,0.16,0.15,29,9
-didii,VCT Game Changers,MDK,Spain,EMEA,"[""Breach"", ""KAY/O""]",462,0.99,190.9,0.95,73,127.7,0.66,0.45,0.09,0.07,23,17
-izze,VCT Game Changers,NF,Thailand,Pacific,"[""Gekko"", ""Killjoy""]",324,0.99,198.2,1.00,70,135.7,0.67,0.22,0.09,0.05,20,22
-Angela,VCT Game Changers,NF,Thailand,Pacific,"[""Raze""]",324,0.99,234.6,1.04,68,154.0,0.78,0.23,0.19,0.23,17,32
-Mel,VCT Game Changers,MIBR.GC,Brazil,Americas,"[""Sova"", ""Viper""]",870,0.99,177.9,1.04,73,118.1,0.63,0.32,0.06,0.08,26,13
-Sephia,VCT Game Changers,TU.O,Türkiye,Pacific,"[""Skye"", ""KAY/O""]",654,0.99,206.7,0.98,71,133.4,0.72,0.32,0.11,0.08,39,7
-citrus,VCT Game Changers,KS,United States,Americas,"[""Skye"", ""Sova""]",295,0.99,196.3,0.99,69,128.7,0.68,0.30,0.05,0.08,21,16
-Noor,VCT Game Changers,,Saudi Arabia,EMEA,"[""Viper"", ""Omen""]",357,0.99,172.1,0.97,76,113.2,0.62,0.34,0.05,0.07,27,20
-tconda,VCT Game Changers,ZEN.GC,Chile,Americas,"[""Jett"", ""Raze""]",521,0.98,229.6,1.00,64,150.6,0.79,0.16,0.18,0.19,31,11
-Lyda,VCT Game Changers,HERO,Türkiye,Pacific,"[""Raze"", ""Jett""]",716,0.98,205.5,0.96,69,137.1,0.73,0.24,0.12,0.12,29,14
-cbui,VCT Game Changers,PP,Canada,Americas,"[""Brimstone"", ""Omen""]",828,0.98,182.9,0.97,73,120.0,0.64,0.41,0.07,0.06,22,15
-sayuri,VCT Game Changers,MIBR.GC,Brazil,Americas,"[""Viper"", ""Omen""]",870,0.98,174.1,0.93,77,112.1,0.59,0.54,0.06,0.06,19,12
-Marti,VCT Game Changers,NSR.I,Poland,EMEA,"[""KAY/O"", ""Phoenix""]",1030,0.98,217.6,0.97,68,143.6,0.74,0.23,0.15,0.18,26,10
-Andrehs,VCT Game Changers,AKV.GC,"Venezuela, Bolivarian Republic of",Americas,"[""Brimstone"", ""Fade""]",979,0.98,185.0,0.97,75,120.4,0.65,0.41,0.07,0.07,31,15
-theozy,VCT Game Changers,CAOS.GC,Uruguay,Americas,"[""Gekko"", ""Fade""]",372,0.98,209.7,0.99,69,143.9,0.74,0.27,0.11,0.15,31,17
-Rice,VCT Game Changers,RIMA,Singapore,Pacific,"[""Breach"", ""Skye""]",256,0.98,189.6,0.87,72,124.4,0.63,0.38,0.12,0.09,27,10
-daiki,VCT Game Changers,TL,Brazil,Americas,"[""Fade"", ""Skye""]",894,0.98,183.3,0.97,72,119.6,0.65,0.41,0.07,0.11,28,18
-Sampphire,VCT Game Changers,MLT.GC,Indonesia,Pacific,"[""Viper"", ""Sova""]",447,0.98,173.9,0.93,69,123.9,0.64,0.27,0.03,0.06,28,18
-roxi,VCT Game Changers,KC.GC,Germany,EMEA,"[""Sage"", ""Raze""]",531,0.98,193.6,0.94,67,131.0,0.66,0.23,0.11,0.08,30,17
-Mayzin,VCT Game Changers,K7,Peru,Americas,"[""Gekko"", ""Raze""]",439,0.98,200.9,0.91,74,135.9,0.69,0.37,0.08,0.09,22,12
-Natasha,VCT Game Changers,LOUD.GC,Brazil,Americas,"[""Killjoy"", ""Cypher""]",795,0.97,187.6,0.99,68,128.7,0.67,0.21,0.09,0.08,33,11
-xann,VCT Game Changers,KS,Iceland,EMEA,"[""Jett"", ""Raze""]",935,0.97,237.5,0.97,68,156.2,0.80,0.20,0.20,0.21,29,10
-Poly,VCT Game Changers,SISU,Thailand,Pacific,"[""Viper"", ""Iso""]",767,0.97,185.9,0.96,72,123.7,0.65,0.34,0.07,0.10,31,19
-Makchin,VCT Game Changers,BAS.K,Philippines,Pacific,"[""Reyna"", ""Raze""]",339,0.97,232.6,0.95,65,148.5,0.77,0.17,0.17,0.21,23,23
-Felce,VCT Game Changers,NE,Thailand,Pacific,"[""Sova"", ""Gekko""]",493,0.97,201.6,1.01,75,132.8,0.75,0.26,0.06,0.04,33,20
-sawamura,VCT Game Changers,SISU,Philippines,Pacific,"[""Raze"", ""Jett""]",769,0.97,207.9,1.02,70,134.4,0.74,0.18,0.15,0.13,38,18
-rosey,VCT Game Changers,NE,Thailand,Pacific,"[""Omen""]",324,0.97,180.7,0.95,75,116.9,0.64,0.40,0.09,0.08,22,16
-sereen,VCT Game Changers,,Saudi Arabia,EMEA,"[""Raze"", ""Omen""]",471,0.97,224.9,0.97,70,142.9,0.75,0.26,0.18,0.18,20,18
-elysian,VCT Game Changers,FKS.S,Germany,EMEA,"[""Raze"", ""Skye""]",910,0.97,183.8,0.91,71,123.2,0.65,0.31,0.04,0.05,29,13
-SereNa,VCT Game Changers,ZETA.GC,"Korea, Republic of",Pacific,"[""Killjoy""]",628,0.97,192.1,0.99,70,128.7,0.67,0.21,0.07,0.07,25,16
-proxima,VCT Game Changers,BBL.Q,Türkiye,Pacific,"[""Omen"", ""Viper""]",747,0.97,183.8,0.98,71,121.5,0.66,0.30,0.06,0.07,39,19
-Krysme,VCT Game Changers,LOUD.GC,Brazil,Americas,"[""Cypher"", ""Killjoy""]",587,0.97,195.1,0.97,64,134.8,0.72,0.12,0.08,0.08,30,9
-Natalcia,VCT Game Changers,INC.GC,Poland,EMEA,"[""Cypher"", ""Killjoy""]",260,0.97,203.7,0.91,69,142.3,0.71,0.21,0.08,0.08,36,13
-sarah,VCT Game Changers,GX.GC,United Kingdom,EMEA,"[""KAY/O"", ""Breach""]",1373,0.97,179.9,0.95,75,114.7,0.64,0.44,0.06,0.07,32,19
-Zodiac,VCT Game Changers,,Japan,Pacific,"[""KAY/O"", ""Chamber""]",359,0.97,224.0,0.93,69,152.1,0.75,0.22,0.18,0.16,21,19
-Slandy,VCT Game Changers,RF.GC,United States,Americas,"[""Breach"", ""Brimstone""]",746,0.96,174.6,0.90,72,115.9,0.61,0.35,0.06,0.07,24,11
-Felipa,VCT Game Changers,BBL.Q,Türkiye,Pacific,"[""KAY/O"", ""Breach""]",705,0.96,183.5,0.91,71,122.5,0.63,0.37,0.06,0.07,33,13
-xenia,VCT Game Changers,HOWL.M,Türkiye,Pacific,"[""Breach"", ""Sova""]",394,0.96,199.1,0.96,66,134.5,0.73,0.24,0.13,0.13,30,20
-Atisca,VCT Game Changers,K7,Mexico,Americas,"[""Jett"", ""Raze""]",543,0.96,208.3,0.99,66,138.3,0.76,0.14,0.16,0.13,24,8
-NAKSU,VCT Game Changers,RZN,Türkiye,Pacific,"[""Raze"", ""Jett""]",445,0.96,213.3,0.96,67,143.2,0.75,0.16,0.12,0.14,32,20
-alannah,VCT Game Changers,SL9,Australia,Pacific,"[""Sova"", ""Skye""]",372,0.96,196.2,0.95,68,129.6,0.69,0.28,0.08,0.08,27,10
-lenka,VCT Game Changers,ZER.M,France,EMEA,"[""Killjoy"", ""Cypher""]",595,0.96,190.7,0.97,69,130.5,0.69,0.18,0.10,0.07,31,14
-DelBisky,VCT Game Changers,BOBA,Philippines,Pacific,"[""Raze"", ""Jett""]",573,0.96,203.6,0.95,70,131.9,0.70,0.29,0.11,0.09,26,12
-Saikiwi,VCT Game Changers,UW.GC,Argentina,Americas,"[""Viper"", ""Omen""]",653,0.96,204.8,0.98,67,133.7,0.73,0.30,0.10,0.12,31,13
-lissa,VCT Game Changers,TBS,Brazil,Americas,"[""Viper"", ""Killjoy""]",657,0.96,205.2,0.99,66,138.6,0.74,0.22,0.09,0.13,36,12
-AlexaIsHot,VCT Game Changers,INF,Puerto Rico,Americas,"[""Viper"", ""Brimstone""]",806,0.96,207.4,0.96,72,132.0,0.71,0.31,0.10,0.11,21,12
-Raquinuki,VCT Game Changers,FSX,Costa Rica,Americas,"[""Cypher"", ""Chamber""]",1135,0.96,191.6,0.96,67,130.7,0.68,0.21,0.09,0.09,32,13
-adora,VCT Game Changers,HERO,Lithuania,EMEA,"[""Reyna"", ""Raze""]",996,0.96,212.0,0.97,65,142.7,0.74,0.17,0.16,0.18,29,9
-Valu,VCT Game Changers,DAS,Argentina,Americas,"[""Sova"", ""Fade""]",303,0.96,194.4,0.94,70,128.0,0.68,0.19,0.08,0.10,37,12
-Desi,VCT Game Changers,FKS.S,Germany,EMEA,"[""Phoenix"", ""Skye""]",494,0.96,202.7,0.92,72,130.5,0.71,0.37,0.09,0.09,28,23
-ikyoo,VCT Game Changers,FKS.S,Denmark,EMEA,"[""Jett"", ""Raze""]",964,0.96,205.7,0.97,68,135.7,0.73,0.22,0.15,0.15,26,10
-Morgan,VCT Game Changers,BBB,Guatemala,Americas,"[""Sova"", ""Skye""]",629,0.95,192.5,0.93,69,128.2,0.69,0.34,0.07,0.10,24,16
-k0rupt,VCT Game Changers,NA,United States,Americas,"[""Gekko"", ""Breach""]",508,0.95,192.7,0.92,70,133.3,0.67,0.28,0.08,0.10,29,16
-panday,VCT Game Changers,oomf,United States,Americas,"[""Cypher"", ""Killjoy""]",932,0.95,188.3,0.94,69,124.6,0.67,0.26,0.10,0.11,33,13
-korosu,VCT Game Changers,YFP ,"Korea, Republic of",Pacific,"[""Cypher"", ""Killjoy""]",215,0.95,201.6,0.97,68,140.7,0.73,0.14,0.11,0.13,33,31
-Kuripuuya,VCT Game Changers,KC.GC,Türkiye,Pacific,"[""Viper"", ""Omen""]",1103,0.95,180.7,0.88,71,117.9,0.61,0.35,0.09,0.08,27,18
-habibti,VCT Game Changers,MESO,Lebanon,EMEA,"[""Sova"", ""Chamber""]",739,0.95,209.3,0.94,65,139.0,0.74,0.23,0.09,0.12,31,11
-Golden,VCT Game Changers,,Saudi Arabia,EMEA,"[""Killjoy"", ""Viper""]",471,0.95,195.4,0.96,68,134.8,0.70,0.20,0.09,0.10,22,18
-shina,VCT Game Changers,4F,Philippines,Pacific,"[""Chamber"", ""Cypher""]",459,0.95,182.9,0.91,65,126.9,0.65,0.16,0.12,0.10,29,19
-k1m,VCT Game Changers,RTL,Viet Nam,Pacific,"[""Cypher"", ""Killjoy""]",227,0.95,203.9,0.86,66,134.9,0.68,0.26,0.10,0.09,23,5
-Newky,VCT Game Changers,Baby,Thailand,Pacific,"[""Yoru"", ""Reyna""]",274,0.94,208.2,0.97,68,136.6,0.74,0.21,0.12,0.16,33,21
-Kaha,VCT Game Changers,INC.GC,Poland,EMEA,"[""Astra"", ""Skye""]",222,0.94,173.5,0.79,71,118.6,0.59,0.37,0.09,0.09,24,12
-Nescargot,VCT Game Changers,Team,France,EMEA,"[""Cypher"", ""Killjoy""]",375,0.94,178.9,0.90,68,119.2,0.62,0.28,0.07,0.09,32,9
-Luj,VCT Game Changers,TWIS.O,Saudi Arabia,EMEA,"[""Cypher"", ""Viper""]",714,0.94,186.6,0.96,71,125.0,0.66,0.28,0.07,0.08,35,10
-jubs,VCT Game Changers,MIBR.GC,Brazil,Americas,"[""Cypher"", ""Killjoy""]",870,0.94,170.0,0.98,71,116.7,0.61,0.20,0.06,0.06,22,14
-Lynn,VCT Game Changers,FIRE,Chile,Americas,"[""Raze"", ""Yoru""]",662,0.94,219.6,0.97,65,149.3,0.76,0.19,0.19,0.17,23,16
-luiza,VCT Game Changers,BD.FEM,Brazil,Americas,"[""Viper"", ""Cypher""]",382,0.94,194.0,0.90,69,129.5,0.66,0.24,0.09,0.10,30,8
-nati,VCT Game Changers,LEV.GC,Chile,Americas,"[""Viper"", ""Sova""]",571,0.94,185.2,0.92,67,122.2,0.66,0.20,0.06,0.07,40,12
-SUPERKAT,VCT Game Changers,PAW,Canada,Americas,"[""Viper"", ""Sova""]",558,0.94,187.7,0.94,68,125.5,0.66,0.22,0.14,0.16,28,14
-Kyujinn,VCT Game Changers,BBB,United States,Americas,"[""Gekko"", ""Cypher""]",339,0.94,173.3,0.93,68,122.9,0.66,0.21,0.06,0.09,31,23
-Supiree,VCT Game Changers,MVR,Ecuador,Americas,"[""Raze"", ""Jett""]",469,0.94,209.1,0.91,70,144.1,0.70,0.22,0.15,0.18,18,14
-Koneko,VCT Game Changers,TOG ,United Kingdom,EMEA,"[""Skye"", ""Breach""]",295,0.93,215.1,0.97,68,140.5,0.75,0.24,0.18,0.22,22,11
-CaspeR,VCT Game Changers,PURR,India,Pacific,"[""Sova"", ""Omen""]",441,0.93,170.2,0.87,72,112.4,0.61,0.39,0.05,0.10,28,2
-mindle,VCT Game Changers,ODK,Brazil,Americas,"[""Sova"", ""Fade""]",382,0.93,181.8,0.89,72,119.3,0.66,0.34,0.08,0.07,29,12
-reshi,VCT Game Changers,FIRE,Argentina,Americas,"[""Sova"", ""Viper""]",711,0.93,191.2,0.87,67,127.7,0.66,0.31,0.08,0.08,25,12
-allie,VCT Game Changers,LEV.GC,Brazil,Americas,"[""KAY/O"", ""Viper""]",387,0.93,170.0,0.88,71,109.3,0.59,0.42,0.07,0.09,26,13
-majusia,VCT Game Changers,SK.N,Poland,EMEA,"[""Skye"", ""Viper""]",523,0.93,204.4,0.92,63,137.1,0.72,0.16,0.18,0.21,27,22
-Neli,VCT Game Changers,FKS.S,Sweden,EMEA,"[""Sova"", ""Gekko""]",494,0.93,183.6,0.89,73,121.6,0.63,0.31,0.08,0.08,22,12
-Len,VCT Game Changers,CYG,Japan,Pacific,"[""Sova"", ""Viper""]",211,0.93,179.2,0.85,60,120.6,0.61,0.36,0.10,0.09,22,13
-Rosa,VCT Game Changers,BLW,Australia,Pacific,"[""Jett"", ""Deadlock""]",311,0.93,212.9,0.96,68,135.0,0.74,0.24,0.14,0.14,17,17
-KXoma,VCT Game Changers,FKS.S,Czechia,EMEA,"[""Skye"", ""Breach""]",585,0.93,158.9,0.81,73,111.2,0.55,0.43,0.06,0.05,26,11
-6sonya,VCT Game Changers,O1O,Romania,EMEA,"[""Sova"", ""Fade""]",964,0.93,176.8,0.89,69,121.0,0.62,0.28,0.08,0.07,26,8
-ginger,VCT Game Changers,aTTaX,Germany,EMEA,"[""Cypher"", ""Killjoy""]",838,0.93,195.0,0.98,66,127.6,0.71,0.21,0.07,0.11,22,18
-miyara,VCT Game Changers,SaD ,United States,Americas,"[""Sova"", ""Breach""]",477,0.93,173.5,0.84,73,121.3,0.60,0.36,0.04,0.06,23,14
-winter,VCT Game Changers,,Brazil,Americas,"[""Phoenix"", ""Jett""]",235,0.92,213.8,0.93,63,147.5,0.76,0.19,0.16,0.19,27,4
-Angel,VCT Game Changers,MVR,Mexico,Americas,"[""Gekko"", ""Skye""]",724,0.92,152.6,0.82,73,102.8,0.55,0.39,0.04,0.05,33,10
-leeni,VCT Game Changers,FKS.S,Finland,EMEA,"[""Raze"", ""Jett""]",712,0.92,209.4,0.89,67,137.1,0.70,0.21,0.19,0.20,20,14
-taromie,VCT Game Changers,FKS.S,United Kingdom,EMEA,"[""Killjoy"", ""Omen""]",218,0.92,175.1,0.89,67,121.2,0.61,0.32,0.08,0.09,28,14
-Harmonee,VCT Game Changers,aTTaX,Germany,EMEA,"[""Sova"", ""Skye""]",838,0.92,179.1,0.88,68,122.7,0.62,0.26,0.07,0.10,26,23
-cuteasa,VCT Game Changers,RTL,N/A,N/A,"[""Reyna"", ""Deadlock""]",238,0.92,198.5,0.92,68,130.2,0.71,0.16,0.10,0.12,19,22
-GGonyaK,VCT Game Changers,CYG,"Korea, Republic of",Pacific,"[""Jett"", ""Raze""]",211,0.92,197.8,0.92,66,131.4,0.70,0.21,0.13,0.15,30,22
-Setrexz,VCT Game Changers,DAS,Brazil,Americas,"[""Jett"", ""Neon""]",243,0.92,216.9,0.91,65,145.7,0.76,0.16,0.19,0.16,29,13
-rise,VCT Game Changers,FLOP,Canada,Americas,"[""KAY/O"", ""Breach""]",733,0.92,167.1,0.83,72,109.6,0.58,0.44,0.06,0.07,25,13
-marceline,VCT Game Changers,SOL,"Korea, Republic of",Pacific,"[""Yoru"", ""Raze""]",968,0.92,217.1,0.96,66,142.2,0.76,0.15,0.16,0.18,28,16
-Syuz,VCT Game Changers,DAS,Chile,Americas,"[""Breach"", ""Skye""]",237,0.92,193.0,0.88,68,129.9,0.68,0.40,0.10,0.11,34,7
-Nury,VCT Game Changers,NCL.GC,Panama,Americas,"[""Skye"", ""Jett""]",231,0.92,189.3,0.85,64,128.7,0.67,0.33,0.08,0.07,26,8
-speedowka,VCT Game Changers,KC.GC,Poland,EMEA,"[""Skye"", ""Breach""]",589,0.92,170.9,0.88,75,112.3,0.62,0.42,0.05,0.07,34,13
-nugget,VCT Game Changers,GMX.L,Egypt,EMEA,"[""Cypher"", ""Viper""]",735,0.92,177.1,0.89,69,121.0,0.61,0.21,0.09,0.08,21,19
-Serena,VCT Game Changers,VLNT,France,EMEA,"[""Sova"", ""Gekko""]",451,0.92,176.4,0.87,70,118.6,0.62,0.30,0.06,0.05,34,18
-Shotoo,VCT Game Changers,BBB,Colombia,Americas,"[""Killjoy"", ""Omen""]",242,0.92,195.2,0.88,66,133.0,0.73,0.25,0.07,0.09,33,5
-BLOD,VCT Game Changers,,Bahrain,EMEA,"[""KAY/O"", ""Sage""]",300,0.92,200.8,0.89,71,127.8,0.70,0.29,0.09,0.11,32,15
-Elab0rate,VCT Game Changers,SOL,N/A,N/A,"[""Raze"", ""Killjoy""]",1158,0.92,193.5,0.93,66,127.7,0.68,0.18,0.10,0.09,23,13
-kray,VCT Game Changers,Soli,United States,Americas,"[""Omen"", ""Brimstone""]",301,0.92,196.0,0.90,72,126.8,0.67,0.33,0.07,0.07,25,15
-jen,VCT Game Changers,Merc,Lao People's Democratic Republic,Pacific,"[""Killjoy"", ""Cypher""]",207,0.92,186.3,0.90,71,125.1,0.66,0.22,0.09,0.07,27,18
-ArinJi,VCT Game Changers,,Thailand,Pacific,"[""Raze"", ""Gekko""]",292,0.92,208.8,0.89,69,143.8,0.71,0.22,0.13,0.13,21,24
-Aisling,VCT Game Changers,THE.K,Philippines,Pacific,"[""Killjoy"", ""Sova""]",282,0.91,175.4,0.88,72,113.0,0.61,0.37,0.04,0.09,19,24
-CarmenG7,VCT Game Changers,OKG,Mexico,Americas,"[""Viper"", ""Skye""]",338,0.91,168.6,0.87,66,113.4,0.59,0.21,0.08,0.09,27,4
-shyz,VCT Game Changers,TBS,Brazil,Americas,"[""Breach"", ""Viper""]",658,0.91,158.6,0.83,66,110.3,0.57,0.27,0.03,0.05,28,15
-Morita,VCT Game Changers,ROA,Chile,Americas,"[""Jett"", ""Phoenix""]",386,0.91,209.9,0.97,67,133.9,0.73,0.17,0.18,0.20,31,31
-matrix,VCT Game Changers,KC.GC,Belgium,EMEA,"[""Raze"", ""Jett""]",1103,0.91,215.6,0.95,68,142.0,0.75,0.15,0.18,0.19,35,18
-WIRE,VCT Game Changers,Awak,"Korea, Republic of",Pacific,"[""Yoru"", ""Raze""]",351,0.91,225.2,0.93,59,150.9,0.79,0.13,0.19,0.21,31,10
-Ninou,VCT Game Changers,VLNT,France,EMEA,"[""Breach"", ""KAY/O""]",1227,0.91,167.0,0.82,73,111.1,0.55,0.44,0.04,0.06,19,16
-panchill,VCT Game Changers,ZEN.GC,Chile,Americas,"[""Cypher"", ""Killjoy""]",498,0.91,176.3,0.87,66,120.5,0.63,0.18,0.06,0.07,29,15
-auri,VCT Game Changers,NB,Lithuania,EMEA,"[""Cypher"", ""Killjoy""]",663,0.91,181.2,0.84,66,128.2,0.64,0.21,0.10,0.09,26,8
-TeddyIsFluffy,VCT Game Changers,MESO,United States,Americas,"[""Reyna"", ""Brimstone""]",697,0.91,198.6,0.85,67,128.5,0.68,0.35,0.09,0.14,23,14
-Nana,VCT Game Changers,GnG.W,Egypt,EMEA,"[""Skye"", ""Chamber""]",319,0.91,198.9,0.95,68,131.9,0.73,0.23,0.09,0.10,33,10
-rayne,VCT Game Changers,YDZ.GC,Puerto Rico,Americas,"[""Raze"", ""Jett""]",420,0.91,204.4,0.87,60,137.5,0.72,0.12,0.15,0.18,28,8
-Dae,VCT Game Changers,DAS,Argentina,Americas,"[""Sova"", ""Fade""]",286,0.91,175.8,0.88,68,117.7,0.61,0.25,0.04,0.05,30,22
-array,VCT Game Changers,42C ,Canada,Americas,"[""Skye"", ""KAY/O""]",304,0.91,208.7,0.88,63,141.6,0.72,0.23,0.14,0.19,32,6
-Thykuza,VCT Game Changers,VLNT,United Kingdom,EMEA,"[""Jett""]",637,0.90,230.3,0.91,62,146.8,0.77,0.19,0.22,0.24,24,21
-ElyS,VCT Game Changers,RTL,China,China,"[""Raze""]",631,0.90,203.4,0.92,66,135.6,0.72,0.13,0.15,0.17,27,15
-Caucasus,VCT Game Changers,FL.GC,Japan,Pacific,"[""Sova"", ""Omen""]",277,0.90,167.6,0.85,73,109.5,0.58,0.37,0.06,0.06,24,6
-isaa,VCT Game Changers,TL,Brazil,Americas,"[""Breach"", ""Viper""]",894,0.90,177.0,0.88,70,119.4,0.62,0.30,0.07,0.07,29,13
-sabooboo,VCT Game Changers,RF.GC,Brazil,Americas,"[""KAY/O"", ""Skye""]",509,0.90,174.4,0.88,71,113.7,0.61,0.29,0.07,0.07,28,19
-babzzz,VCT Game Changers,ZIK,Brazil,Americas,"[""Killjoy"", ""Cypher""]",1050,0.90,194.2,0.95,65,128.9,0.69,0.17,0.09,0.14,23,10
-ataraxia,VCT Game Changers,LEV.GC,Chile,Americas,"[""Raze"", ""Cypher""]",571,0.90,178.5,0.85,65,121.5,0.62,0.18,0.08,0.06,32,11
-Looxie,VCT Game Changers,,France,EMEA,"[""Sova"", ""Viper""]",1030,0.90,181.4,0.86,69,119.8,0.64,0.28,0.09,0.10,37,19
-Envious,VCT Game Changers,MLT.GC,Singapore,Pacific,"[""Harbor"", ""Jett""]",447,0.90,204.2,0.85,66,134.8,0.68,0.30,0.11,0.17,25,16
-Gianta,VCT Game Changers,RFS,Türkiye,Pacific,"[""Omen"", ""Viper""]",240,0.90,162.3,0.80,71,111.0,0.58,0.40,0.08,0.05,31,19
-LiriLia,VCT Game Changers,KC.GC,France,EMEA,"[""Brimstone"", ""Omen""]",360,0.90,174.1,0.83,72,120.4,0.58,0.43,0.06,0.09,29,6
-Melsm,VCT Game Changers,FSX,Costa Rica,Americas,"[""Breach"", ""Skye""]",491,0.89,176.6,0.84,70,114.7,0.63,0.31,0.06,0.11,21,12
-Jia,VCT Game Changers,MVR,Ecuador,Americas,"[""Skye"", ""Sova""]",455,0.89,192.1,0.88,68,127.2,0.69,0.29,0.10,0.12,27,13
-May,VCT Game Changers,NCL.GC,Ecuador,Americas,"[""Cypher"", ""Omen""]",681,0.89,178.6,0.86,67,122.3,0.62,0.21,0.06,0.10,24,18
-theia,VCT Game Changers,FLY.R,United States,Americas,"[""Omen"", ""Harbor""]",1675,0.89,158.2,0.83,73,103.8,0.55,0.39,0.06,0.10,25,18
-Saraya,VCT Game Changers,BSX,Colombia,Americas,"[""Killjoy"", ""Skye""]",306,0.89,177.4,0.86,64,116.5,0.65,0.25,0.06,0.05,34,11
-jcey,VCT Game Changers,Psyc,N/A,N/A,"[""Jett"", ""Raze""]",261,0.89,195.1,0.86,63,127.1,0.69,0.30,0.13,0.13,26,16
-Vossu,VCT Game Changers,,Chile,Americas,"[""Sova"", ""Breach""]",649,0.89,164.8,0.81,69,111.7,0.58,0.38,0.04,0.08,31,12
-Sye,VCT Game Changers,GnG.W,Tunisia,EMEA,"[""Breach"", ""Clove""]",210,0.89,165.7,0.81,67,103.6,0.55,0.31,0.04,0.06,17,14
-Sandra,VCT Game Changers,GK,Egypt,EMEA,"[""Fade"", ""Raze""]",1407,0.89,180.8,0.90,67,120.7,0.65,0.22,0.08,0.09,36,9
-Tura,VCT Game Changers,FSX,Mexico,Americas,"[""Brimstone"", ""Viper""]",1135,0.88,174.0,0.82,70,112.0,0.60,0.40,0.06,0.10,25,10
-Mel,VCT Game Changers,VLNT,France,EMEA,"[""Omen"", ""Brimstone""]",1227,0.88,171.0,0.83,71,110.3,0.60,0.40,0.06,0.10,30,11
-kalita,VCT Game Changers,REV,Argentina,Americas,"[""KAY/O"", ""Killjoy""]",449,0.88,173.3,0.79,69,118.1,0.59,0.30,0.08,0.09,23,9
-QiQi,VCT Game Changers,Ay,Singapore,Pacific,"[""Killjoy""]",204,0.88,183.9,0.91,70,126.3,0.65,0.23,0.04,0.11,23,30
-AhMei,VCT Game Changers,LL,Thailand,Pacific,"[""Breach"", ""Skye""]",292,0.88,202.7,0.83,70,142.4,0.68,0.32,0.12,0.12,25,20
-Pinky D,VCT Game Changers,DGL,Argentina,Americas,"[""Raze"", ""Jett""]",253,0.88,205.8,0.91,66,137.5,0.73,0.18,0.15,0.17,30,38
-T4C,VCT Game Changers,Curs,United Kingdom,EMEA,"[""Breach"", ""KAY/O""]",266,0.88,163.9,0.79,68,106.3,0.57,0.47,0.05,0.08,20,21
-Dannn,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,"[""Killjoy"", ""Viper""]",201,0.88,171.8,0.83,68,117.3,0.61,0.19,0.09,0.09,19,11
-Loupiote,VCT Game Changers,ZER.M,France,EMEA,"[""Skye"", ""Sova""]",595,0.88,166.0,0.84,73,110.1,0.57,0.31,0.06,0.07,23,19
-Blossi,VCT Game Changers,aTTaX,Germany,EMEA,"[""Viper"", ""Omen""]",838,0.88,164.8,0.81,67,111.4,0.57,0.42,0.06,0.10,26,6
-HANE,VCT Game Changers,RIG.L,Japan,Pacific,"[""Astra"", ""Brimstone""]",276,0.88,185.3,0.83,72,123.0,0.65,0.40,0.09,0.09,32,12
-PingSong,VCT Game Changers,FL.GC,Japan,Pacific,"[""Sage"", ""Omen""]",520,0.88,178.6,0.81,70,116.4,0.60,0.34,0.08,0.07,28,13
-f1yk,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,"[""Viper"", ""Breach""]",261,0.88,160.3,0.88,70,112.2,0.58,0.21,0.05,0.05,34,16
-Vam,VCT Game Changers,TU.O,Saudi Arabia,EMEA,"[""Breach"", ""Raze""]",471,0.88,164.3,0.81,70,113.2,0.58,0.36,0.04,0.07,31,11
-Xalleby,VCT Game Changers,KS,Guatemala,Americas,"[""Raze"", ""Jett""]",475,0.87,194.3,0.87,64,131.4,0.66,0.20,0.14,0.18,24,20
-Mais,VCT Game Changers,PXU.GC,United Kingdom,EMEA,"[""Cypher"", ""Fade""]",248,0.87,169.5,0.80,67,114.1,0.60,0.18,0.06,0.06,29,13
-wanheda,VCT Game Changers,K7,Panama,Americas,"[""Skye"", ""KAY/O""]",343,0.87,172.2,0.79,68,113.8,0.61,0.41,0.08,0.09,22,17
-Nila,VCT Game Changers,YIPP,Australia,Pacific,"[""Killjoy""]",229,0.87,183.0,0.84,64,123.9,0.64,0.16,0.06,0.08,22,5
-shirah0sh1,VCT Game Changers,RG V,Philippines,Pacific,"[""Killjoy"", ""Reyna""]",304,0.87,189.7,0.84,62,125.7,0.68,0.19,0.08,0.13,31,18
-HomE,VCT Game Changers,REVO,Chile,Americas,"[""Chamber"", ""Gekko""]",243,0.87,184.6,0.82,67,118.9,0.62,0.37,0.07,0.11,27,11
-vii,VCT Game Changers,TBS,Brazil,Americas,"[""Jett"", ""Raze""]",866,0.87,202.3,0.88,65,133.8,0.71,0.15,0.15,0.17,29,11
-Luzia,VCT Game Changers,XL.GC,France,EMEA,"[""KAY/O"", ""Breach""]",304,0.87,175.5,0.77,62,115.3,0.62,0.37,0.07,0.11,31,24
-Poetite,VCT Game Changers,TWIS.O,Spain,EMEA,"[""Gekko"", ""Skye""]",431,0.87,173.8,0.82,72,113.1,0.59,0.38,0.09,0.12,26,27
-Asia,VCT Game Changers,UW.GC,Peru,Americas,"[""Cypher"", ""Killjoy""]",696,0.87,171.4,0.86,66,118.1,0.64,0.19,0.05,0.08,25,9
-Jelerak,VCT Game Changers,,Thailand,Pacific,"[""KAY/O"", ""Brimstone""]",230,0.87,175.7,0.81,70,108.2,0.59,0.38,0.10,0.13,17,20
-Curumi,VCT Game Changers,FL.GC,Japan,Pacific,"[""Viper"", ""Breach""]",686,0.87,180.4,0.82,70,114.8,0.61,0.46,0.08,0.09,19,14
-Adenina,VCT Game Changers,9ZG.GC,Uruguay,Americas,"[""KAY/O"", ""Fade""]",1050,0.87,155.0,0.82,70,100.4,0.55,0.37,0.04,0.07,21,17
-Gelatycat,VCT Game Changers,ZEN.GC,Chile,Americas,"[""Omen"", ""Astra""]",460,0.86,161.1,0.78,68,109.6,0.57,0.27,0.07,0.06,37,4
-lover,VCT Game Changers,,N/A,N/A,"[""Jett"", ""Yoru""]",307,0.86,185.3,0.75,59,128.9,0.63,0.18,0.08,0.15,22,15
-Mimo,VCT Game Changers,,Thailand,Pacific,"[""Killjoy""]",230,0.86,170.1,0.83,66,117.7,0.59,0.14,0.04,0.05,22,9
-Andrea,VCT Game Changers,NCL.GC,United States,Americas,"[""Viper"", ""Omen""]",339,0.86,162.7,0.80,71,107.0,0.57,0.41,0.03,0.06,25,9
-Salty,VCT Game Changers,Veni,Germany,EMEA,"[""Sova"", ""Astra""]",459,0.86,169.4,0.77,69,110.2,0.58,0.41,0.07,0.08,19,7
-E11ie,VCT Game Changers,Even,United States,Americas,"[""Raze"", ""Jett""]",430,0.86,191.0,0.84,65,127.7,0.66,0.21,0.13,0.17,24,16
-nanno,VCT Game Changers,Alli,N/A,N/A,"[""Cypher"", ""Viper""]",318,0.86,183.2,0.85,61,122.0,0.66,0.14,0.07,0.07,32,8
-odessaca,VCT Game Changers,Hype,United States,Americas,"[""Omen"", ""Harbor""]",356,0.86,178.5,0.77,68,117.2,0.61,0.35,0.07,0.10,23,13
-Kaz,VCT Game Changers,FXM,Mexico,Americas,"[""Gekko"", ""Cypher""]",204,0.86,164.3,0.79,68,107.9,0.56,0.28,0.04,0.09,21,5
-aurelia,VCT Game Changers,EV,Canada,Americas,"[""Viper"", ""Killjoy""]",332,0.86,164.0,0.73,61,119.1,0.57,0.21,0.03,0.06,22,11
-gabiTê,VCT Game Changers,TLV,Brazil,Americas,"[""Viper"", ""Omen""]",277,0.86,162.7,0.83,67,112.0,0.58,0.19,0.07,0.08,24,20
-Lynxz,VCT Game Changers,OKG,Panama,Americas,"[""Raze"", ""Jett""]",201,0.85,194.5,0.83,66,120.7,0.67,0.23,0.08,0.13,20,20
-aco,VCT Game Changers,,Japan,Pacific,"[""KAY/O"", ""Skye""]",628,0.85,162.0,0.77,73,103.9,0.56,0.48,0.07,0.11,19,13
-erin,VCT Game Changers,DGL,Brazil,Americas,"[""Jett"", ""Raze""]",418,0.85,194.6,0.79,65,129.8,0.63,0.28,0.12,0.15,25,5
-Calvrix,VCT Game Changers,GENG,United States,Americas,"[""Cypher"", ""Killjoy""]",266,0.85,179.6,0.85,64,122.2,0.64,0.16,0.08,0.12,23,10
-Fire,VCT Game Changers,KS,Colombia,Americas,"[""Cypher"", ""Killjoy""]",521,0.85,154.3,0.81,64,99.6,0.55,0.21,0.05,0.06,23,8
-Tub,VCT Game Changers,DVT,Malaysia,Pacific,"[""Gekko"", ""Omen""]",256,0.85,186.1,0.84,71,128.0,0.67,0.25,0.09,0.11,26,17
-Churra,VCT Game Changers,DGL,Chile,Americas,"[""Omen"", ""Viper""]",215,0.85,158.5,0.74,71,106.7,0.53,0.42,0.01,0.11,25,10
-Logic,VCT Game Changers,Kine,N/A,N/A,"[""Brimstone"", ""Omen""]",256,0.85,186.0,0.84,66,123.2,0.68,0.21,0.13,0.12,25,17
-cataLina,VCT Game Changers,ZER.M,France,EMEA,"[""Breach"", ""KAY/O""]",247,0.84,158.1,0.77,71,99.8,0.54,0.44,0.06,0.11,33,14
-Pyro,VCT Game Changers,INF,United States,Americas,"[""Viper"", ""Deadlock""]",291,0.84,171.1,0.75,69,113.2,0.58,0.35,0.09,0.14,22,17
-Aniemal,VCT Game Changers,Wild,United States,Americas,"[""Killjoy"", ""Viper""]",820,0.84,178.1,0.81,66,121.1,0.62,0.19,0.08,0.09,24,21
-Kachow,VCT Game Changers,DVT,Philippines,Pacific,"[""Omen"", ""Reyna""]",218,0.84,180.1,0.80,61,126.0,0.62,0.24,0.08,0.15,23,9
-Ivory,VCT Game Changers,RH,Philippines,Pacific,"[""Sova"", ""Chamber""]",446,0.84,197.4,0.86,70,129.3,0.68,0.22,0.18,0.20,22,16
-Iczy,VCT Game Changers,INC.GC,Poland,EMEA,"[""Viper"", ""Omen""]",260,0.84,162.1,0.75,62,106.5,0.57,0.31,0.03,0.07,27,10
-Kathrina,VCT Game Changers,,Philippines,Pacific,"[""Gekko"", ""Skye""]",304,0.84,178.7,0.75,67,114.1,0.59,0.33,0.04,0.11,15,15
-Luwucia,VCT Game Changers,NCL.GC,Guatemala,Americas,"[""Viper"", ""Skye""]",442,0.84,171.5,0.80,65,115.3,0.61,0.24,0.06,0.10,34,8
-Marpandyz,VCT Game Changers,,Thailand,Pacific,"[""Sova"", ""Skye""]",230,0.84,171.8,0.83,65,110.3,0.60,0.27,0.08,0.07,17,10
-Sylva,VCT Game Changers,XL.GC,United Kingdom,EMEA,"[""KAY/O"", ""Breach""]",436,0.84,183.6,0.83,68,116.2,0.64,0.28,0.10,0.10,26,11
-Arki,VCT Game Changers,AVN.GC,Philippines,Pacific,"[""Breach"", ""Cypher""]",304,0.84,170.8,0.76,64,114.3,0.60,0.34,0.05,0.10,19,10
-Zaki,VCT Game Changers,NTH,Mexico,Americas,"[""Sage"", ""Raze""]",431,0.83,179.5,0.80,68,117.4,0.62,0.26,0.11,0.13,27,23
-drea,VCT Game Changers,INF,N/A,N/A,"[""Yoru"", ""Raze""]",282,0.83,191.4,0.84,66,123.2,0.68,0.19,0.12,0.17,21,20
-aria,VCT Game Changers,TDY,N/A,N/A,"[""KAY/O"", ""Omen""]",431,0.83,175.2,0.75,67,116.0,0.59,0.33,0.09,0.13,28,6
-bunnybee,VCT Game Changers,oomf,United States,Americas,"[""Fade"", ""Jett""]",394,0.83,199.5,0.87,63,131.3,0.69,0.20,0.18,0.18,30,18
-svv,VCT Game Changers,Thri,United States,Americas,"[""Killjoy"", ""Cypher""]",248,0.83,166.2,0.70,62,115.7,0.54,0.32,0.05,0.04,29,13
-drn,VCT Game Changers,ZIK,Brazil,Americas,"[""Omen"", ""Astra""]",449,0.83,156.3,0.72,66,109.3,0.53,0.35,0.05,0.10,20,21
-Sekkya,VCT Game Changers,SaD ,United States,Americas,"[""Skye"", ""KAY/O""]",215,0.83,146.8,0.74,69,90.7,0.53,0.49,0.03,0.07,17,18
-inari,VCT Game Changers,GMX.L,Russian Federation,EMEA,"[""KAY/O"", ""Breach""]",237,0.83,161.6,0.72,69,111.8,0.54,0.45,0.05,0.08,27,10
-silv,VCT Game Changers,PIP,Macao,Pacific,"[""Omen"", ""Viper""]",210,0.83,175.5,0.80,69,123.8,0.60,0.32,0.11,0.13,32,7
-ketarys,VCT Game Changers,SaD ,Viet Nam,Pacific,"[""Killjoy"", ""Brimstone""]",378,0.83,164.2,0.77,66,114.4,0.59,0.31,0.04,0.07,32,8
-meleliita,VCT Game Changers,LEV.GC,Uruguay,Americas,"[""Deadlock"", ""Jett""]",571,0.83,194.2,0.84,67,128.0,0.66,0.23,0.15,0.18,30,8
-AbruX,VCT Game Changers,DGL,Argentina,Americas,"[""Omen"", ""Viper""]",226,0.83,176.1,0.80,64,115.6,0.62,0.27,0.08,0.07,39,18
-moni,VCT Game Changers,Awak,Mexico,Americas,"[""Viper"", ""Omen""]",204,0.82,159.6,0.76,62,102.9,0.57,0.21,0.06,0.10,37,10
-Saab,VCT Game Changers,NCL.GC,Mexico,Americas,"[""Jett"", ""Skye""]",307,0.82,182.6,0.84,62,121.3,0.65,0.17,0.10,0.09,26,9
-Jenniffer,VCT Game Changers,ERIN,Brazil,Americas,"[""Killjoy"", ""Viper""]",589,0.82,181.0,0.79,64,125.0,0.63,0.19,0.14,0.16,26,4
-Vefa,VCT Game Changers,,El Salvador,Americas,"[""Killjoy"", ""Cypher""]",788,0.82,167.9,0.78,68,113.1,0.60,0.23,0.07,0.09,28,16
-kikowo,VCT Game Changers,,Singapore,Pacific,"[""KAY/O"", ""Breach""]",361,0.82,178.1,0.78,63,121.1,0.61,0.32,0.08,0.14,23,10
-venus,VCT Game Changers,Moon,Jamaica,Americas,"[""Raze"", ""Neon""]",431,0.82,177.3,0.78,63,120.4,0.62,0.17,0.11,0.18,31,16
-blu,VCT Game Changers,LOUD.GC,Brazil,Americas,"[""Gekko"", ""Omen""]",725,0.82,149.3,0.77,69,100.3,0.53,0.35,0.06,0.10,28,16
-cait,VCT Game Changers,BRK.GC,Canada,Americas,"[""Viper"", ""Fade""]",266,0.82,158.4,0.70,73,105.7,0.53,0.37,0.07,0.04,18,5
-Pink,VCT Game Changers,,N/A,N/A,"[""Jett"", ""Raze""]",229,0.82,190.8,0.76,64,127.7,0.62,0.17,0.11,0.10,26,10
-riv,VCT Game Changers,RF.GC,Australia,Pacific,"[""Killjoy"", ""Cypher""]",790,0.82,165.4,0.79,68,108.7,0.57,0.27,0.09,0.11,26,11
-Samsi,VCT Game Changers,SK.N,Germany,EMEA,"[""Killjoy""]",388,0.81,173.1,0.81,62,118.5,0.61,0.18,0.05,0.09,20,7
-Nariel,VCT Game Changers,BLAZ,Türkiye,Pacific,"[""Jett""]",224,0.81,181.3,0.80,62,121.1,0.64,0.17,0.13,0.19,22,12
-sia,VCT Game Changers,SK.N,France,EMEA,"[""Viper"", ""Killjoy""]",340,0.81,166.4,0.80,64,113.8,0.59,0.23,0.08,0.10,36,18
-azul,VCT Game Changers,FIRE,Argentina,Americas,"[""Breach"", ""Fade""]",711,0.80,171.2,0.78,65,114.1,0.61,0.34,0.06,0.11,34,12
-jid,VCT Game Changers,RTL,United States,Americas,"[""Sage"", ""Omen""]",345,0.80,159.8,0.71,63,111.2,0.56,0.27,0.05,0.09,25,15
-Junki,VCT Game Changers,HTN,Mexico,Americas,"[""Viper"", ""Cypher""]",310,0.80,150.6,0.76,70,98.2,0.57,0.35,0.03,0.04,27,10
-frantastic,VCT Game Changers,FIRE,Chile,Americas,"[""Omen"", ""Viper""]",711,0.80,160.5,0.72,65,108.9,0.54,0.36,0.08,0.08,20,14
-69Shinobu,VCT Game Changers,GB,Philippines,Pacific,"[""Reyna"", ""Brimstone""]",234,0.79,160.0,0.64,66,106.4,0.53,0.41,0.04,0.03,20,10
-Speedy,VCT Game Changers,TBS,Brazil,Americas,"[""Viper"", ""Omen""]",866,0.79,152.7,0.71,64,104.7,0.52,0.31,0.05,0.08,29,18
-always,VCT Game Changers,RED,N/A,N/A,"[""Omen"", ""Brimstone""]",304,0.79,145.8,0.68,61,97.1,0.51,0.28,0.05,0.08,32,11
-Jas,VCT Game Changers,Neon,Canada,Americas,"[""Cypher"", ""Chamber""]",202,0.79,162.9,0.70,60,113.0,0.56,0.17,0.06,0.12,30,8
-mimi,VCT Game Changers,SK.N,Spain,EMEA,"[""Omen"", ""Sage""]",229,0.79,161.6,0.77,61,107.3,0.60,0.22,0.06,0.13,32,18
-awus,VCT Game Changers,DAS,Argentina,Americas,"[""Viper"", ""Omen""]",450,0.79,158.8,0.73,66,108.1,0.55,0.37,0.07,0.12,19,26
-plumitadewa,VCT Game Changers,DAS,Chile,Americas,"[""KAY/O"", ""Breach""]",325,0.79,173.7,0.75,69,119.7,0.59,0.36,0.10,0.12,27,3
-SAR,VCT Game Changers,,Saudi Arabia,EMEA,"[""Sage"", ""Skye""]",213,0.79,178.3,0.76,64,119.4,0.60,0.26,0.08,0.08,29,12
-julia,VCT Game Changers,mini,N/A,N/A,"[""Sova"", ""Skye""]",272,0.78,165.0,0.66,63,113.2,0.57,0.28,0.07,0.13,38,11
-natas,VCT Game Changers,FSX,United States,Americas,"[""Reyna"", ""Breach""]",672,0.78,145.5,0.74,65,98.1,0.53,0.27,0.06,0.12,27,15
-Biffy,VCT Game Changers,Sere,Mexico,Americas,"[""Skye"", ""Breach""]",219,0.78,164.0,0.76,63,106.6,0.59,0.17,0.15,0.17,37,5
-Cille,VCT Game Changers,HERO,Denmark,EMEA,"[""Omen"", ""Viper""]",944,0.78,161.7,0.73,63,109.1,0.57,0.32,0.05,0.09,30,12
-Zoue,VCT Game Changers,YDZ.GC,N/A,N/A,"[""Viper"", ""Killjoy""]",295,0.78,177.2,0.72,64,117.8,0.61,0.27,0.06,0.08,21,5
-zev,VCT Game Changers,Tena,N/A,N/A,"[""Raze"", ""Jett""]",321,0.78,188.6,0.78,56,127.8,0.67,0.12,0.12,0.21,33,16
-YuH4,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,"[""KAY/O"", ""Skye""]",201,0.78,169.5,0.72,65,113.2,0.57,0.33,0.04,0.07,24,14
-SUPERPHROG,VCT Game Changers,HERO,Sweden,EMEA,"[""Skye"", ""Gekko""]",574,0.77,156.3,0.76,61,109.9,0.58,0.16,0.07,0.11,34,13
-Phobia,VCT Game Changers,Real,Brazil,Americas,"[""Killjoy"", ""Viper""]",250,0.77,161.8,0.63,60,113.9,0.52,0.27,0.09,0.10,28,5
-Ixela,VCT Game Changers,HOWL.M,Türkiye,Pacific,"[""Omen"", ""KAY/O""]",394,0.77,160.7,0.71,67,105.1,0.54,0.36,0.08,0.10,28,10
-Celeste,VCT Game Changers,,United States,Americas,"[""Jett"", ""Raze""]",273,0.77,178.1,0.73,59,119.3,0.61,0.21,0.08,0.17,34,26
-zoe,VCT Game Changers,NCL.GC,Mexico,Americas,"[""Sova"", ""Jett""]",214,0.77,188.4,0.73,60,130.4,0.63,0.19,0.16,0.21,27,19
-syd89,VCT Game Changers,,Philippines,Pacific,"[""Omen"", ""Brimstone""]",304,0.77,144.9,0.66,65,98.5,0.50,0.38,0.04,0.06,30,15
-Hotaru,VCT Game Changers,SPX,Chile,Americas,"[""Skye"", ""KAY/O""]",233,0.77,167.1,0.72,62,107.7,0.59,0.29,0.08,0.10,24,18
-Yuna,VCT Game Changers,UW.GC,Chile,Americas,"[""Sage"", ""Fade""]",372,0.77,155.4,0.72,66,104.9,0.53,0.32,0.07,0.12,28,3
-Lendary,VCT Game Changers,TBS,Brazil,Americas,"[""Sova"", ""Omen""]",364,0.76,165.4,0.75,64,111.3,0.60,0.21,0.11,0.13,35,9
-andi,VCT Game Changers,NOS,Colombia,Americas,"[""Jett"", ""Raze""]",214,0.76,178.1,0.77,63,126.4,0.63,0.13,0.10,0.14,31,4
-ira,VCT Game Changers,,N/A,N/A,"[""Viper"", ""Breach""]",269,0.76,172.1,0.68,57,112.6,0.58,0.22,0.10,0.14,26,7
-Huga,VCT Game Changers,42C ,N/A,N/A,"[""Fade"", ""Viper""]",233,0.75,166.5,0.65,58,114.9,0.55,0.30,0.04,0.11,22,12
-Bells,VCT Game Changers,RTL,N/A,N/A,"[""Sova"", ""Viper""]",222,0.75,171.9,0.63,55,115.6,0.54,0.23,0.10,0.13,25,6
-dati,VCT Game Changers,FUT.Fe,Türkiye,Pacific,"[""Gekko"", ""Sova""]",224,0.75,151.2,0.69,65,107.1,0.50,0.27,0.07,0.07,32,13
-sofia,VCT Game Changers,PXU.GC,Germany,EMEA,"[""Killjoy"", ""Cypher""]",336,0.75,151.5,0.68,62,95.1,0.53,0.29,0.06,0.11,31,20
-miwa,VCT Game Changers,ZEN.GC,Chile,Americas,"[""KAY/O"", ""Breach""]",375,0.75,161.3,0.67,65,111.8,0.54,0.37,0.04,0.11,26,10
-Mcfly,VCT Game Changers,ZEN.GC,Chile,Americas,"[""Sova"", ""Fade""]",414,0.75,151.8,0.70,63,107.4,0.53,0.28,0.04,0.10,27,13
-angelka,VCT Game Changers,FOG ,North Macedonia,EMEA,"[""Omen"", ""Jett""]",273,0.75,161.9,0.68,63,107.6,0.56,0.29,0.06,0.10,18,24
-Julie,VCT Game Changers,TOG ,Israel,EMEA,"[""Sova"", ""Skye""]",423,0.75,149.8,0.63,64,106.1,0.49,0.33,0.03,0.10,24,14
-Nirvana,VCT Game Changers,,Saudi Arabia,EMEA,"[""Jett"", ""Raze""]",300,0.74,186.2,0.77,60,129.2,0.63,0.21,0.16,0.21,22,16
-Alyssa,VCT Game Changers,NCL.GC,Colombia,Americas,"[""Sova"", ""Gekko""]",286,0.74,152.5,0.65,61,109.7,0.51,0.26,0.03,0.10,29,17
-memi,VCT Game Changers,KS,Dominican Republic,Americas,"[""Brimstone"", ""Killjoy""]",274,0.74,144.2,0.72,66,97.0,0.53,0.31,0.04,0.07,28,8
-B1nby0,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,"[""Omen"", ""Astra""]",201,0.73,164.6,0.71,64,105.4,0.56,0.35,0.05,0.08,22,
-Yashi,VCT Game Changers,BLAZ,Belgium,EMEA,"[""Omen"", ""Viper""]",224,0.73,169.7,0.68,64,113.3,0.57,0.28,0.10,0.11,23,5
-Alora,VCT Game Changers,,Germany,EMEA,"[""Breach"", ""KAY/O""]",204,0.72,145.9,0.64,56,96.8,0.50,0.23,0.07,0.09,28,6
-toffywoffy,VCT Game Changers,DVT,Singapore,Pacific,"[""Breach"", ""Sova""]",218,0.71,156.6,0.61,61,106.1,0.50,0.30,0.09,0.08,20,7
-MochiMei,VCT Game Changers,RTL,Canada,Americas,"[""Omen""]",227,0.71,133.6,0.59,65,85.7,0.46,0.33,0.02,0.06,18,
-ripmeL,VCT Game Changers,DAS,Brazil,Americas,"[""Omen""]",234,0.70,151.0,0.66,64,104.2,0.52,0.32,0.02,0.08,23,10
-svnny,VCT Game Changers,Ukiy,United States,Americas,"[""Breach"", ""KAY/O""]",252,0.70,141.3,0.57,57,96.0,0.46,0.34,0.03,0.10,32,2
-oranges,VCT Game Changers,Red ,N/A,N/A,"[""Cypher"", ""Killjoy""]",431,0.70,147.3,0.67,64,99.8,0.54,0.22,0.06,0.13,23,4
-speq,VCT Game Changers,Bumb,"Korea, Republic of",Pacific,"[""Fade"", ""KAY/O""]",303,0.70,147.6,0.62,63,96.6,0.51,0.34,0.05,0.11,24,12
-unfeel,VCT Game Changers,Tena,N/A,N/A,"[""Breach"", ""Gekko""]",304,0.68,123.2,0.55,63,83.4,0.42,0.28,0.05,0.07,27,10
-misty,VCT Game Changers,BCGF,Brazil,Americas,"[""Viper"", ""KAY/O""]",200,0.68,161.5,0.59,56,103.5,0.53,0.28,0.06,0.11,27,4
-bubu,VCT Game Changers,DRK,France,EMEA,"[""Yoru"", ""Omen""]",210,0.68,163.5,0.67,55,112.8,0.57,0.14,0.08,0.11,37,14
-LechugaFresh,VCT Game Changers,RGS,Mexico,Americas,"[""Cypher"", ""Killjoy""]",273,0.68,144.5,0.64,60,98.9,0.49,0.21,0.07,0.09,21,17
-LaPapaLuna,VCT Game Changers,K7,Costa Rica,Americas,"[""Astra"", ""Sova""]",301,0.67,147.9,0.60,64,96.3,0.48,0.22,0.04,0.07,20,3
-Jazzy,VCT Game Changers,ROA,Argentina,Americas,"[""Viper"", ""Brimstone""]",212,0.66,124.0,0.60,54,86.7,0.45,0.17,0.01,0.08,35,13
-Miyu,VCT Game Changers,FKS.S,Germany,EMEA,"[""Viper""]",342,0.63,132.7,0.54,63,89.2,0.44,0.35,0.03,0.06,24,12
-Gia,VCT Game Changers,EV,United States,Americas,"[""Sova"", ""Skye""]",411,0.62,130.7,0.50,61,89.4,0.42,0.30,0.04,0.08,23,5
-Hyungwonho,VCT Game Changers,ERM,Lao People's Democratic Republic,Pacific,"[""Viper"", ""Brimstone""]",241,0.58,116.1,0.46,54,77.3,0.38,0.31,0.02,0.08,17,10
-Pigruto,VCT Game Changers,CBD,Singapore,Pacific,"[""Sova"", ""Killjoy""]",243,0.53,113.7,0.48,53,81.9,0.37,0.14,0.04,0.13,21,8
+username,league,team,country,region,role,agents,rounds,rating,acs,kd,kast,adr,kpr,apr,fkpr,fdpr,hs,clutch_rate
+florescent,VCT Game Changers,SR,Viet Nam,Pacific,Duelist,"[""Raze"", ""Jett""]",1160,1.45,306.6,1.69,78,196.0,1.09,0.21,0.21,0.12,26,16
+Alexy,VCT Game Changers,XIP,Philippines,Pacific,Duelist,"[""Raze"", ""Jett""]",563,1.38,256.8,1.73,83,167.7,0.94,0.29,0.14,0.10,26,11
+dorothy,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,Duelist,"[""Jett"", ""Neon""]",335,1.35,278.6,1.46,78,182.6,0.99,0.19,0.21,0.11,24,24
+Miku,VCT Game Changers,NCL.GC,Colombia,Americas,Duelist,"[""Yoru"", ""Reyna""]",607,1.34,306.6,1.41,75,188.4,1.04,0.25,0.30,0.18,20,16
+srN,VCT Game Changers,MIBR.GC,Brazil,Americas,Duelist,"[""Jett"", ""Raze""]",870,1.34,295.0,1.43,75,193.3,1.03,0.22,0.27,0.18,23,25
+Vania,VCT Game Changers,G2.G,Türkiye,Pacific,Controller,"[""Omen"", ""Viper""]",1064,1.34,234.5,1.52,83,151.8,0.85,0.41,0.08,0.05,38,21
+shirazi,VCT Game Changers,XIP,Philippines,Pacific,Flex,"[""Killjoy"", ""Viper""]",563,1.32,231.6,1.59,82,156.9,0.82,0.34,0.09,0.05,20,19
+conir,VCT Game Changers,KRÜ.B,Chile,Americas,Flex,"[""Omen"", ""Gekko""]",750,1.30,225.9,1.50,82,146.2,0.84,0.41,0.08,0.06,28,29
+dods,VCT Game Changers,KRÜ.B,Brazil,Americas,Initiator,"[""Fade"", ""Skye""]",750,1.29,278.6,1.46,77,180.1,1.01,0.21,0.23,0.14,32,30
+Nezha,VCT Game Changers,BBB,Mexico,Americas,Initiator,"[""Breach"", ""Skye""]",427,1.29,264.1,1.39,78,165.9,0.96,0.38,0.12,0.10,36,15
+mmonch,VCT Game Changers,AKV.GC,Mexico,Americas,Flex,"[""Gekko"", ""Viper""]",979,1.28,231.8,1.43,78,151.3,0.85,0.26,0.09,0.05,32,21
+Kamiyu,VCT Game Changers,XIP,Philippines,Pacific,Flex,"[""Skye"", ""Omen""]",563,1.28,234.1,1.46,82,151.9,0.84,0.48,0.07,0.06,33,32
+enerii,VCT Game Changers,XIP,Indonesia,Pacific,Flex,"[""Reyna"", ""Skye""]",563,1.28,271.1,1.46,79,171.3,0.95,0.26,0.22,0.14,25,4
+tok1o,VCT Game Changers,9ZG.GC,Argentina,Americas,Flex,"[""Chamber"", ""Raze""]",804,1.27,267.2,1.35,74,174.0,0.95,0.18,0.19,0.15,26,21
+Jade,VCT Game Changers,,Germany,EMEA,Flex,"[""Omen"", ""KAY/O""]",838,1.25,233.6,1.21,77,150.1,0.82,0.50,0.09,0.04,31,17
+dodonut,VCT Game Changers,FLY.R,Thailand,Pacific,Duelist,"[""Raze"", ""Jett""]",1854,1.24,261.2,1.33,76,169.0,0.91,0.23,0.20,0.15,24,17
+elfie,VCT Game Changers,MKS,Singapore,Pacific,Duelist,"[""Phoenix"", ""Reyna""]",447,1.23,249.7,1.18,73,165.2,0.88,0.26,0.12,0.12,28,20
+Jelly,VCT Game Changers,MIBR.GC,Brazil,Americas,Initiator,"[""KAY/O"", ""Fade""]",870,1.22,233.4,1.28,78,149.0,0.85,0.37,0.10,0.06,37,17
+Lied,VCT Game Changers,FSX,Peru,Americas,Flex,"[""Raze"", ""Omen""]",1055,1.22,268.3,1.28,73,175.7,0.94,0.23,0.21,0.14,25,19
+lexa,VCT Game Changers,TWIS.O,Sweden,EMEA,Sentinel,"[""Killjoy"", ""Cypher""]",317,1.21,235.8,1.33,74,161.5,0.84,0.20,0.09,0.07,30,11
+patitop,VCT Game Changers,,Chile,Americas,Sentinel,"[""Killjoy"", ""Cypher""]",443,1.21,242.4,1.27,72,165.9,0.88,0.16,0.12,0.11,33,17
+Liz,VCT Game Changers,NTH,Mexico,Americas,Duelist,"[""Jett"", ""Raze""]",363,1.20,246.6,1.22,71,168.6,0.85,0.24,0.14,0.09,35,10
+aNNja,VCT Game Changers,NSR.I,Serbia,EMEA,Duelist,"[""Jett"", ""Raze""]",516,1.20,258.3,1.23,70,171.1,0.91,0.19,0.18,0.16,35,17
+Emi,VCT Game Changers,BLW,Australia,Pacific,Flex,"[""Yoru"", ""Killjoy""]",311,1.18,227.9,1.18,72,150.2,0.81,0.29,0.15,0.09,23,24
+miNt,VCT Game Changers,FL.GC,"Korea, Republic of",Pacific,Duelist,"[""Jett""]",686,1.18,266.2,1.28,71,169.4,0.95,0.15,0.24,0.17,33,20
+PowerPixele,VCT Game Changers,PP,United States,Americas,Flex,"[""Viper"", ""Breach""]",550,1.17,224.6,1.20,79,144.4,0.77,0.51,0.09,0.07,20,22
+eva,VCT Game Changers,FLCV,Türkiye,Pacific,Flex,"[""Omen"", ""Skye""]",1407,1.17,209.1,1.27,76,136.8,0.78,0.25,0.05,0.05,30,14
+UR,VCT Game Changers,ZETA.GC,Japan,Pacific,Flex,"[""Gekko"", ""Viper""]",628,1.17,220.9,1.17,73,147.3,0.78,0.36,0.08,0.07,25,25
+waved,VCT Game Changers,LOUD.GC,Brazil,Americas,Duelist,"[""Raze"", ""Jett""]",586,1.17,262.7,1.20,73,174.3,0.89,0.20,0.22,0.15,28,17
+LunaFox,VCT Game Changers,KS,United States,Americas,Initiator,"[""Skye"", ""Gekko""]",644,1.16,231.0,1.11,71,156.7,0.80,0.36,0.11,0.11,34,13
+Bizerra,VCT Game Changers,TL,Brazil,Americas,Sentinel,"[""Sage"", ""Killjoy""]",894,1.16,218.4,1.15,74,147.6,0.76,0.35,0.09,0.08,27,16
+mads,VCT Game Changers,MDK,United Kingdom,EMEA,Duelist,"[""Raze""]",556,1.16,242.1,1.22,74,158.4,0.86,0.19,0.15,0.13,21,17
+Babytz,VCT Game Changers,FSS,Thailand,Pacific,Flex,"[""Phoenix"", ""Cypher""]",745,1.16,231.8,1.21,71,156.5,0.82,0.27,0.12,0.12,23,22
+Leen,VCT Game Changers,,Saudi Arabia,EMEA,Duelist,"[""Neon"", ""Raze""]",431,1.16,263.3,1.25,71,170.0,0.92,0.19,0.20,0.15,31,21
+bstrdd,VCT Game Changers,TL,Chile,Americas,Duelist,"[""Raze"", ""Jett""]",894,1.15,249.2,1.21,71,162.7,0.87,0.19,0.19,0.17,26,19
+Moco,VCT Game Changers,,Japan,Pacific,Controller,"[""Viper"", ""Omen""]",628,1.15,206.7,1.17,75,132.5,0.74,0.39,0.06,0.08,23,13
+Bless,VCT Game Changers,Erit,Singapore,Pacific,Sentinel,"[""Cypher"", ""Killjoy""]",256,1.15,201.7,1.18,68,133.5,0.75,0.17,0.09,0.05,37,23
+Kon,VCT Game Changers,SISU,Philippines,Pacific,Flex,"[""Sage"", ""Clove""]",598,1.14,227.6,1.15,74,156.8,0.79,0.28,0.11,0.08,35,8
+grahams,VCT Game Changers,SISU,Philippines,Pacific,Initiator,"[""Gekko"", ""Skye""]",769,1.14,233.9,1.16,75,150.2,0.81,0.28,0.12,0.12,35,15
+L4CE,VCT Game Changers,UCI,United States,Americas,Flex,"[""Viper"", ""Sova""]",1335,1.14,215.1,1.20,78,139.9,0.76,0.34,0.08,0.05,32,13
+StarBound,VCT Game Changers,FLY.R,Canada,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",1854,1.14,215.3,1.24,75,142.6,0.77,0.21,0.09,0.07,20,17
+Joliinaa,VCT Game Changers,GX.GC,Sweden,EMEA,Controller,"[""Omen"", ""Astra""]",1373,1.14,221.7,1.17,76,140.2,0.78,0.43,0.09,0.06,27,20
+Cendary,VCT Game Changers,NF,Thailand,Pacific,N/A,[],201,1.14,288.1,1.10,77,190.7,0.99,0.37,0.14,0.12,24,10
+unstable,VCT Game Changers,DSG,"Korea, Republic of",Pacific,Flex,"[""Skye"", ""Jett""]",828,1.14,228.9,1.27,76,143.1,0.84,0.24,0.16,0.10,32,18
+rezq,VCT Game Changers,G2.G,Türkiye,Pacific,Duelist,"[""Raze"", ""Jett""]",1064,1.14,260.3,1.29,74,164.7,0.91,0.20,0.25,0.17,25,22
+antG,VCT Game Changers,LOUD.GC,Brazil,Americas,Controller,"[""Brimstone"", ""Viper""]",586,1.14,213.0,1.14,75,135.2,0.78,0.36,0.08,0.08,31,10
+Akita,VCT Game Changers,ZER.M,France,EMEA,Duelist,"[""Reyna"", ""Phoenix""]",418,1.14,267.9,1.17,71,172.2,0.93,0.18,0.23,0.19,27,27
+bethany,VCT Game Changers,SL9,Australia,Pacific,Flex,"[""Omen"", ""Sage""]",209,1.14,209.0,1.14,77,134.1,0.76,0.41,0.08,0.07,22,17
+ness,VCT Game Changers,GX.GC,Türkiye,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",1334,1.13,203.0,1.13,77,137.0,0.71,0.33,0.07,0.05,26,14
+vaZ,VCT Game Changers,ROA,Chile,Americas,Controller,"[""Astra"", ""Viper""]",386,1.13,190.4,1.11,76,130.9,0.68,0.34,0.05,0.05,25,22
+fluxxy,VCT Game Changers,HERO,Sint Maarten (Dutch part),Americas,Flex,"[""Breach"", ""Cypher""]",1086,1.13,214.2,1.16,76,143.6,0.77,0.24,0.08,0.07,30,17
+Kohaibi,VCT Game Changers,SMG.GC,Singapore,Pacific,Flex,"[""Brimstone"", ""Sova""]",745,1.13,222.3,1.14,76,146.3,0.76,0.29,0.10,0.07,25,9
+Lil Bob,VCT Game Changers,MDK,Germany,EMEA,Controller,"[""Omen"", ""Brimstone""]",678,1.13,216.6,1.14,72,145.7,0.77,0.35,0.08,0.06,28,20
+Micro,VCT Game Changers,LL,Thailand,Pacific,Flex,"[""Omen"", ""Reyna""]",292,1.13,245.7,1.13,76,165.0,0.87,0.20,0.14,0.13,36,10
+romily,VCT Game Changers,KRÜ.B,Chile,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",750,1.13,196.9,1.36,78,132.2,0.74,0.22,0.06,0.06,32,19
+none,VCT Game Changers,9ZG.GC,Brazil,Americas,Duelist,"[""Jett"", ""Raze""]",1050,1.13,259.1,1.16,69,171.7,0.89,0.19,0.22,0.18,23,18
+Sadeem,VCT Game Changers,,Saudi Arabia,EMEA,Controller,"[""Viper"", ""Brimstone""]",300,1.13,221.7,1.09,73,140.7,0.82,0.33,0.09,0.07,25,16
+winter,VCT Game Changers,RZN,Switzerland,EMEA,Flex,"[""Reyna"", ""Fade""]",315,1.13,251.1,1.12,68,165.8,0.88,0.21,0.16,0.17,28,15
+soko,VCT Game Changers,PIP,Australia,Pacific,Duelist,"[""Phoenix"", ""Raze""]",210,1.12,228.2,1.11,67,153.4,0.80,0.21,0.12,0.09,31,4
+mimi,VCT Game Changers,G2.G,Denmark,EMEA,Flex,"[""Breach"", ""Brimstone""]",1064,1.12,189.2,1.21,78,124.5,0.69,0.37,0.07,0.05,30,13
+Ivy,VCT Game Changers,AKV.GC,Colombia,Americas,Flex,"[""Skye"", ""Chamber""]",936,1.12,211.1,1.15,75,141.9,0.76,0.33,0.10,0.10,33,20
+micaela,VCT Game Changers,KRÜ.B,Argentina,Americas,Duelist,"[""Raze"", ""Jett""]",750,1.12,195.4,1.22,78,130.4,0.72,0.35,0.09,0.09,34,20
+sarahcat,VCT Game Changers,SR,Canada,Americas,Flex,"[""Viper"", ""Sova""]",1260,1.12,224.8,1.18,77,144.6,0.77,0.33,0.11,0.11,25,22
+anesilia,VCT Game Changers,GMX.L,Russian Federation,EMEA,Initiator,"[""Skye"", ""Fade""]",470,1.12,196.9,1.10,79,128.7,0.68,0.54,0.08,0.06,21,26
+Thuy,VCT Game Changers,ZER.M,France,EMEA,Controller,"[""Omen"", ""Viper""]",595,1.12,213.5,1.15,76,136.6,0.77,0.38,0.09,0.10,25,31
+jduh,VCT Game Changers,BBL.Q,Türkiye,Pacific,Flex,"[""Fade"", ""Astra""]",913,1.12,204.8,1.13,73,131.8,0.74,0.34,0.06,0.08,36,22
+amxlist,VCT Game Changers,,Brazil,Americas,Initiator,"[""Breach"", ""KAY/O""]",443,1.12,197.3,1.04,76,129.8,0.68,0.55,0.07,0.07,34,12
+may,VCT Game Changers,GMX.L,France,EMEA,Flex,"[""Killjoy"", ""Raze""]",280,1.11,236.1,1.17,75,149.5,0.84,0.16,0.15,0.10,20,6
+meL,VCT Game Changers,SR,United States,Americas,Controller,"[""Omen"", ""Viper""]",1260,1.10,208.7,1.12,78,132.2,0.71,0.46,0.11,0.09,27,18
+LizA,VCT Game Changers,VLNT,N/A,N/A,Sentinel,"[""Killjoy"", ""Cypher""]",1227,1.10,232.3,1.16,69,151.7,0.84,0.14,0.16,0.14,36,17
+PIETY,VCT Game Changers,SISU,Philippines,Pacific,Initiator,"[""Gekko"", ""Breach""]",737,1.10,213.1,1.12,72,142.1,0.74,0.27,0.09,0.05,30,15
+JuW,VCT Game Changers,AKV.GC,Guatemala,Americas,Duelist,"[""Raze"", ""Jett""]",979,1.10,238.1,1.19,74,151.9,0.84,0.22,0.20,0.17,25,24
+Bobbiexo,VCT Game Changers,Athe,United Kingdom,EMEA,Sentinel,"[""Killjoy"", ""Cypher""]",390,1.10,210.8,1.14,70,141.6,0.77,0.15,0.07,0.07,26,23
+Anva,VCT Game Changers,fuVi,Türkiye,Pacific,Flex,"[""Viper"", ""Gekko""]",612,1.10,237.3,1.19,73,153.5,0.83,0.20,0.14,0.11,23,18
+LauGuz,VCT Game Changers,MVR,Colombia,Americas,Duelist,"[""Raze"", ""Jett""]",519,1.10,234.0,1.14,72,156.5,0.84,0.15,0.16,0.13,31,13
+LiNLiN,VCT Game Changers,AKV.GC,Costa Rica,Americas,Controller,"[""Viper"", ""Omen""]",979,1.10,201.1,1.13,79,137.3,0.75,0.39,0.07,0.06,35,18
+JinNy,VCT Game Changers,ALG.GC,Thailand,Pacific,Controller,"[""Omen"", ""Astra""]",272,1.09,195.2,1.11,74,140.0,0.72,0.44,0.03,0.04,28,13
+DREAM,VCT Game Changers,VLNT,China,China,Controller,"[""Viper"", ""Omen""]",640,1.09,203.2,1.15,73,134.4,0.72,0.21,0.07,0.06,23,20
+onni,VCT Game Changers,CYG,Japan,Pacific,Flex,"[""Omen"", ""Jett""]",211,1.09,230.9,1.08,67,142.1,0.81,0.27,0.12,0.16,26,9
+misu,VCT Game Changers,RF.GC,United States,Americas,Initiator,"[""Sova"", ""Fade""]",1167,1.09,206.4,1.07,74,136.5,0.72,0.35,0.06,0.07,25,18
+Noia,VCT Game Changers,SR,Denmark,EMEA,Sentinel,"[""Cypher"", ""Killjoy""]",1260,1.09,205.1,1.19,75,137.7,0.72,0.23,0.08,0.08,27,17
+biazik,VCT Game Changers,KRÜ.B,Brazil,Americas,Initiator,"[""Breach"", ""Sova""]",678,1.09,194.7,1.10,79,133.5,0.68,0.37,0.10,0.07,24,16
+Buffala,VCT Game Changers,BBB,Dominican Republic,Americas,Flex,"[""Killjoy"", ""Yoru""]",311,1.09,230.6,1.08,67,153.5,0.80,0.26,0.17,0.14,27,20
+Naxa,VCT Game Changers,ZEN.GC,Chile,Americas,Duelist,"[""Jett"", ""Raze""]",607,1.09,253.6,1.12,67,167.8,0.90,0.17,0.18,0.16,27,8
+madv,VCT Game Changers,FLCV,Saudi Arabia,EMEA,Flex,"[""Breach"", ""Astra""]",1407,1.08,204.5,1.08,75,132.5,0.72,0.39,0.08,0.07,37,18
+h6tedthemost,VCT Game Changers,ACE,N/A,N/A,Controller,"[""Omen"", ""Brimstone""]",221,1.08,211.7,1.11,76,130.3,0.76,0.41,0.08,0.09,28,14
+bae,VCT Game Changers,,Chile,Americas,Flex,"[""Fade"", ""Raze""]",455,1.08,206.7,1.01,72,142.0,0.72,0.26,0.08,0.09,28,13
+klaudia,VCT Game Changers,O1O,United States,Americas,Initiator,"[""KAY/O""]",691,1.08,200.3,1.05,78,132.6,0.70,0.55,0.06,0.05,27,18
+Ayumiii,VCT Game Changers,RRQ.K,Malaysia,Pacific,Flex,"[""Deadlock"", ""Raze""]",745,1.08,229.1,1.11,72,150.5,0.78,0.27,0.16,0.15,22,18
+Glance,VCT Game Changers,KC.GC,Russian Federation,EMEA,Flex,"[""Omen"", ""Sova""]",1103,1.08,200.9,1.07,74,134.7,0.71,0.33,0.06,0.05,27,19
+Xaline,VCT Game Changers,Huge,France,EMEA,Sentinel,"[""Cypher"", ""Deadlock""]",319,1.08,213.8,1.10,71,145.0,0.75,0.24,0.08,0.10,23,10
+melya,VCT Game Changers,MYTH,Pakistan,Pacific,Duelist,"[""Raze"", ""Jett""]",872,1.08,219.0,1.05,73,145.6,0.75,0.34,0.08,0.07,27,14
+edith,VCT Game Changers,YFP ,United States,Americas,Duelist,"[""Jett"", ""Raze""]",264,1.07,228.7,1.14,64,149.5,0.81,0.14,0.16,0.20,27,15
+amy,VCT Game Changers,G2.G,Netherlands,EMEA,Sentinel,"[""Cypher"", ""Killjoy""]",1064,1.07,200.4,1.24,74,135.4,0.75,0.23,0.08,0.06,33,16
+ritsu,VCT Game Changers,Gala,Türkiye,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",394,1.07,214.2,1.10,68,148.0,0.77,0.13,0.12,0.09,32,10
+alexis,VCT Game Changers,SR,United States,Americas,Flex,"[""Skye"", ""Harbor""]",1260,1.07,175.1,1.06,78,111.1,0.63,0.53,0.06,0.05,31,20
+kv7m,VCT Game Changers,UNta,United States,Americas,Controller,"[""Omen"", ""Viper""]",284,1.07,189.7,1.07,75,125.6,0.67,0.50,0.04,0.06,28,20
+karie,VCT Game Changers,SNG,Fiji,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",1212,1.07,217.7,1.10,71,145.1,0.79,0.22,0.07,0.06,29,12
+moshieroo,VCT Game Changers,SK.N,Sweden,EMEA,Initiator,"[""KAY/O"", ""Sova""]",343,1.07,210.0,1.01,75,136.2,0.73,0.43,0.08,0.08,29,16
+ja2,VCT Game Changers,Huge,France,EMEA,Duelist,"[""Raze"", ""Neon""]",319,1.07,226.4,1.11,68,144.5,0.81,0.24,0.17,0.18,23,20
+Leyre,VCT Game Changers,TU.O,Spain,EMEA,Controller,"[""Astra"", ""Omen""]",914,1.06,209.7,1.07,73,138.6,0.75,0.37,0.09,0.08,37,16
+aluvily,VCT Game Changers,Sere,United States,Americas,Controller,"[""Brimstone"", ""Omen""]",576,1.06,213.6,1.06,71,144.1,0.78,0.21,0.10,0.09,32,10
+ary,VCT Game Changers,DAS,Chile,Americas,Controller,"[""Harbor"", ""Brimstone""]",204,1.06,236.3,1.07,69,147.7,0.80,0.32,0.12,0.08,21,14
+suzu,VCT Game Changers,FL.GC,Japan,Pacific,Flex,"[""Omen"", ""Raze""]",628,1.06,244.0,1.13,71,161.6,0.85,0.23,0.19,0.20,25,13
+Kazler,VCT Game Changers,RF.GC,Poland,EMEA,Flex,"[""Omen"", ""Sova""]",964,1.06,210.6,1.03,73,137.1,0.74,0.36,0.09,0.09,30,29
+Smurfette,VCT Game Changers,GX.GC,Türkiye,Pacific,Duelist,"[""Jett"", ""Raze""]",1373,1.06,237.0,1.14,70,155.3,0.84,0.16,0.21,0.17,27,17
+Tweeya,VCT Game Changers,,Philippines,Pacific,Controller,"[""Clove"", ""Viper""]",320,1.06,223.9,1.05,73,147.3,0.79,0.29,0.05,0.10,17,9
+star,VCT Game Changers,FKS.S,Germany,EMEA,Duelist,"[""Jett"", ""Raze""]",218,1.06,226.1,1.14,72,147.8,0.81,0.16,0.17,0.15,33,5
+nicky,VCT Game Changers,,Argentina,Americas,Controller,"[""Omen"", ""Viper""]",1050,1.06,202.2,1.02,73,131.2,0.71,0.36,0.08,0.06,31,17
+Mary,VCT Game Changers,FLCV,Bahrain,EMEA,Flex,"[""Jett"", ""Chamber""]",693,1.06,243.5,1.12,67,159.1,0.86,0.17,0.21,0.19,33,15
+Jazzyk1ns,VCT Game Changers,PP,Canada,Americas,Flex,"[""Raze"", ""Cypher""]",828,1.06,217.2,1.10,71,147.2,0.74,0.23,0.13,0.13,21,22
+PuriTy,VCT Game Changers,SK.N,Serbia,EMEA,Initiator,"[""Fade"", ""Gekko""]",206,1.06,208.5,1.01,73,136.4,0.72,0.31,0.06,0.05,26,3
+mandy,VCT Game Changers,TBS,Brazil,Americas,Duelist,"[""Jett"", ""Raze""]",819,1.05,227.7,1.04,69,150.5,0.81,0.33,0.13,0.13,34,16
+Alessia,VCT Game Changers,MDK,Spain,EMEA,Flex,"[""Jett"", ""Chamber""]",740,1.05,201.0,1.13,67,133.5,0.75,0.14,0.11,0.13,36,18
+332,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,Flex,"[""Killjoy"", ""Viper""]",335,1.05,208.9,1.11,72,138.3,0.73,0.26,0.08,0.08,27,6
+ellie,VCT Game Changers,aTTaX,Germany,EMEA,Duelist,"[""Jett"", ""Raze""]",785,1.05,222.0,1.11,68,146.3,0.81,0.14,0.16,0.18,31,13
+Pinkalie,VCT Game Changers,ZER.M,France,EMEA,Flex,"[""Omen"", ""Skye""]",410,1.05,183.8,0.99,79,118.3,0.66,0.51,0.07,0.06,29,15
+GuterWoman,VCT Game Changers,SKC.Q,Colombia,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",409,1.05,220.9,1.07,67,148.9,0.80,0.14,0.09,0.10,33,11
+m4ndzin,VCT Game Changers,LOUD.GC,Brazil,Americas,Flex,"[""Gekko"", ""Omen""]",586,1.05,205.1,1.00,74,135.0,0.71,0.44,0.09,0.05,22,15
+peace,VCT Game Changers,TWIS.O,Saudi Arabia,EMEA,Controller,"[""Omen"", ""Brimstone""]",313,1.05,214.3,1.06,73,138.7,0.74,0.35,0.09,0.11,32,10
+Lateu,VCT Game Changers,fuVi,Türkiye,Pacific,Flex,"[""Deadlock"", ""Omen""]",612,1.05,188.5,1.05,77,122.8,0.68,0.37,0.07,0.06,27,17
+lazylion,VCT Game Changers,DSG,Viet Nam,Pacific,Sentinel,"[""Cypher"", ""Killjoy""]",828,1.05,211.3,1.11,73,140.5,0.74,0.26,0.09,0.09,26,15
+Dano,VCT Game Changers,FSX,Mexico,Americas,Initiator,"[""Skye"", ""Sova""]",1135,1.05,190.0,1.01,73,129.1,0.68,0.43,0.05,0.06,26,13
+Kaah,VCT Game Changers,TLV,Brazil,Americas,Flex,"[""Killjoy"", ""Viper""]",343,1.04,201.6,1.00,73,130.4,0.72,0.29,0.07,0.10,30,27
+kari,VCT Game Changers,,Uruguay,Americas,Initiator,"[""Sova"", ""Fade""]",295,1.04,179.1,1.03,72,120.0,0.66,0.26,0.06,0.06,29,5
+HakuNa,VCT Game Changers,RIG.L,"Korea, Republic of",Pacific,Flex,"[""Killjoy"", ""Viper""]",359,1.04,192.6,1.00,67,130.7,0.67,0.18,0.06,0.06,25,21
+tiff,VCT Game Changers,PIP,Australia,Pacific,Initiator,"[""Gekko"", ""Sova""]",210,1.04,217.0,1.03,72,144.5,0.74,0.34,0.11,0.11,25,8
+Petra,VCT Game Changers,G2.G,Netherlands,EMEA,Initiator,"[""Fade"", ""Sova""]",1064,1.04,199.5,1.08,75,133.5,0.68,0.32,0.09,0.10,29,17
+ZIDIAN,VCT Game Changers,K7,Mexico,Americas,Flex,"[""Phoenix"", ""Sova""]",364,1.04,215.6,0.96,74,142.1,0.73,0.42,0.07,0.12,17,10
+terror,VCT Game Changers,oomf,Russian Federation,EMEA,Flex,"[""Chamber"", ""Sova""]",532,1.04,216.2,1.02,68,140.8,0.73,0.27,0.10,0.10,31,13
+Joojina,VCT Game Changers,TL,Brazil,Americas,Controller,"[""Omen"", ""Brimstone""]",894,1.04,196.2,0.99,75,128.2,0.68,0.42,0.07,0.07,24,11
+emluo,VCT Game Changers,PAW,United States,Americas,Flex,"[""Omen"", ""Killjoy""]",871,1.03,204.8,1.03,70,134.7,0.73,0.27,0.10,0.09,41,18
+Karra,VCT Game Changers,FLY.R,"Korea, Republic of",Pacific,Flex,"[""Sova"", ""Omen""]",510,1.03,191.3,1.00,74,127.9,0.67,0.36,0.08,0.07,34,18
+Miyori,VCT Game Changers,GX.GC,Türkiye,Pacific,Initiator,"[""Sova"", ""Fade""]",1373,1.03,209.8,1.09,70,139.1,0.74,0.19,0.12,0.12,27,26
+susbake,VCT Game Changers,NB,Poland,EMEA,Sentinel,"[""Sage"", ""Deadlock""]",391,1.03,220.6,1.02,71,145.7,0.76,0.25,0.11,0.10,33,22
+Wens,VCT Game Changers,BBL.Q,Türkiye,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",747,1.03,204.7,1.07,70,136.0,0.73,0.19,0.11,0.09,37,19
+rainssa,VCT Game Changers,BACK,Türkiye,Pacific,Controller,"[""Omen"", ""Astra""]",343,1.03,208.8,1.06,73,141.3,0.73,0.28,0.10,0.11,29,21
+panini,VCT Game Changers,oomf,United States,Americas,Controller,"[""Clove"", ""Omen""]",288,1.03,213.1,1.02,76,136.3,0.74,0.31,0.10,0.08,28,11
+Cami,VCT Game Changers,FIRE,Colombia,Americas,Controller,"[""Brimstone"", ""Omen""]",899,1.03,194.6,0.97,74,128.5,0.71,0.37,0.09,0.07,32,15
+tokameite,VCT Game Changers,NSR.I,Russian Federation,EMEA,Flex,"[""Viper"", ""Sova""]",897,1.03,184.1,0.98,73,125.1,0.67,0.37,0.05,0.06,30,11
+devilasxa,VCT Game Changers,O1O,Spain,EMEA,Initiator,"[""Breach"", ""KAY/O""]",831,1.03,200.0,0.98,72,132.1,0.69,0.37,0.08,0.08,34,15
+Princessicy,VCT Game Changers,Noct,United States,Americas,Controller,"[""Viper"", ""Omen""]",357,1.03,213.2,0.96,65,140.2,0.75,0.29,0.11,0.11,38,12
+romia,VCT Game Changers,FL.GC,Japan,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",686,1.03,200.4,1.07,69,132.9,0.73,0.19,0.08,0.07,28,17
+crona,VCT Game Changers,DAS,Brazil,Americas,Flex,"[""Viper"", ""Killjoy""]",407,1.03,204.2,1.00,67,133.1,0.73,0.28,0.08,0.06,29,12
+Ellie,VCT Game Changers,KS,"Venezuela, Bolivarian Republic of",Americas,Controller,"[""Viper"", ""Omen""]",526,1.03,205.6,1.02,71,132.1,0.72,0.30,0.08,0.07,28,16
+maryna,VCT Game Changers,:3,United States,Americas,Controller,"[""Brimstone"", ""Astra""]",295,1.03,199.1,1.01,75,130.3,0.73,0.34,0.06,0.07,31,16
+kitkatwc,VCT Game Changers,NE,Thailand,Pacific,Flex,"[""Killjoy"", ""Skye""]",493,1.03,214.5,1.05,73,137.2,0.73,0.35,0.10,0.07,24,12
+Jiex,VCT Game Changers,VLNT,Türkiye,Pacific,Duelist,"[""Jett"", ""Raze""]",815,1.03,203.1,1.00,73,134.6,0.72,0.37,0.10,0.09,34,9
+blue,VCT Game Changers,PIP,Myanmar,Pacific,Sentinel,"[""Cypher"", ""Killjoy""]",210,1.02,195.3,1.05,71,135.1,0.70,0.24,0.07,0.13,33,25
+Asomy,VCT Game Changers,NCL.GC,Guatemala,Americas,Flex,"[""KAY/O"", ""Raze""]",709,1.02,203.3,0.98,70,131.8,0.71,0.34,0.08,0.10,25,14
+BIBI,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,Initiator,"[""Sova"", ""Fade""]",335,1.02,203.4,1.00,75,136.2,0.70,0.35,0.08,0.11,23,22
+isa1,VCT Game Changers,isa ,Brazil,Americas,Duelist,"[""Jett"", ""Raze""]",382,1.02,199.7,1.04,73,133.2,0.71,0.27,0.11,0.12,22,16
+Flossie,VCT Game Changers,FIRE,Argentina,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",711,1.02,212.3,1.01,66,143.7,0.74,0.20,0.07,0.06,21,16
+h4ste,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,Flex,"[""Gekko"", ""Omen""]",335,1.02,201.9,1.02,76,129.1,0.71,0.39,0.12,0.10,28,35
+ponix,VCT Game Changers,9ZG.GC,Chile,Americas,Initiator,"[""Sova"", ""Gekko""]",1050,1.02,184.9,0.98,74,123.6,0.66,0.32,0.05,0.06,28,15
+safiaa,VCT Game Changers,NSR.I,France,EMEA,Flex,"[""Cypher"", ""Omen""]",1030,1.02,193.7,1.00,70,133.8,0.70,0.24,0.08,0.07,31,15
+Karina,VCT Game Changers,FKS.S,Germany,EMEA,Flex,"[""Killjoy"", ""Viper""]",1124,1.02,206.2,1.05,68,138.3,0.75,0.16,0.09,0.07,34,12
+YamzzI,VCT Game Changers,FL.GC,"Korea, Republic of",Pacific,Initiator,"[""KAY/O"", ""Skye""]",686,1.02,180.4,1.00,72,120.0,0.66,0.40,0.07,0.07,32,19
+avery,VCT Game Changers,FLOP,Sweden,EMEA,Initiator,"[""Gekko"", ""Breach""]",852,1.01,184.7,0.96,72,123.0,0.65,0.37,0.06,0.07,24,18
+Nora,VCT Game Changers,MYTH,United States,Americas,Initiator,"[""Gekko"", ""KAY/O""]",802,1.01,202.2,1.03,72,131.6,0.70,0.32,0.09,0.09,30,12
+pannyx,VCT Game Changers,BMG,Thailand,Pacific,Flex,"[""Fade"", ""Brimstone""]",257,1.01,191.8,0.97,71,128.0,0.69,0.29,0.05,0.05,31,12
+calsushi,VCT Game Changers,TDY,N/A,N/A,Initiator,"[""Gekko"", ""Sova""]",431,1.01,203.6,0.92,66,138.3,0.71,0.23,0.07,0.06,31,16
+sonder,VCT Game Changers,FLY.R,China,China,Initiator,"[""Skye"", ""KAY/O""]",1854,1.01,212.8,0.98,76,134.7,0.72,0.49,0.11,0.11,25,15
+maripo,VCT Game Changers,RIG.L,Japan,Pacific,Initiator,"[""Sova"", ""Fade""]",359,1.01,190.2,0.96,70,130.0,0.68,0.32,0.06,0.09,19,25
+Raven,VCT Game Changers,TDY,Mexico,Americas,Controller,"[""Viper"", ""Omen""]",610,1.01,189.3,0.98,70,128.1,0.68,0.28,0.05,0.06,35,13
+Scarlett,VCT Game Changers,GMX.L,England,EMEA,Duelist,"[""Jett"", ""Raze""]",446,1.01,213.6,1.04,74,137.9,0.74,0.25,0.15,0.12,22,9
+Addi,VCT Game Changers,FMG.GC,United Kingdom,EMEA,Duelist,"[""Raze"", ""Neon""]",372,1.01,230.6,0.99,66,148.8,0.81,0.20,0.16,0.17,24,10
+Kreya,VCT Game Changers,NB,Germany,EMEA,Flex,"[""Yoru"", ""Cypher""]",295,1.01,181.1,0.96,73,114.3,0.65,0.38,0.07,0.04,22,11
+R4M,VCT Game Changers,,Japan,Pacific,Controller,"[""Omen"", ""Viper""]",359,1.01,197.6,0.94,75,128.6,0.69,0.39,0.07,0.09,23,17
+Sliicyy,VCT Game Changers,char,France,EMEA,Duelist,"[""Raze"", ""Neon""]",363,1.01,206.3,0.97,72,130.5,0.71,0.45,0.11,0.12,27,24
+noze,VCT Game Changers,FMG.GC,Switzerland,EMEA,Sentinel,"[""Killjoy"", ""Cypher""]",224,1.01,187.8,0.95,63,130.4,0.71,0.11,0.09,0.09,30,16
+Nelo,VCT Game Changers,KC.GC,France,EMEA,Sentinel,"[""Killjoy"", ""Cypher""]",1103,1.01,215.0,1.02,73,139.4,0.75,0.29,0.11,0.08,33,15
+yumi,VCT Game Changers,PIP,Australia,Pacific,Flex,"[""Jett"", ""Breach""]",210,1.01,203.0,0.97,73,137.2,0.73,0.30,0.06,0.07,28,10
+evv,VCT Game Changers,FLY.R,Canada,Americas,Initiator,"[""KAY/O"", ""Skye""]",848,1.01,208.3,1.00,74,135.3,0.73,0.33,0.07,0.07,33,16
+Annie,VCT Game Changers,O1O,Spain,EMEA,Duelist,"[""Raze"", ""Neon""]",1026,1.01,224.1,1.06,68,146.5,0.80,0.14,0.22,0.20,33,17
+MyoH4nN,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,Duelist,"[""Jett"", ""Raze""]",201,1.00,226.7,1.01,68,147.6,0.79,0.18,0.11,0.17,28,8
+Alluka,VCT Game Changers,RRQ.K,Philippines,Pacific,Flex,"[""Sage"", ""Breach""]",745,1.00,182.2,0.94,74,116.0,0.64,0.50,0.06,0.05,23,10
+Australis,VCT Game Changers,SaD ,United States,Americas,Initiator,"[""KAY/O"", ""Fade""]",585,1.00,199.6,0.94,71,136.5,0.71,0.35,0.09,0.11,23,14
+mili,VCT Game Changers,RF.GC,Mexico,Americas,Duelist,"[""Raze"", ""Jett""]",842,1.00,215.8,1.01,74,143.0,0.75,0.19,0.14,0.11,27,12
+mal,VCT Game Changers,,Saudi Arabia,EMEA,Controller,"[""Viper""]",213,1.00,192.6,0.98,69,128.3,0.69,0.21,0.04,0.06,22,13
+Battison,VCT Game Changers,SaD ,United States,Americas,Initiator,"[""Gekko"", ""Sova""]",275,1.00,217.5,0.99,65,147.3,0.76,0.23,0.13,0.13,33,16
+Nidxvilco,VCT Game Changers,MDK,Spain,EMEA,Flex,"[""Viper"", ""Fade""]",740,1.00,187.9,1.02,71,122.9,0.68,0.32,0.06,0.09,29,19
+kyracujoh,VCT Game Changers,ZER.M,France,EMEA,Duelist,"[""Raze""]",247,1.00,230.5,1.02,73,149.1,0.79,0.15,0.17,0.11,23,5
+schnellÆ,VCT Game Changers,BBL.Q,Türkiye,Pacific,Duelist,"[""Jett"", ""Raze""]",587,1.00,214.1,1.03,71,140.7,0.75,0.24,0.13,0.13,31,17
+jademwah,VCT Game Changers,O1O,Sint Maarten (Dutch part),Americas,Initiator,"[""Sova"", ""KAY/O""]",1113,1.00,213.7,1.00,69,137.5,0.74,0.33,0.12,0.14,21,18
+Muffyn,VCT Game Changers,ALG.GC,Thailand,Pacific,Duelist,"[""Jett"", ""Raze""]",272,1.00,269.9,1.20,71,163.7,0.92,0.25,0.21,0.19,18,14
+Toki,VCT Game Changers,FLCV,Spain,EMEA,Flex,"[""Raze"", ""Chamber""]",1407,1.00,213.3,1.02,71,141.5,0.71,0.26,0.16,0.15,30,18
+Chloe,VCT Game Changers,FIRE,Costa Rica,Americas,Flex,"[""Viper"", ""KAY/O""]",852,0.99,193.1,0.96,72,127.0,0.71,0.33,0.10,0.09,25,15
+Bugsy,VCT Game Changers,,Philippines,Pacific,Controller,"[""Brimstone"", ""Viper""]",256,0.99,203.8,0.98,70,128.5,0.75,0.36,0.08,0.09,31,5
+Nami,VCT Game Changers,NSR.I,France,EMEA,Controller,"[""Omen"", ""Viper""]",1030,0.99,193.6,0.96,72,124.0,0.69,0.31,0.08,0.09,35,12
+Tara,VCT Game Changers,XIP,Indonesia,Pacific,Flex,"[""Omen"", ""Cypher""]",563,0.99,171.1,1.08,77,111.5,0.61,0.40,0.06,0.06,26,24
+ferret,VCT Game Changers,YIPP,Australia,Pacific,Flex,"[""Cypher"", ""Viper""]",372,0.99,206.5,0.97,72,131.7,0.72,0.36,0.11,0.10,30,5
+BySmall,VCT Game Changers,HOWL.M,Türkiye,Pacific,Initiator,"[""Sova"", ""Gekko""]",272,0.99,191.6,0.92,71,129.0,0.67,0.25,0.03,0.04,32,12
+alkyia,VCT Game Changers,BBL.Q,Türkiye,Pacific,Initiator,"[""Sova"", ""Fade""]",747,0.99,222.1,1.02,67,149.4,0.76,0.23,0.16,0.15,29,9
+didii,VCT Game Changers,MDK,Spain,EMEA,Initiator,"[""Breach"", ""KAY/O""]",462,0.99,190.9,0.95,73,127.7,0.66,0.45,0.09,0.07,23,17
+izze,VCT Game Changers,NF,Thailand,Pacific,Flex,"[""Gekko"", ""Killjoy""]",324,0.99,198.2,1.00,70,135.7,0.67,0.22,0.09,0.05,20,22
+Angela,VCT Game Changers,NF,Thailand,Pacific,Duelist,"[""Raze""]",324,0.99,234.6,1.04,68,154.0,0.78,0.23,0.19,0.23,17,32
+Mel,VCT Game Changers,MIBR.GC,Brazil,Americas,Flex,"[""Sova"", ""Viper""]",870,0.99,177.9,1.04,73,118.1,0.63,0.32,0.06,0.08,26,13
+Sephia,VCT Game Changers,TU.O,Türkiye,Pacific,Initiator,"[""Skye"", ""KAY/O""]",654,0.99,206.7,0.98,71,133.4,0.72,0.32,0.11,0.08,39,7
+citrus,VCT Game Changers,KS,United States,Americas,Initiator,"[""Skye"", ""Sova""]",295,0.99,196.3,0.99,69,128.7,0.68,0.30,0.05,0.08,21,16
+Noor,VCT Game Changers,,Saudi Arabia,EMEA,Controller,"[""Viper"", ""Omen""]",357,0.99,172.1,0.97,76,113.2,0.62,0.34,0.05,0.07,27,20
+tconda,VCT Game Changers,ZEN.GC,Chile,Americas,Duelist,"[""Jett"", ""Raze""]",521,0.98,229.6,1.00,64,150.6,0.79,0.16,0.18,0.19,31,11
+Lyda,VCT Game Changers,HERO,Türkiye,Pacific,Duelist,"[""Raze"", ""Jett""]",716,0.98,205.5,0.96,69,137.1,0.73,0.24,0.12,0.12,29,14
+cbui,VCT Game Changers,PP,Canada,Americas,Controller,"[""Brimstone"", ""Omen""]",828,0.98,182.9,0.97,73,120.0,0.64,0.41,0.07,0.06,22,15
+sayuri,VCT Game Changers,MIBR.GC,Brazil,Americas,Controller,"[""Viper"", ""Omen""]",870,0.98,174.1,0.93,77,112.1,0.59,0.54,0.06,0.06,19,12
+Marti,VCT Game Changers,NSR.I,Poland,EMEA,Flex,"[""KAY/O"", ""Phoenix""]",1030,0.98,217.6,0.97,68,143.6,0.74,0.23,0.15,0.18,26,10
+Andrehs,VCT Game Changers,AKV.GC,"Venezuela, Bolivarian Republic of",Americas,Flex,"[""Brimstone"", ""Fade""]",979,0.98,185.0,0.97,75,120.4,0.65,0.41,0.07,0.07,31,15
+theozy,VCT Game Changers,CAOS.GC,Uruguay,Americas,Initiator,"[""Gekko"", ""Fade""]",372,0.98,209.7,0.99,69,143.9,0.74,0.27,0.11,0.15,31,17
+Rice,VCT Game Changers,RIMA,Singapore,Pacific,Initiator,"[""Breach"", ""Skye""]",256,0.98,189.6,0.87,72,124.4,0.63,0.38,0.12,0.09,27,10
+daiki,VCT Game Changers,TL,Brazil,Americas,Initiator,"[""Fade"", ""Skye""]",894,0.98,183.3,0.97,72,119.6,0.65,0.41,0.07,0.11,28,18
+Sampphire,VCT Game Changers,MLT.GC,Indonesia,Pacific,Flex,"[""Viper"", ""Sova""]",447,0.98,173.9,0.93,69,123.9,0.64,0.27,0.03,0.06,28,18
+roxi,VCT Game Changers,KC.GC,Germany,EMEA,Flex,"[""Sage"", ""Raze""]",531,0.98,193.6,0.94,67,131.0,0.66,0.23,0.11,0.08,30,17
+Mayzin,VCT Game Changers,K7,Peru,Americas,Flex,"[""Gekko"", ""Raze""]",439,0.98,200.9,0.91,74,135.9,0.69,0.37,0.08,0.09,22,12
+Natasha,VCT Game Changers,LOUD.GC,Brazil,Americas,Sentinel,"[""Killjoy"", ""Cypher""]",795,0.97,187.6,0.99,68,128.7,0.67,0.21,0.09,0.08,33,11
+xann,VCT Game Changers,KS,Iceland,EMEA,Duelist,"[""Jett"", ""Raze""]",935,0.97,237.5,0.97,68,156.2,0.80,0.20,0.20,0.21,29,10
+Poly,VCT Game Changers,SISU,Thailand,Pacific,Flex,"[""Viper"", ""Iso""]",767,0.97,185.9,0.96,72,123.7,0.65,0.34,0.07,0.10,31,19
+Makchin,VCT Game Changers,BAS.K,Philippines,Pacific,Duelist,"[""Reyna"", ""Raze""]",339,0.97,232.6,0.95,65,148.5,0.77,0.17,0.17,0.21,23,23
+Felce,VCT Game Changers,NE,Thailand,Pacific,Initiator,"[""Sova"", ""Gekko""]",493,0.97,201.6,1.01,75,132.8,0.75,0.26,0.06,0.04,33,20
+sawamura,VCT Game Changers,SISU,Philippines,Pacific,Duelist,"[""Raze"", ""Jett""]",769,0.97,207.9,1.02,70,134.4,0.74,0.18,0.15,0.13,38,18
+rosey,VCT Game Changers,NE,Thailand,Pacific,Controller,"[""Omen""]",324,0.97,180.7,0.95,75,116.9,0.64,0.40,0.09,0.08,22,16
+sereen,VCT Game Changers,,Saudi Arabia,EMEA,Flex,"[""Raze"", ""Omen""]",471,0.97,224.9,0.97,70,142.9,0.75,0.26,0.18,0.18,20,18
+elysian,VCT Game Changers,FKS.S,Germany,EMEA,Flex,"[""Raze"", ""Skye""]",910,0.97,183.8,0.91,71,123.2,0.65,0.31,0.04,0.05,29,13
+SereNa,VCT Game Changers,ZETA.GC,"Korea, Republic of",Pacific,Sentinel,"[""Killjoy""]",628,0.97,192.1,0.99,70,128.7,0.67,0.21,0.07,0.07,25,16
+proxima,VCT Game Changers,BBL.Q,Türkiye,Pacific,Controller,"[""Omen"", ""Viper""]",747,0.97,183.8,0.98,71,121.5,0.66,0.30,0.06,0.07,39,19
+Krysme,VCT Game Changers,LOUD.GC,Brazil,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",587,0.97,195.1,0.97,64,134.8,0.72,0.12,0.08,0.08,30,9
+Natalcia,VCT Game Changers,INC.GC,Poland,EMEA,Sentinel,"[""Cypher"", ""Killjoy""]",260,0.97,203.7,0.91,69,142.3,0.71,0.21,0.08,0.08,36,13
+sarah,VCT Game Changers,GX.GC,United Kingdom,EMEA,Initiator,"[""KAY/O"", ""Breach""]",1373,0.97,179.9,0.95,75,114.7,0.64,0.44,0.06,0.07,32,19
+Zodiac,VCT Game Changers,,Japan,Pacific,Flex,"[""KAY/O"", ""Chamber""]",359,0.97,224.0,0.93,69,152.1,0.75,0.22,0.18,0.16,21,19
+Slandy,VCT Game Changers,RF.GC,United States,Americas,Flex,"[""Breach"", ""Brimstone""]",746,0.96,174.6,0.90,72,115.9,0.61,0.35,0.06,0.07,24,11
+Felipa,VCT Game Changers,BBL.Q,Türkiye,Pacific,Initiator,"[""KAY/O"", ""Breach""]",705,0.96,183.5,0.91,71,122.5,0.63,0.37,0.06,0.07,33,13
+xenia,VCT Game Changers,HOWL.M,Türkiye,Pacific,Initiator,"[""Breach"", ""Sova""]",394,0.96,199.1,0.96,66,134.5,0.73,0.24,0.13,0.13,30,20
+Atisca,VCT Game Changers,K7,Mexico,Americas,Duelist,"[""Jett"", ""Raze""]",543,0.96,208.3,0.99,66,138.3,0.76,0.14,0.16,0.13,24,8
+NAKSU,VCT Game Changers,RZN,Türkiye,Pacific,Duelist,"[""Raze"", ""Jett""]",445,0.96,213.3,0.96,67,143.2,0.75,0.16,0.12,0.14,32,20
+alannah,VCT Game Changers,SL9,Australia,Pacific,Initiator,"[""Sova"", ""Skye""]",372,0.96,196.2,0.95,68,129.6,0.69,0.28,0.08,0.08,27,10
+lenka,VCT Game Changers,ZER.M,France,EMEA,Sentinel,"[""Killjoy"", ""Cypher""]",595,0.96,190.7,0.97,69,130.5,0.69,0.18,0.10,0.07,31,14
+DelBisky,VCT Game Changers,BOBA,Philippines,Pacific,Duelist,"[""Raze"", ""Jett""]",573,0.96,203.6,0.95,70,131.9,0.70,0.29,0.11,0.09,26,12
+Saikiwi,VCT Game Changers,UW.GC,Argentina,Americas,Controller,"[""Viper"", ""Omen""]",653,0.96,204.8,0.98,67,133.7,0.73,0.30,0.10,0.12,31,13
+lissa,VCT Game Changers,TBS,Brazil,Americas,Flex,"[""Viper"", ""Killjoy""]",657,0.96,205.2,0.99,66,138.6,0.74,0.22,0.09,0.13,36,12
+AlexaIsHot,VCT Game Changers,INF,Puerto Rico,Americas,Controller,"[""Viper"", ""Brimstone""]",806,0.96,207.4,0.96,72,132.0,0.71,0.31,0.10,0.11,21,12
+Raquinuki,VCT Game Changers,FSX,Costa Rica,Americas,Sentinel,"[""Cypher"", ""Chamber""]",1135,0.96,191.6,0.96,67,130.7,0.68,0.21,0.09,0.09,32,13
+adora,VCT Game Changers,HERO,Lithuania,EMEA,Duelist,"[""Reyna"", ""Raze""]",996,0.96,212.0,0.97,65,142.7,0.74,0.17,0.16,0.18,29,9
+Valu,VCT Game Changers,DAS,Argentina,Americas,Initiator,"[""Sova"", ""Fade""]",303,0.96,194.4,0.94,70,128.0,0.68,0.19,0.08,0.10,37,12
+Desi,VCT Game Changers,FKS.S,Germany,EMEA,Flex,"[""Phoenix"", ""Skye""]",494,0.96,202.7,0.92,72,130.5,0.71,0.37,0.09,0.09,28,23
+ikyoo,VCT Game Changers,FKS.S,Denmark,EMEA,Duelist,"[""Jett"", ""Raze""]",964,0.96,205.7,0.97,68,135.7,0.73,0.22,0.15,0.15,26,10
+Morgan,VCT Game Changers,BBB,Guatemala,Americas,Initiator,"[""Sova"", ""Skye""]",629,0.95,192.5,0.93,69,128.2,0.69,0.34,0.07,0.10,24,16
+k0rupt,VCT Game Changers,NA,United States,Americas,Initiator,"[""Gekko"", ""Breach""]",508,0.95,192.7,0.92,70,133.3,0.67,0.28,0.08,0.10,29,16
+panday,VCT Game Changers,oomf,United States,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",932,0.95,188.3,0.94,69,124.6,0.67,0.26,0.10,0.11,33,13
+korosu,VCT Game Changers,YFP ,"Korea, Republic of",Pacific,Sentinel,"[""Cypher"", ""Killjoy""]",215,0.95,201.6,0.97,68,140.7,0.73,0.14,0.11,0.13,33,31
+Kuripuuya,VCT Game Changers,KC.GC,Türkiye,Pacific,Controller,"[""Viper"", ""Omen""]",1103,0.95,180.7,0.88,71,117.9,0.61,0.35,0.09,0.08,27,18
+habibti,VCT Game Changers,MESO,Lebanon,EMEA,Flex,"[""Sova"", ""Chamber""]",739,0.95,209.3,0.94,65,139.0,0.74,0.23,0.09,0.12,31,11
+Golden,VCT Game Changers,,Saudi Arabia,EMEA,Flex,"[""Killjoy"", ""Viper""]",471,0.95,195.4,0.96,68,134.8,0.70,0.20,0.09,0.10,22,18
+shina,VCT Game Changers,4F,Philippines,Pacific,Sentinel,"[""Chamber"", ""Cypher""]",459,0.95,182.9,0.91,65,126.9,0.65,0.16,0.12,0.10,29,19
+k1m,VCT Game Changers,RTL,Viet Nam,Pacific,Sentinel,"[""Cypher"", ""Killjoy""]",227,0.95,203.9,0.86,66,134.9,0.68,0.26,0.10,0.09,23,5
+Newky,VCT Game Changers,Baby,Thailand,Pacific,Duelist,"[""Yoru"", ""Reyna""]",274,0.94,208.2,0.97,68,136.6,0.74,0.21,0.12,0.16,33,21
+Kaha,VCT Game Changers,INC.GC,Poland,EMEA,Flex,"[""Astra"", ""Skye""]",222,0.94,173.5,0.79,71,118.6,0.59,0.37,0.09,0.09,24,12
+Nescargot,VCT Game Changers,Team,France,EMEA,Sentinel,"[""Cypher"", ""Killjoy""]",375,0.94,178.9,0.90,68,119.2,0.62,0.28,0.07,0.09,32,9
+Luj,VCT Game Changers,TWIS.O,Saudi Arabia,EMEA,Flex,"[""Cypher"", ""Viper""]",714,0.94,186.6,0.96,71,125.0,0.66,0.28,0.07,0.08,35,10
+jubs,VCT Game Changers,MIBR.GC,Brazil,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",870,0.94,170.0,0.98,71,116.7,0.61,0.20,0.06,0.06,22,14
+Lynn,VCT Game Changers,FIRE,Chile,Americas,Duelist,"[""Raze"", ""Yoru""]",662,0.94,219.6,0.97,65,149.3,0.76,0.19,0.19,0.17,23,16
+luiza,VCT Game Changers,BD.FEM,Brazil,Americas,Flex,"[""Viper"", ""Cypher""]",382,0.94,194.0,0.90,69,129.5,0.66,0.24,0.09,0.10,30,8
+nati,VCT Game Changers,LEV.GC,Chile,Americas,Flex,"[""Viper"", ""Sova""]",571,0.94,185.2,0.92,67,122.2,0.66,0.20,0.06,0.07,40,12
+SUPERKAT,VCT Game Changers,PAW,Canada,Americas,Flex,"[""Viper"", ""Sova""]",558,0.94,187.7,0.94,68,125.5,0.66,0.22,0.14,0.16,28,14
+Kyujinn,VCT Game Changers,BBB,United States,Americas,Flex,"[""Gekko"", ""Cypher""]",339,0.94,173.3,0.93,68,122.9,0.66,0.21,0.06,0.09,31,23
+Supiree,VCT Game Changers,MVR,Ecuador,Americas,Duelist,"[""Raze"", ""Jett""]",469,0.94,209.1,0.91,70,144.1,0.70,0.22,0.15,0.18,18,14
+Koneko,VCT Game Changers,TOG ,United Kingdom,EMEA,Initiator,"[""Skye"", ""Breach""]",295,0.93,215.1,0.97,68,140.5,0.75,0.24,0.18,0.22,22,11
+CaspeR,VCT Game Changers,PURR,India,Pacific,Flex,"[""Sova"", ""Omen""]",441,0.93,170.2,0.87,72,112.4,0.61,0.39,0.05,0.10,28,2
+mindle,VCT Game Changers,ODK,Brazil,Americas,Initiator,"[""Sova"", ""Fade""]",382,0.93,181.8,0.89,72,119.3,0.66,0.34,0.08,0.07,29,12
+reshi,VCT Game Changers,FIRE,Argentina,Americas,Flex,"[""Sova"", ""Viper""]",711,0.93,191.2,0.87,67,127.7,0.66,0.31,0.08,0.08,25,12
+allie,VCT Game Changers,LEV.GC,Brazil,Americas,Flex,"[""KAY/O"", ""Viper""]",387,0.93,170.0,0.88,71,109.3,0.59,0.42,0.07,0.09,26,13
+majusia,VCT Game Changers,SK.N,Poland,EMEA,Flex,"[""Skye"", ""Viper""]",523,0.93,204.4,0.92,63,137.1,0.72,0.16,0.18,0.21,27,22
+Neli,VCT Game Changers,FKS.S,Sweden,EMEA,Initiator,"[""Sova"", ""Gekko""]",494,0.93,183.6,0.89,73,121.6,0.63,0.31,0.08,0.08,22,12
+Len,VCT Game Changers,CYG,Japan,Pacific,Flex,"[""Sova"", ""Viper""]",211,0.93,179.2,0.85,60,120.6,0.61,0.36,0.10,0.09,22,13
+Rosa,VCT Game Changers,BLW,Australia,Pacific,Flex,"[""Jett"", ""Deadlock""]",311,0.93,212.9,0.96,68,135.0,0.74,0.24,0.14,0.14,17,17
+KXoma,VCT Game Changers,FKS.S,Czechia,EMEA,Initiator,"[""Skye"", ""Breach""]",585,0.93,158.9,0.81,73,111.2,0.55,0.43,0.06,0.05,26,11
+6sonya,VCT Game Changers,O1O,Romania,EMEA,Initiator,"[""Sova"", ""Fade""]",964,0.93,176.8,0.89,69,121.0,0.62,0.28,0.08,0.07,26,8
+ginger,VCT Game Changers,aTTaX,Germany,EMEA,Sentinel,"[""Cypher"", ""Killjoy""]",838,0.93,195.0,0.98,66,127.6,0.71,0.21,0.07,0.11,22,18
+miyara,VCT Game Changers,SaD ,United States,Americas,Initiator,"[""Sova"", ""Breach""]",477,0.93,173.5,0.84,73,121.3,0.60,0.36,0.04,0.06,23,14
+winter,VCT Game Changers,,Brazil,Americas,Duelist,"[""Phoenix"", ""Jett""]",235,0.92,213.8,0.93,63,147.5,0.76,0.19,0.16,0.19,27,4
+Angel,VCT Game Changers,MVR,Mexico,Americas,Initiator,"[""Gekko"", ""Skye""]",724,0.92,152.6,0.82,73,102.8,0.55,0.39,0.04,0.05,33,10
+leeni,VCT Game Changers,FKS.S,Finland,EMEA,Duelist,"[""Raze"", ""Jett""]",712,0.92,209.4,0.89,67,137.1,0.70,0.21,0.19,0.20,20,14
+taromie,VCT Game Changers,FKS.S,United Kingdom,EMEA,Flex,"[""Killjoy"", ""Omen""]",218,0.92,175.1,0.89,67,121.2,0.61,0.32,0.08,0.09,28,14
+Harmonee,VCT Game Changers,aTTaX,Germany,EMEA,Initiator,"[""Sova"", ""Skye""]",838,0.92,179.1,0.88,68,122.7,0.62,0.26,0.07,0.10,26,23
+cuteasa,VCT Game Changers,RTL,N/A,N/A,Flex,"[""Reyna"", ""Deadlock""]",238,0.92,198.5,0.92,68,130.2,0.71,0.16,0.10,0.12,19,22
+GGonyaK,VCT Game Changers,CYG,"Korea, Republic of",Pacific,Duelist,"[""Jett"", ""Raze""]",211,0.92,197.8,0.92,66,131.4,0.70,0.21,0.13,0.15,30,22
+Setrexz,VCT Game Changers,DAS,Brazil,Americas,Duelist,"[""Jett"", ""Neon""]",243,0.92,216.9,0.91,65,145.7,0.76,0.16,0.19,0.16,29,13
+rise,VCT Game Changers,FLOP,Canada,Americas,Initiator,"[""KAY/O"", ""Breach""]",733,0.92,167.1,0.83,72,109.6,0.58,0.44,0.06,0.07,25,13
+marceline,VCT Game Changers,SOL,"Korea, Republic of",Pacific,Duelist,"[""Yoru"", ""Raze""]",968,0.92,217.1,0.96,66,142.2,0.76,0.15,0.16,0.18,28,16
+Syuz,VCT Game Changers,DAS,Chile,Americas,Initiator,"[""Breach"", ""Skye""]",237,0.92,193.0,0.88,68,129.9,0.68,0.40,0.10,0.11,34,7
+Nury,VCT Game Changers,NCL.GC,Panama,Americas,Flex,"[""Skye"", ""Jett""]",231,0.92,189.3,0.85,64,128.7,0.67,0.33,0.08,0.07,26,8
+speedowka,VCT Game Changers,KC.GC,Poland,EMEA,Initiator,"[""Skye"", ""Breach""]",589,0.92,170.9,0.88,75,112.3,0.62,0.42,0.05,0.07,34,13
+nugget,VCT Game Changers,GMX.L,Egypt,EMEA,Flex,"[""Cypher"", ""Viper""]",735,0.92,177.1,0.89,69,121.0,0.61,0.21,0.09,0.08,21,19
+Serena,VCT Game Changers,VLNT,France,EMEA,Initiator,"[""Sova"", ""Gekko""]",451,0.92,176.4,0.87,70,118.6,0.62,0.30,0.06,0.05,34,18
+Shotoo,VCT Game Changers,BBB,Colombia,Americas,Flex,"[""Killjoy"", ""Omen""]",242,0.92,195.2,0.88,66,133.0,0.73,0.25,0.07,0.09,33,5
+BLOD,VCT Game Changers,,Bahrain,EMEA,Flex,"[""KAY/O"", ""Sage""]",300,0.92,200.8,0.89,71,127.8,0.70,0.29,0.09,0.11,32,15
+Elab0rate,VCT Game Changers,SOL,N/A,N/A,Flex,"[""Raze"", ""Killjoy""]",1158,0.92,193.5,0.93,66,127.7,0.68,0.18,0.10,0.09,23,13
+kray,VCT Game Changers,Soli,United States,Americas,Controller,"[""Omen"", ""Brimstone""]",301,0.92,196.0,0.90,72,126.8,0.67,0.33,0.07,0.07,25,15
+jen,VCT Game Changers,Merc,Lao People's Democratic Republic,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",207,0.92,186.3,0.90,71,125.1,0.66,0.22,0.09,0.07,27,18
+ArinJi,VCT Game Changers,,Thailand,Pacific,Flex,"[""Raze"", ""Gekko""]",292,0.92,208.8,0.89,69,143.8,0.71,0.22,0.13,0.13,21,24
+Aisling,VCT Game Changers,THE.K,Philippines,Pacific,Flex,"[""Killjoy"", ""Sova""]",282,0.91,175.4,0.88,72,113.0,0.61,0.37,0.04,0.09,19,24
+CarmenG7,VCT Game Changers,OKG,Mexico,Americas,Flex,"[""Viper"", ""Skye""]",338,0.91,168.6,0.87,66,113.4,0.59,0.21,0.08,0.09,27,4
+shyz,VCT Game Changers,TBS,Brazil,Americas,Flex,"[""Breach"", ""Viper""]",658,0.91,158.6,0.83,66,110.3,0.57,0.27,0.03,0.05,28,15
+Morita,VCT Game Changers,ROA,Chile,Americas,Duelist,"[""Jett"", ""Phoenix""]",386,0.91,209.9,0.97,67,133.9,0.73,0.17,0.18,0.20,31,31
+matrix,VCT Game Changers,KC.GC,Belgium,EMEA,Duelist,"[""Raze"", ""Jett""]",1103,0.91,215.6,0.95,68,142.0,0.75,0.15,0.18,0.19,35,18
+WIRE,VCT Game Changers,Awak,"Korea, Republic of",Pacific,Duelist,"[""Yoru"", ""Raze""]",351,0.91,225.2,0.93,59,150.9,0.79,0.13,0.19,0.21,31,10
+Ninou,VCT Game Changers,VLNT,France,EMEA,Initiator,"[""Breach"", ""KAY/O""]",1227,0.91,167.0,0.82,73,111.1,0.55,0.44,0.04,0.06,19,16
+panchill,VCT Game Changers,ZEN.GC,Chile,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",498,0.91,176.3,0.87,66,120.5,0.63,0.18,0.06,0.07,29,15
+auri,VCT Game Changers,NB,Lithuania,EMEA,Sentinel,"[""Cypher"", ""Killjoy""]",663,0.91,181.2,0.84,66,128.2,0.64,0.21,0.10,0.09,26,8
+TeddyIsFluffy,VCT Game Changers,MESO,United States,Americas,Flex,"[""Reyna"", ""Brimstone""]",697,0.91,198.6,0.85,67,128.5,0.68,0.35,0.09,0.14,23,14
+Nana,VCT Game Changers,GnG.W,Egypt,EMEA,Flex,"[""Skye"", ""Chamber""]",319,0.91,198.9,0.95,68,131.9,0.73,0.23,0.09,0.10,33,10
+rayne,VCT Game Changers,YDZ.GC,Puerto Rico,Americas,Duelist,"[""Raze"", ""Jett""]",420,0.91,204.4,0.87,60,137.5,0.72,0.12,0.15,0.18,28,8
+Dae,VCT Game Changers,DAS,Argentina,Americas,Initiator,"[""Sova"", ""Fade""]",286,0.91,175.8,0.88,68,117.7,0.61,0.25,0.04,0.05,30,22
+array,VCT Game Changers,42C ,Canada,Americas,Initiator,"[""Skye"", ""KAY/O""]",304,0.91,208.7,0.88,63,141.6,0.72,0.23,0.14,0.19,32,6
+Thykuza,VCT Game Changers,VLNT,United Kingdom,EMEA,Duelist,"[""Jett""]",637,0.90,230.3,0.91,62,146.8,0.77,0.19,0.22,0.24,24,21
+ElyS,VCT Game Changers,RTL,China,China,Duelist,"[""Raze""]",631,0.90,203.4,0.92,66,135.6,0.72,0.13,0.15,0.17,27,15
+Caucasus,VCT Game Changers,FL.GC,Japan,Pacific,Flex,"[""Sova"", ""Omen""]",277,0.90,167.6,0.85,73,109.5,0.58,0.37,0.06,0.06,24,6
+isaa,VCT Game Changers,TL,Brazil,Americas,Flex,"[""Breach"", ""Viper""]",894,0.90,177.0,0.88,70,119.4,0.62,0.30,0.07,0.07,29,13
+sabooboo,VCT Game Changers,RF.GC,Brazil,Americas,Initiator,"[""KAY/O"", ""Skye""]",509,0.90,174.4,0.88,71,113.7,0.61,0.29,0.07,0.07,28,19
+babzzz,VCT Game Changers,ZIK,Brazil,Americas,Sentinel,"[""Killjoy"", ""Cypher""]",1050,0.90,194.2,0.95,65,128.9,0.69,0.17,0.09,0.14,23,10
+ataraxia,VCT Game Changers,LEV.GC,Chile,Americas,Flex,"[""Raze"", ""Cypher""]",571,0.90,178.5,0.85,65,121.5,0.62,0.18,0.08,0.06,32,11
+Looxie,VCT Game Changers,,France,EMEA,Flex,"[""Sova"", ""Viper""]",1030,0.90,181.4,0.86,69,119.8,0.64,0.28,0.09,0.10,37,19
+Envious,VCT Game Changers,MLT.GC,Singapore,Pacific,Flex,"[""Harbor"", ""Jett""]",447,0.90,204.2,0.85,66,134.8,0.68,0.30,0.11,0.17,25,16
+Gianta,VCT Game Changers,RFS,Türkiye,Pacific,Controller,"[""Omen"", ""Viper""]",240,0.90,162.3,0.80,71,111.0,0.58,0.40,0.08,0.05,31,19
+LiriLia,VCT Game Changers,KC.GC,France,EMEA,Controller,"[""Brimstone"", ""Omen""]",360,0.90,174.1,0.83,72,120.4,0.58,0.43,0.06,0.09,29,6
+Melsm,VCT Game Changers,FSX,Costa Rica,Americas,Initiator,"[""Breach"", ""Skye""]",491,0.89,176.6,0.84,70,114.7,0.63,0.31,0.06,0.11,21,12
+Jia,VCT Game Changers,MVR,Ecuador,Americas,Initiator,"[""Skye"", ""Sova""]",455,0.89,192.1,0.88,68,127.2,0.69,0.29,0.10,0.12,27,13
+May,VCT Game Changers,NCL.GC,Ecuador,Americas,Flex,"[""Cypher"", ""Omen""]",681,0.89,178.6,0.86,67,122.3,0.62,0.21,0.06,0.10,24,18
+theia,VCT Game Changers,FLY.R,United States,Americas,Controller,"[""Omen"", ""Harbor""]",1675,0.89,158.2,0.83,73,103.8,0.55,0.39,0.06,0.10,25,18
+Saraya,VCT Game Changers,BSX,Colombia,Americas,Flex,"[""Killjoy"", ""Skye""]",306,0.89,177.4,0.86,64,116.5,0.65,0.25,0.06,0.05,34,11
+jcey,VCT Game Changers,Psyc,N/A,N/A,Duelist,"[""Jett"", ""Raze""]",261,0.89,195.1,0.86,63,127.1,0.69,0.30,0.13,0.13,26,16
+Vossu,VCT Game Changers,,Chile,Americas,Initiator,"[""Sova"", ""Breach""]",649,0.89,164.8,0.81,69,111.7,0.58,0.38,0.04,0.08,31,12
+Sye,VCT Game Changers,GnG.W,Tunisia,EMEA,Flex,"[""Breach"", ""Clove""]",210,0.89,165.7,0.81,67,103.6,0.55,0.31,0.04,0.06,17,14
+Sandra,VCT Game Changers,GK,Egypt,EMEA,Flex,"[""Fade"", ""Raze""]",1407,0.89,180.8,0.90,67,120.7,0.65,0.22,0.08,0.09,36,9
+Tura,VCT Game Changers,FSX,Mexico,Americas,Controller,"[""Brimstone"", ""Viper""]",1135,0.88,174.0,0.82,70,112.0,0.60,0.40,0.06,0.10,25,10
+Mel,VCT Game Changers,VLNT,France,EMEA,Controller,"[""Omen"", ""Brimstone""]",1227,0.88,171.0,0.83,71,110.3,0.60,0.40,0.06,0.10,30,11
+kalita,VCT Game Changers,REV,Argentina,Americas,Flex,"[""KAY/O"", ""Killjoy""]",449,0.88,173.3,0.79,69,118.1,0.59,0.30,0.08,0.09,23,9
+QiQi,VCT Game Changers,Ay,Singapore,Pacific,Sentinel,"[""Killjoy""]",204,0.88,183.9,0.91,70,126.3,0.65,0.23,0.04,0.11,23,30
+AhMei,VCT Game Changers,LL,Thailand,Pacific,Initiator,"[""Breach"", ""Skye""]",292,0.88,202.7,0.83,70,142.4,0.68,0.32,0.12,0.12,25,20
+Pinky D,VCT Game Changers,DGL,Argentina,Americas,Duelist,"[""Raze"", ""Jett""]",253,0.88,205.8,0.91,66,137.5,0.73,0.18,0.15,0.17,30,38
+T4C,VCT Game Changers,Curs,United Kingdom,EMEA,Initiator,"[""Breach"", ""KAY/O""]",266,0.88,163.9,0.79,68,106.3,0.57,0.47,0.05,0.08,20,21
+Dannn,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,Flex,"[""Killjoy"", ""Viper""]",201,0.88,171.8,0.83,68,117.3,0.61,0.19,0.09,0.09,19,11
+Loupiote,VCT Game Changers,ZER.M,France,EMEA,Initiator,"[""Skye"", ""Sova""]",595,0.88,166.0,0.84,73,110.1,0.57,0.31,0.06,0.07,23,19
+Blossi,VCT Game Changers,aTTaX,Germany,EMEA,Controller,"[""Viper"", ""Omen""]",838,0.88,164.8,0.81,67,111.4,0.57,0.42,0.06,0.10,26,6
+HANE,VCT Game Changers,RIG.L,Japan,Pacific,Controller,"[""Astra"", ""Brimstone""]",276,0.88,185.3,0.83,72,123.0,0.65,0.40,0.09,0.09,32,12
+PingSong,VCT Game Changers,FL.GC,Japan,Pacific,Flex,"[""Sage"", ""Omen""]",520,0.88,178.6,0.81,70,116.4,0.60,0.34,0.08,0.07,28,13
+f1yk,VCT Game Changers,MIR.GC,"Korea, Republic of",Pacific,Flex,"[""Viper"", ""Breach""]",261,0.88,160.3,0.88,70,112.2,0.58,0.21,0.05,0.05,34,16
+Vam,VCT Game Changers,TU.O,Saudi Arabia,EMEA,Flex,"[""Breach"", ""Raze""]",471,0.88,164.3,0.81,70,113.2,0.58,0.36,0.04,0.07,31,11
+Xalleby,VCT Game Changers,KS,Guatemala,Americas,Duelist,"[""Raze"", ""Jett""]",475,0.87,194.3,0.87,64,131.4,0.66,0.20,0.14,0.18,24,20
+Mais,VCT Game Changers,PXU.GC,United Kingdom,EMEA,Flex,"[""Cypher"", ""Fade""]",248,0.87,169.5,0.80,67,114.1,0.60,0.18,0.06,0.06,29,13
+wanheda,VCT Game Changers,K7,Panama,Americas,Initiator,"[""Skye"", ""KAY/O""]",343,0.87,172.2,0.79,68,113.8,0.61,0.41,0.08,0.09,22,17
+Nila,VCT Game Changers,YIPP,Australia,Pacific,Sentinel,"[""Killjoy""]",229,0.87,183.0,0.84,64,123.9,0.64,0.16,0.06,0.08,22,5
+shirah0sh1,VCT Game Changers,RG V,Philippines,Pacific,Flex,"[""Killjoy"", ""Reyna""]",304,0.87,189.7,0.84,62,125.7,0.68,0.19,0.08,0.13,31,18
+HomE,VCT Game Changers,REVO,Chile,Americas,Flex,"[""Chamber"", ""Gekko""]",243,0.87,184.6,0.82,67,118.9,0.62,0.37,0.07,0.11,27,11
+vii,VCT Game Changers,TBS,Brazil,Americas,Duelist,"[""Jett"", ""Raze""]",866,0.87,202.3,0.88,65,133.8,0.71,0.15,0.15,0.17,29,11
+Luzia,VCT Game Changers,XL.GC,France,EMEA,Initiator,"[""KAY/O"", ""Breach""]",304,0.87,175.5,0.77,62,115.3,0.62,0.37,0.07,0.11,31,24
+Poetite,VCT Game Changers,TWIS.O,Spain,EMEA,Initiator,"[""Gekko"", ""Skye""]",431,0.87,173.8,0.82,72,113.1,0.59,0.38,0.09,0.12,26,27
+Asia,VCT Game Changers,UW.GC,Peru,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",696,0.87,171.4,0.86,66,118.1,0.64,0.19,0.05,0.08,25,9
+Jelerak,VCT Game Changers,,Thailand,Pacific,Flex,"[""KAY/O"", ""Brimstone""]",230,0.87,175.7,0.81,70,108.2,0.59,0.38,0.10,0.13,17,20
+Curumi,VCT Game Changers,FL.GC,Japan,Pacific,Flex,"[""Viper"", ""Breach""]",686,0.87,180.4,0.82,70,114.8,0.61,0.46,0.08,0.09,19,14
+Adenina,VCT Game Changers,9ZG.GC,Uruguay,Americas,Initiator,"[""KAY/O"", ""Fade""]",1050,0.87,155.0,0.82,70,100.4,0.55,0.37,0.04,0.07,21,17
+Gelatycat,VCT Game Changers,ZEN.GC,Chile,Americas,Controller,"[""Omen"", ""Astra""]",460,0.86,161.1,0.78,68,109.6,0.57,0.27,0.07,0.06,37,4
+lover,VCT Game Changers,,N/A,N/A,Duelist,"[""Jett"", ""Yoru""]",307,0.86,185.3,0.75,59,128.9,0.63,0.18,0.08,0.15,22,15
+Mimo,VCT Game Changers,,Thailand,Pacific,Sentinel,"[""Killjoy""]",230,0.86,170.1,0.83,66,117.7,0.59,0.14,0.04,0.05,22,9
+Andrea,VCT Game Changers,NCL.GC,United States,Americas,Controller,"[""Viper"", ""Omen""]",339,0.86,162.7,0.80,71,107.0,0.57,0.41,0.03,0.06,25,9
+Salty,VCT Game Changers,Veni,Germany,EMEA,Flex,"[""Sova"", ""Astra""]",459,0.86,169.4,0.77,69,110.2,0.58,0.41,0.07,0.08,19,7
+E11ie,VCT Game Changers,Even,United States,Americas,Duelist,"[""Raze"", ""Jett""]",430,0.86,191.0,0.84,65,127.7,0.66,0.21,0.13,0.17,24,16
+nanno,VCT Game Changers,Alli,N/A,N/A,Flex,"[""Cypher"", ""Viper""]",318,0.86,183.2,0.85,61,122.0,0.66,0.14,0.07,0.07,32,8
+odessaca,VCT Game Changers,Hype,United States,Americas,Controller,"[""Omen"", ""Harbor""]",356,0.86,178.5,0.77,68,117.2,0.61,0.35,0.07,0.10,23,13
+Kaz,VCT Game Changers,FXM,Mexico,Americas,Flex,"[""Gekko"", ""Cypher""]",204,0.86,164.3,0.79,68,107.9,0.56,0.28,0.04,0.09,21,5
+aurelia,VCT Game Changers,EV,Canada,Americas,Flex,"[""Viper"", ""Killjoy""]",332,0.86,164.0,0.73,61,119.1,0.57,0.21,0.03,0.06,22,11
+gabiTê,VCT Game Changers,TLV,Brazil,Americas,Controller,"[""Viper"", ""Omen""]",277,0.86,162.7,0.83,67,112.0,0.58,0.19,0.07,0.08,24,20
+Lynxz,VCT Game Changers,OKG,Panama,Americas,Duelist,"[""Raze"", ""Jett""]",201,0.85,194.5,0.83,66,120.7,0.67,0.23,0.08,0.13,20,20
+aco,VCT Game Changers,,Japan,Pacific,Initiator,"[""KAY/O"", ""Skye""]",628,0.85,162.0,0.77,73,103.9,0.56,0.48,0.07,0.11,19,13
+erin,VCT Game Changers,DGL,Brazil,Americas,Duelist,"[""Jett"", ""Raze""]",418,0.85,194.6,0.79,65,129.8,0.63,0.28,0.12,0.15,25,5
+Calvrix,VCT Game Changers,GENG,United States,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",266,0.85,179.6,0.85,64,122.2,0.64,0.16,0.08,0.12,23,10
+Fire,VCT Game Changers,KS,Colombia,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",521,0.85,154.3,0.81,64,99.6,0.55,0.21,0.05,0.06,23,8
+Tub,VCT Game Changers,DVT,Malaysia,Pacific,Flex,"[""Gekko"", ""Omen""]",256,0.85,186.1,0.84,71,128.0,0.67,0.25,0.09,0.11,26,17
+Churra,VCT Game Changers,DGL,Chile,Americas,Controller,"[""Omen"", ""Viper""]",215,0.85,158.5,0.74,71,106.7,0.53,0.42,0.01,0.11,25,10
+Logic,VCT Game Changers,Kine,N/A,N/A,Controller,"[""Brimstone"", ""Omen""]",256,0.85,186.0,0.84,66,123.2,0.68,0.21,0.13,0.12,25,17
+cataLina,VCT Game Changers,ZER.M,France,EMEA,Initiator,"[""Breach"", ""KAY/O""]",247,0.84,158.1,0.77,71,99.8,0.54,0.44,0.06,0.11,33,14
+Pyro,VCT Game Changers,INF,United States,Americas,Flex,"[""Viper"", ""Deadlock""]",291,0.84,171.1,0.75,69,113.2,0.58,0.35,0.09,0.14,22,17
+Aniemal,VCT Game Changers,Wild,United States,Americas,Flex,"[""Killjoy"", ""Viper""]",820,0.84,178.1,0.81,66,121.1,0.62,0.19,0.08,0.09,24,21
+Kachow,VCT Game Changers,DVT,Philippines,Pacific,Flex,"[""Omen"", ""Reyna""]",218,0.84,180.1,0.80,61,126.0,0.62,0.24,0.08,0.15,23,9
+Ivory,VCT Game Changers,RH,Philippines,Pacific,Flex,"[""Sova"", ""Chamber""]",446,0.84,197.4,0.86,70,129.3,0.68,0.22,0.18,0.20,22,16
+Iczy,VCT Game Changers,INC.GC,Poland,EMEA,Controller,"[""Viper"", ""Omen""]",260,0.84,162.1,0.75,62,106.5,0.57,0.31,0.03,0.07,27,10
+Kathrina,VCT Game Changers,,Philippines,Pacific,Initiator,"[""Gekko"", ""Skye""]",304,0.84,178.7,0.75,67,114.1,0.59,0.33,0.04,0.11,15,15
+Luwucia,VCT Game Changers,NCL.GC,Guatemala,Americas,Flex,"[""Viper"", ""Skye""]",442,0.84,171.5,0.80,65,115.3,0.61,0.24,0.06,0.10,34,8
+Marpandyz,VCT Game Changers,,Thailand,Pacific,Initiator,"[""Sova"", ""Skye""]",230,0.84,171.8,0.83,65,110.3,0.60,0.27,0.08,0.07,17,10
+Sylva,VCT Game Changers,XL.GC,United Kingdom,EMEA,Initiator,"[""KAY/O"", ""Breach""]",436,0.84,183.6,0.83,68,116.2,0.64,0.28,0.10,0.10,26,11
+Arki,VCT Game Changers,AVN.GC,Philippines,Pacific,Flex,"[""Breach"", ""Cypher""]",304,0.84,170.8,0.76,64,114.3,0.60,0.34,0.05,0.10,19,10
+Zaki,VCT Game Changers,NTH,Mexico,Americas,Flex,"[""Sage"", ""Raze""]",431,0.83,179.5,0.80,68,117.4,0.62,0.26,0.11,0.13,27,23
+drea,VCT Game Changers,INF,N/A,N/A,Duelist,"[""Yoru"", ""Raze""]",282,0.83,191.4,0.84,66,123.2,0.68,0.19,0.12,0.17,21,20
+aria,VCT Game Changers,TDY,N/A,N/A,Flex,"[""KAY/O"", ""Omen""]",431,0.83,175.2,0.75,67,116.0,0.59,0.33,0.09,0.13,28,6
+bunnybee,VCT Game Changers,oomf,United States,Americas,Flex,"[""Fade"", ""Jett""]",394,0.83,199.5,0.87,63,131.3,0.69,0.20,0.18,0.18,30,18
+svv,VCT Game Changers,Thri,United States,Americas,Sentinel,"[""Killjoy"", ""Cypher""]",248,0.83,166.2,0.70,62,115.7,0.54,0.32,0.05,0.04,29,13
+drn,VCT Game Changers,ZIK,Brazil,Americas,Controller,"[""Omen"", ""Astra""]",449,0.83,156.3,0.72,66,109.3,0.53,0.35,0.05,0.10,20,21
+Sekkya,VCT Game Changers,SaD ,United States,Americas,Initiator,"[""Skye"", ""KAY/O""]",215,0.83,146.8,0.74,69,90.7,0.53,0.49,0.03,0.07,17,18
+inari,VCT Game Changers,GMX.L,Russian Federation,EMEA,Initiator,"[""KAY/O"", ""Breach""]",237,0.83,161.6,0.72,69,111.8,0.54,0.45,0.05,0.08,27,10
+silv,VCT Game Changers,PIP,Macao,Pacific,Controller,"[""Omen"", ""Viper""]",210,0.83,175.5,0.80,69,123.8,0.60,0.32,0.11,0.13,32,7
+ketarys,VCT Game Changers,SaD ,Viet Nam,Pacific,Flex,"[""Killjoy"", ""Brimstone""]",378,0.83,164.2,0.77,66,114.4,0.59,0.31,0.04,0.07,32,8
+meleliita,VCT Game Changers,LEV.GC,Uruguay,Americas,Flex,"[""Deadlock"", ""Jett""]",571,0.83,194.2,0.84,67,128.0,0.66,0.23,0.15,0.18,30,8
+AbruX,VCT Game Changers,DGL,Argentina,Americas,Controller,"[""Omen"", ""Viper""]",226,0.83,176.1,0.80,64,115.6,0.62,0.27,0.08,0.07,39,18
+moni,VCT Game Changers,Awak,Mexico,Americas,Controller,"[""Viper"", ""Omen""]",204,0.82,159.6,0.76,62,102.9,0.57,0.21,0.06,0.10,37,10
+Saab,VCT Game Changers,NCL.GC,Mexico,Americas,Flex,"[""Jett"", ""Skye""]",307,0.82,182.6,0.84,62,121.3,0.65,0.17,0.10,0.09,26,9
+Jenniffer,VCT Game Changers,ERIN,Brazil,Americas,Flex,"[""Killjoy"", ""Viper""]",589,0.82,181.0,0.79,64,125.0,0.63,0.19,0.14,0.16,26,4
+Vefa,VCT Game Changers,,El Salvador,Americas,Sentinel,"[""Killjoy"", ""Cypher""]",788,0.82,167.9,0.78,68,113.1,0.60,0.23,0.07,0.09,28,16
+kikowo,VCT Game Changers,,Singapore,Pacific,Initiator,"[""KAY/O"", ""Breach""]",361,0.82,178.1,0.78,63,121.1,0.61,0.32,0.08,0.14,23,10
+venus,VCT Game Changers,Moon,Jamaica,Americas,Duelist,"[""Raze"", ""Neon""]",431,0.82,177.3,0.78,63,120.4,0.62,0.17,0.11,0.18,31,16
+blu,VCT Game Changers,LOUD.GC,Brazil,Americas,Flex,"[""Gekko"", ""Omen""]",725,0.82,149.3,0.77,69,100.3,0.53,0.35,0.06,0.10,28,16
+cait,VCT Game Changers,BRK.GC,Canada,Americas,Flex,"[""Viper"", ""Fade""]",266,0.82,158.4,0.70,73,105.7,0.53,0.37,0.07,0.04,18,5
+Pink,VCT Game Changers,,N/A,N/A,Duelist,"[""Jett"", ""Raze""]",229,0.82,190.8,0.76,64,127.7,0.62,0.17,0.11,0.10,26,10
+riv,VCT Game Changers,RF.GC,Australia,Pacific,Sentinel,"[""Killjoy"", ""Cypher""]",790,0.82,165.4,0.79,68,108.7,0.57,0.27,0.09,0.11,26,11
+Samsi,VCT Game Changers,SK.N,Germany,EMEA,Sentinel,"[""Killjoy""]",388,0.81,173.1,0.81,62,118.5,0.61,0.18,0.05,0.09,20,7
+Nariel,VCT Game Changers,BLAZ,Türkiye,Pacific,Duelist,"[""Jett""]",224,0.81,181.3,0.80,62,121.1,0.64,0.17,0.13,0.19,22,12
+sia,VCT Game Changers,SK.N,France,EMEA,Flex,"[""Viper"", ""Killjoy""]",340,0.81,166.4,0.80,64,113.8,0.59,0.23,0.08,0.10,36,18
+azul,VCT Game Changers,FIRE,Argentina,Americas,Initiator,"[""Breach"", ""Fade""]",711,0.80,171.2,0.78,65,114.1,0.61,0.34,0.06,0.11,34,12
+jid,VCT Game Changers,RTL,United States,Americas,Flex,"[""Sage"", ""Omen""]",345,0.80,159.8,0.71,63,111.2,0.56,0.27,0.05,0.09,25,15
+Junki,VCT Game Changers,HTN,Mexico,Americas,Flex,"[""Viper"", ""Cypher""]",310,0.80,150.6,0.76,70,98.2,0.57,0.35,0.03,0.04,27,10
+frantastic,VCT Game Changers,FIRE,Chile,Americas,Controller,"[""Omen"", ""Viper""]",711,0.80,160.5,0.72,65,108.9,0.54,0.36,0.08,0.08,20,14
+69Shinobu,VCT Game Changers,GB,Philippines,Pacific,Flex,"[""Reyna"", ""Brimstone""]",234,0.79,160.0,0.64,66,106.4,0.53,0.41,0.04,0.03,20,10
+Speedy,VCT Game Changers,TBS,Brazil,Americas,Controller,"[""Viper"", ""Omen""]",866,0.79,152.7,0.71,64,104.7,0.52,0.31,0.05,0.08,29,18
+always,VCT Game Changers,RED,N/A,N/A,Controller,"[""Omen"", ""Brimstone""]",304,0.79,145.8,0.68,61,97.1,0.51,0.28,0.05,0.08,32,11
+Jas,VCT Game Changers,Neon,Canada,Americas,Sentinel,"[""Cypher"", ""Chamber""]",202,0.79,162.9,0.70,60,113.0,0.56,0.17,0.06,0.12,30,8
+mimi,VCT Game Changers,SK.N,Spain,EMEA,Flex,"[""Omen"", ""Sage""]",229,0.79,161.6,0.77,61,107.3,0.60,0.22,0.06,0.13,32,18
+awus,VCT Game Changers,DAS,Argentina,Americas,Controller,"[""Viper"", ""Omen""]",450,0.79,158.8,0.73,66,108.1,0.55,0.37,0.07,0.12,19,26
+plumitadewa,VCT Game Changers,DAS,Chile,Americas,Initiator,"[""KAY/O"", ""Breach""]",325,0.79,173.7,0.75,69,119.7,0.59,0.36,0.10,0.12,27,3
+SAR,VCT Game Changers,,Saudi Arabia,EMEA,Flex,"[""Sage"", ""Skye""]",213,0.79,178.3,0.76,64,119.4,0.60,0.26,0.08,0.08,29,12
+julia,VCT Game Changers,mini,N/A,N/A,Initiator,"[""Sova"", ""Skye""]",272,0.78,165.0,0.66,63,113.2,0.57,0.28,0.07,0.13,38,11
+natas,VCT Game Changers,FSX,United States,Americas,Flex,"[""Reyna"", ""Breach""]",672,0.78,145.5,0.74,65,98.1,0.53,0.27,0.06,0.12,27,15
+Biffy,VCT Game Changers,Sere,Mexico,Americas,Initiator,"[""Skye"", ""Breach""]",219,0.78,164.0,0.76,63,106.6,0.59,0.17,0.15,0.17,37,5
+Cille,VCT Game Changers,HERO,Denmark,EMEA,Controller,"[""Omen"", ""Viper""]",944,0.78,161.7,0.73,63,109.1,0.57,0.32,0.05,0.09,30,12
+Zoue,VCT Game Changers,YDZ.GC,N/A,N/A,Flex,"[""Viper"", ""Killjoy""]",295,0.78,177.2,0.72,64,117.8,0.61,0.27,0.06,0.08,21,5
+zev,VCT Game Changers,Tena,N/A,N/A,Duelist,"[""Raze"", ""Jett""]",321,0.78,188.6,0.78,56,127.8,0.67,0.12,0.12,0.21,33,16
+YuH4,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,Initiator,"[""KAY/O"", ""Skye""]",201,0.78,169.5,0.72,65,113.2,0.57,0.33,0.04,0.07,24,14
+SUPERPHROG,VCT Game Changers,HERO,Sweden,EMEA,Initiator,"[""Skye"", ""Gekko""]",574,0.77,156.3,0.76,61,109.9,0.58,0.16,0.07,0.11,34,13
+Phobia,VCT Game Changers,Real,Brazil,Americas,Flex,"[""Killjoy"", ""Viper""]",250,0.77,161.8,0.63,60,113.9,0.52,0.27,0.09,0.10,28,5
+Ixela,VCT Game Changers,HOWL.M,Türkiye,Pacific,Flex,"[""Omen"", ""KAY/O""]",394,0.77,160.7,0.71,67,105.1,0.54,0.36,0.08,0.10,28,10
+Celeste,VCT Game Changers,,United States,Americas,Duelist,"[""Jett"", ""Raze""]",273,0.77,178.1,0.73,59,119.3,0.61,0.21,0.08,0.17,34,26
+zoe,VCT Game Changers,NCL.GC,Mexico,Americas,Flex,"[""Sova"", ""Jett""]",214,0.77,188.4,0.73,60,130.4,0.63,0.19,0.16,0.21,27,19
+syd89,VCT Game Changers,,Philippines,Pacific,Controller,"[""Omen"", ""Brimstone""]",304,0.77,144.9,0.66,65,98.5,0.50,0.38,0.04,0.06,30,15
+Hotaru,VCT Game Changers,SPX,Chile,Americas,Initiator,"[""Skye"", ""KAY/O""]",233,0.77,167.1,0.72,62,107.7,0.59,0.29,0.08,0.10,24,18
+Yuna,VCT Game Changers,UW.GC,Chile,Americas,Flex,"[""Sage"", ""Fade""]",372,0.77,155.4,0.72,66,104.9,0.53,0.32,0.07,0.12,28,3
+Lendary,VCT Game Changers,TBS,Brazil,Americas,Flex,"[""Sova"", ""Omen""]",364,0.76,165.4,0.75,64,111.3,0.60,0.21,0.11,0.13,35,9
+andi,VCT Game Changers,NOS,Colombia,Americas,Duelist,"[""Jett"", ""Raze""]",214,0.76,178.1,0.77,63,126.4,0.63,0.13,0.10,0.14,31,4
+ira,VCT Game Changers,,N/A,N/A,Flex,"[""Viper"", ""Breach""]",269,0.76,172.1,0.68,57,112.6,0.58,0.22,0.10,0.14,26,7
+Huga,VCT Game Changers,42C ,N/A,N/A,Flex,"[""Fade"", ""Viper""]",233,0.75,166.5,0.65,58,114.9,0.55,0.30,0.04,0.11,22,12
+Bells,VCT Game Changers,RTL,N/A,N/A,Flex,"[""Sova"", ""Viper""]",222,0.75,171.9,0.63,55,115.6,0.54,0.23,0.10,0.13,25,6
+dati,VCT Game Changers,FUT.Fe,Türkiye,Pacific,Initiator,"[""Gekko"", ""Sova""]",224,0.75,151.2,0.69,65,107.1,0.50,0.27,0.07,0.07,32,13
+sofia,VCT Game Changers,PXU.GC,Germany,EMEA,Sentinel,"[""Killjoy"", ""Cypher""]",336,0.75,151.5,0.68,62,95.1,0.53,0.29,0.06,0.11,31,20
+miwa,VCT Game Changers,ZEN.GC,Chile,Americas,Initiator,"[""KAY/O"", ""Breach""]",375,0.75,161.3,0.67,65,111.8,0.54,0.37,0.04,0.11,26,10
+Mcfly,VCT Game Changers,ZEN.GC,Chile,Americas,Initiator,"[""Sova"", ""Fade""]",414,0.75,151.8,0.70,63,107.4,0.53,0.28,0.04,0.10,27,13
+angelka,VCT Game Changers,FOG ,North Macedonia,EMEA,Flex,"[""Omen"", ""Jett""]",273,0.75,161.9,0.68,63,107.6,0.56,0.29,0.06,0.10,18,24
+Julie,VCT Game Changers,TOG ,Israel,EMEA,Initiator,"[""Sova"", ""Skye""]",423,0.75,149.8,0.63,64,106.1,0.49,0.33,0.03,0.10,24,14
+Nirvana,VCT Game Changers,,Saudi Arabia,EMEA,Duelist,"[""Jett"", ""Raze""]",300,0.74,186.2,0.77,60,129.2,0.63,0.21,0.16,0.21,22,16
+Alyssa,VCT Game Changers,NCL.GC,Colombia,Americas,Initiator,"[""Sova"", ""Gekko""]",286,0.74,152.5,0.65,61,109.7,0.51,0.26,0.03,0.10,29,17
+memi,VCT Game Changers,KS,Dominican Republic,Americas,Flex,"[""Brimstone"", ""Killjoy""]",274,0.74,144.2,0.72,66,97.0,0.53,0.31,0.04,0.07,28,8
+B1nby0,VCT Game Changers,UR.GC,"Korea, Republic of",Pacific,Controller,"[""Omen"", ""Astra""]",201,0.73,164.6,0.71,64,105.4,0.56,0.35,0.05,0.08,22,
+Yashi,VCT Game Changers,BLAZ,Belgium,EMEA,Controller,"[""Omen"", ""Viper""]",224,0.73,169.7,0.68,64,113.3,0.57,0.28,0.10,0.11,23,5
+Alora,VCT Game Changers,,Germany,EMEA,Initiator,"[""Breach"", ""KAY/O""]",204,0.72,145.9,0.64,56,96.8,0.50,0.23,0.07,0.09,28,6
+toffywoffy,VCT Game Changers,DVT,Singapore,Pacific,Initiator,"[""Breach"", ""Sova""]",218,0.71,156.6,0.61,61,106.1,0.50,0.30,0.09,0.08,20,7
+MochiMei,VCT Game Changers,RTL,Canada,Americas,Controller,"[""Omen""]",227,0.71,133.6,0.59,65,85.7,0.46,0.33,0.02,0.06,18,
+ripmeL,VCT Game Changers,DAS,Brazil,Americas,Controller,"[""Omen""]",234,0.70,151.0,0.66,64,104.2,0.52,0.32,0.02,0.08,23,10
+svnny,VCT Game Changers,Ukiy,United States,Americas,Initiator,"[""Breach"", ""KAY/O""]",252,0.70,141.3,0.57,57,96.0,0.46,0.34,0.03,0.10,32,2
+oranges,VCT Game Changers,Red ,N/A,N/A,Sentinel,"[""Cypher"", ""Killjoy""]",431,0.70,147.3,0.67,64,99.8,0.54,0.22,0.06,0.13,23,4
+speq,VCT Game Changers,Bumb,"Korea, Republic of",Pacific,Initiator,"[""Fade"", ""KAY/O""]",303,0.70,147.6,0.62,63,96.6,0.51,0.34,0.05,0.11,24,12
+unfeel,VCT Game Changers,Tena,N/A,N/A,Initiator,"[""Breach"", ""Gekko""]",304,0.68,123.2,0.55,63,83.4,0.42,0.28,0.05,0.07,27,10
+misty,VCT Game Changers,BCGF,Brazil,Americas,Flex,"[""Viper"", ""KAY/O""]",200,0.68,161.5,0.59,56,103.5,0.53,0.28,0.06,0.11,27,4
+bubu,VCT Game Changers,DRK,France,EMEA,Flex,"[""Yoru"", ""Omen""]",210,0.68,163.5,0.67,55,112.8,0.57,0.14,0.08,0.11,37,14
+LechugaFresh,VCT Game Changers,RGS,Mexico,Americas,Sentinel,"[""Cypher"", ""Killjoy""]",273,0.68,144.5,0.64,60,98.9,0.49,0.21,0.07,0.09,21,17
+LaPapaLuna,VCT Game Changers,K7,Costa Rica,Americas,Flex,"[""Astra"", ""Sova""]",301,0.67,147.9,0.60,64,96.3,0.48,0.22,0.04,0.07,20,3
+Jazzy,VCT Game Changers,ROA,Argentina,Americas,Controller,"[""Viper"", ""Brimstone""]",212,0.66,124.0,0.60,54,86.7,0.45,0.17,0.01,0.08,35,13
+Miyu,VCT Game Changers,FKS.S,Germany,EMEA,Controller,"[""Viper""]",342,0.63,132.7,0.54,63,89.2,0.44,0.35,0.03,0.06,24,12
+Gia,VCT Game Changers,EV,United States,Americas,Initiator,"[""Sova"", ""Skye""]",411,0.62,130.7,0.50,61,89.4,0.42,0.30,0.04,0.08,23,5
+Hyungwonho,VCT Game Changers,ERM,Lao People's Democratic Republic,Pacific,Controller,"[""Viper"", ""Brimstone""]",241,0.58,116.1,0.46,54,77.3,0.38,0.31,0.02,0.08,17,10
+Pigruto,VCT Game Changers,CBD,Singapore,Pacific,Flex,"[""Sova"", ""Killjoy""]",243,0.53,113.7,0.48,53,81.9,0.37,0.14,0.04,0.13,21,8
