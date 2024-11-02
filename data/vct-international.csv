@@ -1,0 +1,238 @@
+username,league,team,country,region,agents,rounds,rating,acs,kd,kast,adr,kpr,apr,fkpr,fdpr,hs,clutch_rate
+aspas,VCT International,LEV,Brazil,Americas,"[""Raze"", ""Reyna""]",1736,1.26,250.9,1.37,75,164.8,0.90,0.18,0.18,0.11,29,14
+Leo,VCT International,FNC,Sweden,EMEA,"[""Fade"", ""Sova""]",818,1.19,204.6,1.26,81,135.6,0.73,0.36,0.05,0.03,26,9
+primmie,VCT International,TLN,Thailand,Pacific,"[""Clove"", ""Jett""]",203,1.16,249.9,1.15,71,165.0,0.90,0.23,0.13,0.10,41,20
+N4RRATE,VCT International,SEN,United States,Americas,"[""Gekko"", ""Fade""]",1137,1.16,233.2,1.17,76,153.9,0.81,0.33,0.12,0.08,26,19
+trexx,VCT International,VIT,Russian Federation,EMEA,"[""Viper"", ""Fade""]",1000,1.16,219.6,1.12,76,146.1,0.75,0.43,0.09,0.08,19,13
+invy,VCT International,TS,Philippines,Pacific,"[""KAY/O"", ""Viper""]",853,1.15,208.0,1.11,76,139.3,0.75,0.47,0.07,0.06,31,11
+Chronicle,VCT International,FNC,Russian Federation,EMEA,"[""Viper"", ""KAY/O""]",1550,1.15,210.5,1.14,75,142.0,0.72,0.38,0.10,0.07,24,20
+Sayf,VCT International,VIT,Sweden,EMEA,"[""Viper"", ""Omen""]",1238,1.14,227.5,1.20,70,147.6,0.82,0.22,0.13,0.13,28,14
+Cryocells,VCT International,100T,United States,Americas,"[""Brimstone"", ""Astra""]",1139,1.14,230.1,1.20,73,148.3,0.83,0.23,0.14,0.10,24,19
+zekken,VCT International,SEN,United States,Americas,"[""Raze"", ""Jett""]",1650,1.13,255.3,1.19,72,163.9,0.88,0.22,0.22,0.18,24,17
+Less,VCT International,VIT,Brazil,Americas,"[""Viper"", ""Cypher""]",957,1.13,202.2,1.15,72,141.0,0.73,0.25,0.08,0.08,30,8
+Jemkin,VCT International,RRQ,Russian Federation,EMEA,"[""Jett"", ""Raze""]",624,1.13,227.5,1.22,76,147.2,0.83,0.16,0.13,0.13,31,20
+t3xture,VCT International,GEN,"Korea, Republic of",Pacific,"[""Jett"", ""Raze""]",2405,1.12,236.7,1.20,71,152.6,0.84,0.16,0.19,0.14,27,18
+s0m,VCT International,NRG,United States,Americas,"[""Clove"", ""Omen""]",215,1.12,224.7,1.13,78,143.6,0.77,0.45,0.09,0.07,27,19
+sScary,VCT International,BLD,Thailand,Pacific,"[""Viper"", ""Omen""]",480,1.11,214.0,1.09,75,141.2,0.75,0.36,0.08,0.06,27,14
+Smoggy,VCT International,EDG,China,China,"[""KAY/O"", ""Raze""]",1606,1.11,207.1,1.16,75,136.0,0.74,0.36,0.08,0.07,28,14
+CHICHOO,VCT International,EDG,China,China,"[""Cypher"", ""Brimstone""]",1606,1.11,201.6,1.11,73,134.6,0.73,0.26,0.08,0.06,29,11
+eeiu,VCT International,100T,Canada,Americas,"[""Fade""]",1139,1.11,189.4,1.10,76,128.6,0.68,0.31,0.05,0.04,30,11
+2ge,VCT International,TS,Philippines,Pacific,"[""Omen""]",246,1.10,198.3,1.08,74,128.4,0.70,0.36,0.09,0.07,30,23
+ZmjjKK,VCT International,EDG,China,China,"[""Raze"", ""KAY/O""]",1606,1.10,260.9,1.20,69,159.4,0.91,0.22,0.21,0.18,24,16
+kiNgg,VCT International,LEV,Chile,Americas,"[""Viper"", ""Breach""]",1736,1.10,202.1,1.13,77,131.8,0.72,0.37,0.09,0.07,30,16
+Kai,VCT International,TE,China,China,"[""Jett"", ""Cypher""]",1112,1.10,211.4,1.09,70,145.3,0.77,0.19,0.16,0.14,29,4
+Karon,VCT International,GEN,"Korea, Republic of",Pacific,"[""Viper"", ""Astra""]",2405,1.10,197.1,1.10,76,128.3,0.71,0.41,0.08,0.06,32,16
+K4DAVRA,VCT International,M8,France,EMEA,"[""Cypher"", ""Omen""]",274,1.10,207.8,1.12,69,132.9,0.74,0.28,0.09,0.08,31,11
+Alfajer,VCT International,FNC,Türkiye,Pacific,"[""Killjoy"", ""Cypher""]",1550,1.10,218.3,1.17,73,146.1,0.78,0.21,0.11,0.10,29,12
+TenZ,VCT International,SEN,Canada,Americas,"[""Omen"", ""Gekko""]",1650,1.10,212.2,1.09,76,136.4,0.74,0.46,0.10,0.09,27,13
+keznit,VCT International,KRÜ,Chile,Americas,"[""Jett"", ""Chamber""]",1138,1.09,243.3,1.12,71,162.8,0.83,0.22,0.19,0.15,26,10
+pANcada,VCT International,LOUD,Brazil,Americas,"[""Omen"", ""Viper""]",233,1.09,199.7,1.07,71,132.2,0.72,0.35,0.08,0.08,39,17
+Meiy,VCT International,DFM,Japan,Pacific,"[""Raze"", ""Yoru""]",555,1.09,248.4,1.09,70,161.1,0.88,0.15,0.21,0.17,25,12
+grubinho,VCT International,KOI,Poland,EMEA,"[""Viper"", ""Brimstone""]",740,1.09,197.5,1.07,75,126.1,0.70,0.35,0.08,0.08,34,12
+RieNs,VCT International,TH,Türkiye,Pacific,"[""Gekko"", ""Sova""]",2367,1.09,205.8,1.09,76,138.4,0.72,0.35,0.08,0.06,37,16
+Elite,VCT International,BBL,Türkiye,Pacific,"[""Viper"", ""Killjoy""]",501,1.08,199.8,1.13,70,133.7,0.73,0.19,0.08,0.06,43,14
+cNed,VCT International,FUT,Türkiye,Pacific,"[""Chamber"", ""Raze""]",1219,1.08,226.8,1.09,71,151.3,0.79,0.17,0.16,0.15,26,8
+d4v41,VCT International,PRX,Malaysia,Pacific,"[""Sage"", ""Fade""]",1761,1.08,198.1,1.05,76,132.7,0.70,0.38,0.06,0.06,29,15
+something,VCT International,PRX,Russian Federation,EMEA,"[""Gekko"", ""Reyna""]",1761,1.08,219.6,1.12,73,140.8,0.78,0.23,0.17,0.13,26,12
+yetujey,VCT International,FUT,Türkiye,Pacific,"[""Viper"", ""Phoenix""]",1219,1.07,201.3,1.10,71,132.6,0.71,0.23,0.10,0.09,26,16
+Derke,VCT International,VIT,Finland,EMEA,"[""Raze"", ""Jett""]",1550,1.07,234.5,1.16,71,154.0,0.83,0.19,0.17,0.16,25,22
+nataNk,VCT International,M8,France,EMEA,"[""Raze"", ""Phoenix""]",564,1.07,229.6,1.07,70,150.4,0.79,0.24,0.15,0.14,26,39
+sheydos,VCT International,KOI,Russian Federation,EMEA,"[""Killjoy"", ""Viper""]",740,1.07,181.3,1.13,75,122.3,0.67,0.17,0.05,0.05,26,15
+bang,VCT International,SEN,United States,Americas,"[""Viper""]",1139,1.07,203.4,1.09,75,129.7,0.71,0.31,0.10,0.09,32,13
+Rossy,VCT International,C9,United States,Americas,"[""Viper"", ""Breach""]",933,1.07,205.7,1.06,75,132.5,0.71,0.35,0.07,0.07,26,18
+Jremy,VCT International,TS,Philippines,Pacific,"[""Jett"", ""Raze""]",853,1.07,240.4,1.12,74,154.4,0.81,0.20,0.23,0.21,24,15
+Flashback,VCT International,DRX,"Korea, Republic of",Pacific,"[""Killjoy"", ""Cypher""]",961,1.07,213.1,1.12,71,139.4,0.76,0.23,0.10,0.08,30,19
+Wo0t,VCT International,TH,Türkiye,Pacific,"[""KAY/O"", ""Skye""]",1869,1.06,217.0,1.08,75,140.7,0.75,0.32,0.13,0.11,35,16
+heat,VCT International,KRÜ,Brazil,Americas,"[""Fade"", ""KAY/O""]",1028,1.06,195.3,1.06,74,128.5,0.73,0.36,0.07,0.09,33,14
+marteen,VCT International,KC,Czechia,EMEA,"[""Jett"", ""Raze""]",1137,1.06,222.9,1.09,73,147.5,0.78,0.22,0.17,0.15,26,23
+f0rsakeN,VCT International,PRX,Indonesia,Pacific,"[""KAY/O"", ""Harbor""]",1761,1.06,209.4,1.06,74,136.6,0.74,0.37,0.09,0.11,30,14
+JitBoyS,VCT International,TLN,Thailand,Pacific,"[""Viper"", ""Killjoy""]",821,1.05,199.4,1.02,73,131.6,0.71,0.31,0.08,0.08,36,16
+nzr,VCT International,FUR,Argentina,Americas,"[""Skye"", ""KAY/O""]",422,1.05,198.8,0.99,70,135.6,0.70,0.30,0.03,0.03,27,14
+leaf,VCT International,G2,United States,Americas,"[""Jett"", ""Raze""]",1727,1.05,217.6,1.06,70,146.2,0.76,0.22,0.12,0.12,23,18
+Munchkin,VCT International,GEN,"Korea, Republic of",Pacific,"[""KAY/O"", ""Viper""]",2405,1.05,189.6,1.00,74,125.7,0.64,0.44,0.07,0.09,22,15
+Shyy,VCT International,KRÜ,Chile,Americas,"[""Killjoy"", ""Viper""]",1138,1.05,199.1,1.09,70,138.5,0.72,0.22,0.07,0.08,28,20
+Derrek,VCT International,EG,United States,Americas,"[""Fade"", ""Gekko""]",595,1.05,193.9,1.02,71,130.0,0.70,0.28,0.07,0.04,35,14
+Autumn,VCT International,FPX,Australia,Pacific,"[""Jett"", ""Raze""]",1453,1.05,212.1,1.08,70,138.4,0.74,0.26,0.11,0.07,30,19
+BuZz,VCT International,T1,"Korea, Republic of",Pacific,"[""Raze"", ""Yoru""]",1293,1.05,237.3,1.10,71,149.9,0.82,0.16,0.18,0.17,22,22
+benjyfishy,VCT International,TH,England,EMEA,"[""Killjoy"", ""Cypher""]",2367,1.05,198.1,1.12,71,132.6,0.74,0.19,0.09,0.09,35,17
+hiro,VCT International,FNC,Netherlands,EMEA,"[""Sova"", ""Gekko""]",732,1.05,190.6,1.10,72,123.5,0.69,0.31,0.07,0.09,29,23
+OXY,VCT International,C9,United States,Americas,"[""Yoru"", ""Raze""]",762,1.05,249.8,1.07,70,162.3,0.87,0.19,0.22,0.18,29,15
+ardiis,VCT International,NAVI,Latvia,EMEA,"[""KAY/O"", ""Jett""]",760,1.05,212.0,1.04,72,139.4,0.77,0.33,0.13,0.12,22,21
+Meteor,VCT International,T1,"Korea, Republic of",Pacific,"[""Killjoy"", ""Yoru""]",2405,1.04,219.9,1.14,71,145.2,0.79,0.16,0.12,0.09,30,10
+purp0,VCT International,GX,Russian Federation,EMEA,"[""Jett"", ""Raze""]",494,1.04,217.2,1.04,69,144.5,0.76,0.16,0.19,0.15,34,6
+Sayaplayer,VCT International,T1,"Korea, Republic of",Pacific,"[""Jett"", ""Raze""]",1065,1.04,211.1,1.08,72,139.5,0.77,0.14,0.17,0.14,27,13
+valyn,VCT International,G2,United States,Americas,"[""Brimstone"", ""Omen""]",1727,1.04,194.6,1.01,76,123.5,0.70,0.35,0.09,0.08,24,19
+LuoK1ng,VCT International,TE,China,China,"[""Omen"", ""Viper""]",844,1.04,187.4,0.93,74,119.5,0.66,0.34,0.06,0.06,33,
+MaKo,VCT International,DRX,"Korea, Republic of",Pacific,"[""Omen"", ""Viper""]",1293,1.04,199.8,1.02,75,132.7,0.68,0.38,0.08,0.09,29,15
+Shao,VCT International,NAVI,N/A,N/A,"[""Brimstone"", ""Omen""]",760,1.04,191.8,1.01,74,129.5,0.68,0.37,0.08,0.08,31,20
+MrFaliN,VCT International,FUT,Türkiye,Pacific,"[""Skye"", ""Sova""]",1219,1.04,191.0,0.96,74,125.5,0.66,0.42,0.08,0.09,22,16
+Jinggg,VCT International,PRX,Singapore,Pacific,"[""Raze"", ""Reyna""]",1204,1.04,224.0,1.07,74,147.4,0.77,0.26,0.13,0.12,20,15
+neT,VCT International,M80,United States,Americas,"[""Killjoy""]",248,1.04,206.4,1.05,69,135.7,0.72,0.19,0.08,0.06,39,6
+johnqt,VCT International,SEN,Morocco,EMEA,"[""Viper"", ""Cypher""]",1650,1.04,182.0,1.08,76,120.4,0.65,0.27,0.07,0.06,26,18
+trent,VCT International,G2,United States,Americas,"[""Viper"", ""Sova""]",1727,1.03,190.3,0.95,72,128.5,0.65,0.33,0.08,0.08,27,18
+Ethan,VCT International,NRG,United States,Americas,"[""KAY/O"", ""Skye""]",632,1.03,206.1,1.01,76,130.1,0.70,0.44,0.08,0.08,21,16
+tuyz,VCT International,LOUD,Brazil,Americas,"[""Harbor"", ""Viper""]",957,1.03,176.6,1.00,72,118.6,0.65,0.36,0.06,0.07,30,13
+xffero,VCT International,RRQ,Indonesia,Pacific,"[""Viper"", ""Astra""]",624,1.03,207.8,1.06,72,135.2,0.74,0.24,0.08,0.08,31,19
+Cloud,VCT International,GX,Russian Federation,EMEA,"[""Breach"", ""Fade""]",618,1.02,200.9,0.99,72,135.6,0.70,0.32,0.07,0.07,24,13
+blaZek1ng,VCT International,GE,Indonesia,Pacific,"[""Fade"", ""Sova""]",530,1.02,193.3,1.00,69,130.3,0.68,0.24,0.09,0.08,30,13
+stax,VCT International,T1,"Korea, Republic of",Pacific,"[""Fade"", ""Sova""]",733,1.02,182.9,1.00,74,116.6,0.63,0.47,0.06,0.08,29,11
+Laz,VCT International,ZETA,Japan,Pacific,"[""Killjoy"", ""Cypher""]",657,1.02,196.2,1.00,66,132.4,0.70,0.21,0.10,0.09,30,10
+BORKUM,VCT International,TS,Philippines,Pacific,"[""Viper""]",607,1.01,188.5,0.98,72,121.6,0.66,0.38,0.09,0.06,22,17
+nAts,VCT International,TL,Russian Federation,EMEA,"[""Cypher"", ""Viper""]",521,1.01,210.2,1.07,72,138.7,0.75,0.25,0.09,0.10,29,12
+QutionerX,VCT International,EF,Türkiye,Pacific,"[""Raze"", ""Jett""]",501,1.01,235.9,1.02,71,155.0,0.81,0.19,0.21,0.15,26,10
+MiniBoo,VCT International,TH,Lithuania,EMEA,"[""Neon"", ""Yoru""]",1875,1.01,221.1,1.03,71,144.2,0.76,0.22,0.17,0.17,30,17
+Mazino,VCT International,LEV,Chile,Americas,"[""Harbor"", ""Omen""]",1736,1.01,205.2,1.02,74,134.3,0.73,0.39,0.08,0.09,28,16
+Wild0reoo,VCT International,TS,Philippines,Pacific,"[""Killjoy"", ""Cypher""]",246,1.01,192.2,1.00,76,129.9,0.70,0.33,0.07,0.08,33,13
+Asuna,VCT International,100T,United States,Americas,"[""Raze"", ""Gekko""]",1139,1.01,214.3,1.00,74,136.9,0.72,0.36,0.13,0.14,19,16
+Zellsis,VCT International,SEN,United States,Americas,"[""Killjoy"", ""KAY/O""]",1650,1.01,184.9,1.00,74,120.1,0.64,0.38,0.06,0.08,19,15
+supamen,VCT International,EG,United States,Americas,"[""Omen"", ""Viper""]",595,1.00,196.9,0.98,71,127.7,0.70,0.28,0.10,0.12,39,17
+SUYGETSU,VCT International,NAVI,N/A,N/A,"[""Viper"", ""Cypher""]",760,1.00,184.9,1.01,72,125.7,0.66,0.21,0.07,0.06,33,12
+cauanzin,VCT International,LOUD,Brazil,Americas,"[""Sova"", ""Breach""]",957,1.00,207.9,1.01,72,134.0,0.73,0.29,0.11,0.09,27,10
+qRaxs,VCT International,FUT,Türkiye,Pacific,"[""Raze"", ""Fade""]",1219,1.00,186.5,0.97,73,121.7,0.67,0.35,0.06,0.06,28,18
+SugarZ3ro,VCT International,ZETA,Japan,Pacific,"[""Omen"", ""Harbor""]",657,1.00,192.6,0.95,72,123.7,0.68,0.37,0.04,0.07,34,7
+Lmemore,VCT International,RRQ,Indonesia,Pacific,"[""Killjoy"", ""Cypher""]",624,1.00,208.6,1.01,68,139.8,0.73,0.22,0.09,0.13,34,19
+Keiko,VCT International,TL,United Kingdom,EMEA,"[""Raze"", ""Yoru""]",521,1.00,216.5,1.05,69,142.8,0.79,0.17,0.17,0.17,31,16
+JessieVash,VCT International,TS,Philippines,Pacific,"[""Sova"", ""Skye""]",853,1.00,188.0,1.01,71,126.0,0.66,0.30,0.07,0.07,26,16
+S1Mon,VCT International,EDG,"Taiwan, Province of China",Pacific,"[""Breach"", ""KAY/O""]",736,0.99,170.2,0.94,76,112.6,0.60,0.47,0.06,0.04,29,20
+Zyppan,VCT International,NAVI,Sweden,EMEA,"[""Raze"", ""KAY/O""]",760,0.99,215.3,1.00,71,144.6,0.75,0.30,0.12,0.13,29,8
+logaN,VCT International,DVM,France,EMEA,"[""Cypher"", ""Killjoy""]",290,0.99,181.7,0.98,68,119.4,0.63,0.19,0.06,0.09,32,4
+frz,VCT International,MIBR,Brazil,Americas,"[""Viper"", ""Killjoy""]",474,0.99,189.4,0.97,66,126.2,0.68,0.19,0.08,0.12,28,20
+Sacy,VCT International,SEN,Brazil,Americas,"[""Fade"", ""Gekko""]",1650,0.98,182.4,0.92,73,123.0,0.61,0.40,0.06,0.08,26,14
+mindfreak,VCT International,PRX,Indonesia,Pacific,"[""Viper"", ""Brimstone""]",1761,0.98,179.8,1.00,73,118.2,0.65,0.32,0.05,0.06,34,13
+iZu,VCT International,T1,"Korea, Republic of",Pacific,"[""Yoru"", ""Omen""]",1065,0.98,206.9,0.98,72,136.2,0.73,0.30,0.12,0.12,26,18
+Kicks,VCT International,VIT,Estonia,EMEA,"[""Skye"", ""Sova""]",1238,0.98,180.4,0.93,72,116.7,0.64,0.40,0.05,0.07,22,21
+JonahP,VCT International,G2,Canada,Americas,"[""Sova"", ""KAY/O""]",1727,0.98,189.9,0.94,72,121.8,0.66,0.38,0.07,0.09,25,16
+jawgemo,VCT International,G2,Cambodia,Pacific,"[""Raze"", ""Deadlock""]",595,0.97,225.7,0.96,66,150.1,0.75,0.22,0.17,0.14,22,14
+Demon1,VCT International,LEV,Russian Federation,EMEA,"[""Jett"", ""Omen""]",417,0.97,208.2,0.97,71,141.9,0.72,0.18,0.18,0.17,35,10
+Boo,VCT International,TH,Lithuania,EMEA,"[""Omen"", ""Astra""]",2367,0.97,173.4,0.95,73,111.2,0.62,0.41,0.08,0.08,31,14
+Victor,VCT International,NRG,United States,Americas,"[""Cypher"", ""Killjoy""]",632,0.97,213.1,1.05,69,139.7,0.75,0.18,0.14,0.15,26,10
+Surf,VCT International,TLN,Thailand,Pacific,"[""Killjoy"", ""Viper""]",405,0.97,181.9,0.97,70,121.4,0.63,0.21,0.08,0.07,38,5
+BeYN,VCT International,DRX,"Korea, Republic of",Pacific,"[""Omen"", ""Yoru""]",1160,0.97,176.8,0.93,73,117.8,0.62,0.30,0.06,0.08,27,24
+artzin,VCT International,MIBR,Brazil,Americas,"[""Jett"", ""Raze""]",699,0.97,211.5,0.96,67,139.2,0.73,0.20,0.13,0.14,26,17
+Brave,VCT International,EF,Türkiye,Pacific,"[""Brimstone"", ""Omen""]",501,0.96,196.6,0.94,70,128.6,0.69,0.33,0.11,0.09,34,19
+Polvi,VCT International,GE,Finland,EMEA,"[""Raze"", ""Jett""]",530,0.96,218.6,0.95,68,145.7,0.74,0.20,0.20,0.19,24,13
+kamo,VCT International,TL,Poland,EMEA,"[""Yoru"", ""Raze""]",740,0.96,224.9,0.97,68,147.8,0.76,0.19,0.21,0.19,26,20
+MAGNUM,VCT International,KC,Czechia,EMEA,"[""Killjoy"", ""Fade""]",1137,0.96,180.0,0.91,72,120.8,0.62,0.32,0.09,0.11,26,20
+Dep,VCT International,ZETA,Japan,Pacific,"[""Jett"", ""Raze""]",657,0.96,220.2,0.97,68,143.8,0.76,0.19,0.19,0.18,27,13
+crashies,VCT International,NRG,United States,Americas,"[""Sova"", ""Viper""]",632,0.96,175.3,0.99,73,114.9,0.63,0.30,0.05,0.06,28,16
+jzz,VCT International,MIBR,Brazil,Americas,"[""Raze"", ""Skye""]",474,0.96,207.1,0.96,71,140.7,0.73,0.21,0.15,0.12,31,13
+runneR,VCT International,VIT,North Macedonia,EMEA,"[""Raze"", ""Jett""]",1238,0.96,205.2,0.96,71,135.9,0.70,0.26,0.13,0.12,20,15
+Xeppaa,VCT International,C9,United States,Americas,"[""Raze"", ""Skye""]",762,0.96,187.8,0.87,76,125.2,0.63,0.45,0.07,0.09,26,22
+moose,VCT International,C9,Canada,Americas,"[""Killjoy""]",600,0.96,172.2,0.98,69,117.9,0.62,0.15,0.08,0.06,24,16
+FengF,VCT International,TE,China,China,"[""Sova"", ""Raze""]",1112,0.95,222.7,1.07,67,139.2,0.77,0.19,0.13,0.12,29,15
+Benkai,VCT International,GE,Singapore,Pacific,"[""Viper"", ""Killjoy""]",530,0.95,169.1,0.90,70,117.5,0.59,0.22,0.04,0.07,25,8
+AtaKaptan,VCT International,FUT,Türkiye,Pacific,"[""Omen"", ""Viper""]",1219,0.95,190.5,0.93,71,121.1,0.66,0.37,0.08,0.12,26,11
+NaturE,VCT International,EG,United States,Americas,"[""Breach"", ""KAY/O""]",595,0.95,178.4,0.87,71,116.9,0.62,0.38,0.06,0.06,32,13
+Melser,VCT International,KRÜ,Chile,Americas,"[""Viper"", ""Omen""]",1138,0.95,175.6,0.92,71,116.1,0.62,0.31,0.08,0.10,32,15
+C0M,VCT International,LEV,United States,Americas,"[""Skye"", ""Sova""]",1736,0.95,174.5,0.89,73,119.5,0.59,0.32,0.08,0.08,22,14
+xccurate,VCT International,T1,Indonesia,Pacific,"[""Harbor"", ""Chamber""]",1065,0.95,186.1,0.97,72,122.4,0.68,0.24,0.07,0.09,26,11
+RgLMeister,VCT International,MIBR,Brazil,Americas,"[""Brimstone"", ""Astra""]",474,0.95,173.5,0.90,72,119.3,0.63,0.35,0.05,0.05,29,17
+Estrella,VCT International,RRQ,"Korea, Republic of",Pacific,"[""Sova"", ""Skye""]",624,0.95,167.2,0.89,74,109.5,0.58,0.42,0.05,0.07,29,6
+tomaszy,VCT International,KC,Portugal,EMEA,"[""Viper"", ""Omen""]",1137,0.94,182.8,0.93,71,124.2,0.64,0.28,0.08,0.08,33,14
+runi,VCT International,C9,United States,Americas,"[""Sova"", ""Viper""]",600,0.94,174.8,0.91,71,120.7,0.62,0.27,0.06,0.06,34,12
+sh1n,VCT International,DVM,France,EMEA,"[""Sage"", ""Omen""]",1137,0.94,168.1,0.93,75,107.7,0.61,0.37,0.07,0.07,29,11
+starxo,VCT International,KOI,Poland,EMEA,"[""Harbor"", ""Skye""]",740,0.94,180.3,0.91,71,117.5,0.62,0.42,0.07,0.11,23,18
+ban,VCT International,TLN,"Korea, Republic of",Pacific,"[""Yoru"", ""KAY/O""]",821,0.94,191.8,0.95,68,127.4,0.69,0.24,0.11,0.11,33,9
+NDG,VCT International,TS,Philippines,Pacific,"[""Cypher""]",607,0.94,183.5,0.96,73,123.9,0.65,0.22,0.08,0.07,23,12
+Khalil,VCT International,FUR,Brazil,Americas,"[""Cypher"", ""Killjoy""]",512,0.93,173.8,0.88,70,119.1,0.63,0.25,0.05,0.08,30,18
+mwzera,VCT International,FUR,Brazil,Americas,"[""Jett"", ""Raze""]",512,0.93,213.7,0.91,68,140.3,0.74,0.21,0.14,0.17,19,5
+Marved,VCT International,NRG,Canada,Americas,"[""Viper"", ""Omen""]",417,0.93,190.8,0.91,70,124.4,0.66,0.30,0.07,0.10,27,22
+Flex1n,VCT International,BLG,China,China,"[""Omen"", ""Viper""]",779,0.93,192.1,0.98,73,120.6,0.67,0.38,0.06,0.09,36,15
+Foxy9,VCT International,GEN,"Korea, Republic of",Pacific,"[""Viper"", ""Jett""]",1293,0.93,176.8,0.94,72,116.3,0.63,0.32,0.08,0.10,31,16
+icy,VCT International,G2,United States,Americas,"[""Yoru"", ""Gekko""]",1479,0.92,192.0,0.92,69,129.0,0.68,0.21,0.14,0.14,25,14
+Enzo,VCT International,TL,France,EMEA,"[""Skye"", ""Sova""]",521,0.92,175.7,0.86,66,117.9,0.57,0.30,0.06,0.07,18,9
+whzy,VCT International,Toe,China,China,"[""Raze"", ""Jett""]",660,0.92,237.9,1.08,65,145.4,0.82,0.20,0.19,0.20,22,
+Russ,VCT International,GE,United Kingdom,EMEA,"[""Gekko"", ""KAY/O""]",530,0.92,181.4,0.87,71,117.3,0.63,0.38,0.09,0.10,38,20
+nobody,VCT International,EDG,China,China,"[""Sova"", ""Skye""]",1606,0.92,190.4,0.98,70,122.9,0.67,0.28,0.08,0.12,33,20
+Fit1nho,VCT International,GX,Spain,EMEA,"[""Raze"", ""Yoru""]",618,0.92,185.7,0.90,68,125.6,0.64,0.25,0.10,0.10,30,7
+tex,VCT International,LEV,Germany,EMEA,"[""Gekko"", ""Cypher""]",1736,0.92,193.8,0.99,71,128.8,0.69,0.20,0.10,0.12,33,12
+SSeeS,VCT International,DFM,Japan,Pacific,"[""Omen""]",555,0.92,165.9,0.83,70,107.7,0.59,0.37,0.06,0.07,36,16
+Governor,VCT International,TLN,"Korea, Republic of",Pacific,"[""Neon"", ""Jett""]",821,0.91,200.0,0.94,68,130.7,0.70,0.21,0.16,0.17,23,18
+saadhak,VCT International,LOUD,Argentina,Americas,"[""Killjoy"", ""KAY/O""]",957,0.91,189.8,0.85,70,126.9,0.62,0.37,0.09,0.13,21,14
+TakaS,VCT International,DVM,France,EMEA,"[""Yoru"", ""Raze""]",564,0.91,205.4,0.93,65,135.3,0.71,0.23,0.16,0.18,22,14
+hoody,VCT International,GX,Finland,EMEA,"[""Skye"", ""Breach""]",618,0.91,173.0,0.87,69,119.5,0.60,0.27,0.08,0.10,25,9
+Retla,VCT International,BLD,Singapore,Pacific,"[""Viper"", ""Cypher""]",427,0.90,169.7,0.92,70,115.4,0.61,0.19,0.05,0.06,26,14
+Monyet,VCT International,RRQ,Indonesia,Pacific,"[""Omen"", ""Raze""]",841,0.90,198.5,0.88,70,131.9,0.68,0.32,0.12,0.16,26,17
+Lightningfast,VCT International,GE,India,Pacific,"[""Omen"", ""Viper""]",530,0.90,175.3,0.85,70,111.6,0.62,0.34,0.07,0.07,33,17
+ceNder,VCT International,VIT,Lithuania,EMEA,"[""Omen"", ""Viper""]",1238,0.90,168.7,0.86,69,111.4,0.60,0.34,0.08,0.12,27,12
+vanity,VCT International,C9,United States,Americas,"[""Skye"", ""Viper""]",762,0.90,177.8,0.86,71,118.6,0.62,0.35,0.08,0.11,22,14
+Medusa,VCT International,DFM,"Korea, Republic of",Pacific,"[""Killjoy"", ""Cypher""]",555,0.90,183.6,0.89,69,124.5,0.64,0.19,0.10,0.12,30,13
+Carpe,VCT International,T1,"Korea, Republic of",Pacific,"[""Sova"", ""Fade""]",929,0.89,177.9,0.88,74,117.7,0.63,0.33,0.08,0.08,25,12
+liazzi,VCT International,MIBR,Brazil,Americas,"[""Viper"", ""Omen""]",315,0.89,170.7,0.86,70,112.6,0.60,0.28,0.05,0.07,33,11
+Lakia,VCT International,GEN,"Korea, Republic of",Pacific,"[""Gekko"", ""Sova""]",2405,0.89,170.4,0.88,72,115.3,0.59,0.34,0.07,0.08,26,23
+pAura,VCT International,S2G,Türkiye,Pacific,"[""Breach"", ""KAY/O""]",501,0.89,168.7,0.82,67,108.3,0.59,0.40,0.10,0.11,33,11
+lenne,VCT International,IGN,Singapore,Pacific,"[""Sova"", ""Gekko""]",213,0.89,168.2,0.76,73,110.3,0.53,0.38,0.07,0.07,18,6
+Jamppi,VCT International,BBL,Finland,EMEA,"[""Viper"", ""KAY/O""]",521,0.88,184.2,0.85,71,120.1,0.63,0.29,0.08,0.12,31,14
+Zest,VCT International,BLD,"Korea, Republic of",Pacific,"[""Fade"", ""Gekko""]",427,0.88,167.3,0.83,68,108.0,0.58,0.29,0.07,0.08,28,13
+Quick,VCT International,LOUD,Brazil,Americas,"[""Jett"", ""Yoru""]",724,0.88,200.9,0.95,65,130.5,0.71,0.15,0.16,0.17,27,11
+paTiTek,VCT International,TH,Poland,EMEA,"[""Viper"", ""KAY/O""]",990,0.87,185.7,0.91,71,123.2,0.62,0.44,0.08,0.08,23,13
+Apoth,VCT International,EG,Canada,Americas,"[""Cypher"", ""Killjoy""]",595,0.87,179.3,0.85,62,122.8,0.62,0.23,0.09,0.15,35,18
+Deryeon,VCT International,BLD,Singapore,Pacific,"[""Harbor"", ""Raze""]",480,0.87,186.8,0.86,70,123.7,0.65,0.20,0.15,0.14,29,8
+yuran,VCT International,SG,Japan,Pacific,"[""Sova"", ""Viper""]",657,0.86,173.9,0.76,70,118.0,0.57,0.43,0.06,0.09,26,8
+BerLIN,VCT International,FPX,"Taiwan, Province of China",Pacific,"[""Omen"", ""Harbor""]",1453,0.86,187.1,0.92,67,125.8,0.64,0.36,0.10,0.10,29,8
+Mistic,VCT International,FKS,United Kingdom,EMEA,"[""Omen"", ""Viper""]",521,0.86,169.7,0.83,71,112.4,0.60,0.33,0.06,0.08,31,10
+AAAAY,VCT International,FPX,China,China,"[""Gekko"", ""Sova""]",1453,0.86,189.5,1.03,67,126.8,0.70,0.25,0.06,0.05,31,6
+ShadoW,VCT International,KOI,Sweden,EMEA,"[""Sova"", ""Fade""]",740,0.86,167.6,0.84,68,108.6,0.59,0.30,0.05,0.10,21,12
+Wailers,VCT International,M8,France,EMEA,"[""Omen"", ""Viper""]",564,0.86,153.4,0.84,69,103.5,0.57,0.23,0.05,0.04,31,8
+heybay,VCT International,TE,Hong Kong,Pacific,"[""KAY/O"", ""Breach""]",1112,0.86,170.5,0.85,74,105.2,0.59,0.40,0.07,0.06,25,9
+Boaster,VCT International,FNC,United Kingdom,EMEA,"[""Omen"", ""Harbor""]",1550,0.85,152.8,0.79,72,99.7,0.52,0.40,0.07,0.11,23,12
+neth,VCT International,FL,Japan,Pacific,"[""Viper"", ""Harbor""]",555,0.85,166.0,0.79,70,109.4,0.58,0.30,0.04,0.09,27,12
+mta,VCT International,KRÜ,Chile,Americas,"[""KAY/O"", ""Cypher""]",711,0.84,167.9,0.80,68,112.6,0.59,0.27,0.08,0.09,34,6
+Destrian,VCT International,HGE,Lithuania,EMEA,"[""Cypher"", ""Killjoy""]",238,0.84,158.7,0.77,68,111.9,0.54,0.32,0.06,0.09,21,10
+Boostio,VCT International,100T,United States,Americas,"[""Gekko"", ""Killjoy""]",1139,0.83,179.1,0.86,69,121.9,0.63,0.23,0.09,0.12,24,16
+fl1pzjder,VCT International,RRQ,Indonesia,Pacific,"[""Gekko"", ""Viper""]",340,0.83,160.3,0.76,68,108.0,0.55,0.31,0.07,0.11,27,20
+hiroronn,VCT International,ZETA,Japan,Pacific,"[""KAY/O"", ""Fade""]",657,0.83,167.9,0.76,69,111.7,0.58,0.32,0.07,0.11,30,20
+Klaus,VCT International,KRÜ,Argentina,Americas,"[""Sova"", ""Fade""]",537,0.83,169.8,0.76,71,114.1,0.56,0.30,0.10,0.08,24,12
+crazyguy,VCT International,BLD,Viet Nam,Pacific,"[""Sova"", ""Breach""]",251,0.83,177.9,0.74,65,118.7,0.56,0.31,0.07,0.12,23,11
+Crws,VCT International,TLN,Thailand,Pacific,"[""Harbor"", ""Omen""]",821,0.83,157.4,0.79,68,107.7,0.54,0.27,0.04,0.08,22,13
+Life,VCT International,FPX,China,China,"[""Reyna"", ""Chamber""]",1453,0.83,227.8,1.03,62,139.4,0.79,0.18,0.19,0.21,35,24
+yay,VCT International,BLD,United States,Americas,"[""Neon"", ""Skye""]",282,0.83,194.8,0.85,68,129.6,0.66,0.16,0.17,0.21,25,23
+Lysoar,VCT International,WOL,China,China,"[""Viper"", ""Cypher""]",1453,0.83,183.0,0.98,65,120.5,0.65,0.30,0.06,0.06,24,4
+Redgar,VCT International,GX,Russian Federation,EMEA,"[""Omen"", ""Cypher""]",510,0.82,154.0,0.80,68,101.3,0.56,0.33,0.08,0.10,37,17
+Biank,VCT International,TE,China,China,"[""Fade"", ""Sova""]",867,0.82,180.5,0.85,64,118.3,0.60,0.33,0.09,0.11,16,35
+ANGE1,VCT International,NAVI,Ukraine,EMEA,"[""Gekko"", ""Sova""]",760,0.81,172.0,0.80,66,116.3,0.60,0.29,0.10,0.12,33,7
+reazy,VCT International,BBL,Türkiye,Pacific,"[""Skye"", ""Sova""]",501,0.81,156.7,0.76,67,108.6,0.53,0.33,0.04,0.05,29,16
+beyAz,VCT International,M8,France,EMEA,"[""Breach"", ""Sova""]",564,0.80,155.4,0.72,71,103.8,0.52,0.42,0.05,0.07,23,11
+mazin,VCT International,MIBR,Brazil,Americas,"[""Skye"", ""Viper""]",699,0.80,153.6,0.73,64,102.3,0.52,0.34,0.06,0.07,29,15
+Haodong,VCT International,TEC,China,China,"[""Omen"", ""Cypher""]",870,0.80,155.6,0.79,69,101.3,0.55,0.33,0.08,0.11,27,36
+Anthem,VCT International,DFM,Japan,Pacific,"[""Skye"", ""Sova""]",555,0.80,154.0,0.72,71,104.0,0.54,0.30,0.05,0.10,24,11
+Knight,VCT International,BLG,China,China,"[""Killjoy"", ""KAY/O""]",660,0.80,187.8,0.95,64,119.5,0.66,0.35,0.04,0.06,29,8
+havoc,VCT International,FUR,Brazil,Americas,"[""KAY/O"", ""Raze""]",512,0.79,182.2,0.79,61,126.1,0.62,0.19,0.12,0.19,36,17
+kon4n,VCT International,FUR,Brazil,Americas,"[""Sova"", ""Skye""]",314,0.77,158.3,0.73,67,105.5,0.54,0.27,0.07,0.10,24,11
+nephh,VCT International,BLG,Singapore,Pacific,"[""Fade"", ""KAY/O""]",339,0.77,190.5,0.88,58,119.7,0.66,0.40,0.08,0.09,20,
+FiNESSE,VCT International,NRG,Canada,Americas,"[""Cypher"", ""Deadlock""]",215,0.76,158.1,0.71,64,105.5,0.54,0.28,0.08,0.04,19,12
+yosemite,VCT International,FPX,China,China,"[""Viper"", ""Killjoy""]",660,0.61,206.5,1.00,55,122.2,0.72,0.27,0.09,0.09,25,
+Spring,VCT International,WOL,"Taiwan, Province of China",Pacific,"[""Jett"", ""Omen""]",487,,203.6,0.96,,159.8,0.70,0.20,0.17,0.24,,
+YHchen,VCT International,JDG,"Taiwan, Province of China",Pacific,"[""KAY/O"", ""Gekko""]",353,,188.8,0.92,,128.5,0.64,0.38,0.08,0.08,,
+jkuro,VCT International,JDG,China,China,"[""Fade"", ""Skye""]",407,,175.6,0.86,,104.5,0.63,0.23,0.11,0.11,,
+Viva,VCT International,JDG,China,China,"[""Viper"", ""Sova""]",471,,220.5,1.24,,144.5,0.78,0.28,0.10,0.03,,
+stew,VCT International,JDG,"Korea, Republic of",Pacific,"[""Raze"", ""Jett""]",471,,233.5,1.20,,151.7,0.83,0.16,0.14,0.15,,
+GuanG,VCT International,NOVA,China,China,"[""Jett"", ""Neon""]",467,,191.7,0.94,,137.3,0.70,0.19,0.14,0.06,,
+Eren,VCT International,TYL,China,China,"[""Viper"", ""Reyna""]",280,,202.5,0.97,,136.1,0.71,0.26,0.09,0.12,,
+AC,VCT International,TEC,China,China,"[""Viper"", ""Omen""]",356,,197.8,1.03,,128.1,0.71,0.35,0.04,0.08,,
+SWERL,VCT International,NOVA,Australia,Pacific,"[""Raze"", ""Jett""]",391,,228.3,1.01,,140.7,0.78,0.19,0.14,0.18,,
+QiuYe,VCT International,XG,China,China,"[""Killjoy"", ""Skye""]",297,,166.4,0.74,,,0.57,0.30,,,,
+CB,VCT International,NOVA,China,China,"[""Breach"", ""Fade""]",467,,198.6,0.92,,123.4,0.67,0.34,0.08,0.13,,
+OBONE,VCT International,NOVA,China,China,"[""Omen""]",291,,165.9,0.81,,,0.59,0.32,,,,
+o0o0o,VCT International,NOVA,China,China,"[""Raze"", ""Breach""]",467,,164.9,0.76,,109.2,0.57,0.36,0.06,0.10,,
+hfmi0dzjc9z7,VCT International,TYL,China,China,"[""Sova"", ""Gekko""]",313,,205.3,1.08,,132.3,0.75,0.21,0.09,0.13,,
+YOU,VCT International,XLG,Hong Kong,Pacific,"[""Killjoy"", ""Sova""]",566,,190.2,0.97,,,0.66,0.31,,,,
+MarT1n,VCT International,XLG,China,China,"[""Killjoy""]",290,,176.8,0.81,,,0.59,0.20,,,,
+Rb,VCT International,TEC,"Korea, Republic of",Pacific,"[""Fade"", ""Cypher""]",653,,223.1,1.07,,144.0,0.79,0.28,0.15,0.18,,
+aluba,VCT International,WOL,China,China,"[""Omen"", ""Killjoy""]",487,,195.6,0.97,,114.4,0.70,0.32,0.09,0.06,,
+Nicc,VCT International,DRG,"Taiwan, Province of China",Pacific,"[""Gekko"", ""Breach""]",680,,181.8,0.95,,114.5,0.65,0.39,0.05,0.09,,
+coldfish,VCT International,TYL,China,China,"[""Sova"", ""Viper""]",485,,182.4,0.92,,118.4,0.64,0.29,0.07,0.04,,
+Yuicaw,VCT International,WOL,"Taiwan, Province of China",Pacific,"[""Cypher"", ""Raze""]",487,,221.2,1.07,,162.1,0.78,0.27,0.14,0.06,,
+pl1xx,VCT International,WOL,Australia,Pacific,"[""KAY/O"", ""Viper""]",487,,187.3,0.91,,130.4,0.65,0.37,0.08,0.08,,
+nizhaoTZH,VCT International,DRG,China,China,"[""Viper"", ""Omen""]",680,,181.0,0.93,,119.3,0.65,0.34,0.06,0.08,,
+vo0kashu,VCT International,DRG,Russian Federation,EMEA,"[""Killjoy"", ""Cypher""]",680,,233.3,1.16,,167.4,0.84,0.24,0.10,0.07,,
+TvirusLuke,VCT International,DRG,"Taiwan, Province of China",Pacific,"[""Jett"", ""Raze""]",680,,215.2,0.88,,152.6,0.71,0.20,0.21,0.17,,
+Spitfires,VCT International,AG,China,China,"[""Cypher"", ""Jett""]",459,,202.0,0.91,,128.5,0.71,0.15,0.22,0.20,,
+LockM,VCT International,TEC,China,China,"[""Viper"", ""Sova""]",653,,167.3,0.81,,106.5,0.58,0.27,0.02,0.05,,
+Shion7,VCT International,DRG,China,China,"[""Harbor"", ""Gekko""]",570,,180.7,0.84,,118.0,0.62,0.28,0.05,0.12,,
+deLb,VCT International,AG,Indonesia,Pacific,"[""Raze"", ""Reyna""]",459,,195.7,1.00,,124.2,0.71,0.18,0.06,0.06,,
+monk,VCT International,AG,China,China,"[""Breach"", ""Killjoy""]",459,,178.7,0.79,,117.1,0.62,0.35,0.07,0.06,,
+bunt,VCT International,AG,China,China,"[""Omen"", ""Viper""]",459,,186.5,0.93,,108.8,0.68,0.32,0.07,0.07,,
+sword9,VCT International,JDG,China,China,"[""Sova"", ""KAY/O""]",459,,171.3,0.78,,122.6,0.57,0.32,0.06,0.12,,
+Abo,VCT International,TYL,China,China,"[""Raze"", ""Jett""]",653,,211.0,0.99,,145.6,0.74,0.18,0.17,0.16,,
+kawaii,VCT International,iNv,China,China,"[""Omen"", ""Brimstone""]",544,,186.0,0.94,,121.4,0.66,0.30,0.07,0.07,,
