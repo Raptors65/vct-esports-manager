@@ -15,8 +15,8 @@ def lambda_handler(event, context):
 
     supabase = create_client(config["SUPABASE_URL"], config["SUPABASE_KEY"])
 
-    response = supabase.table("players").select("username, league, team, country, region, role, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").not_.is_("rating", "null").limit(5)
-
+    response = supabase.table("players").select("username, league, team, country, region, role, agents, rounds, rating, acs, kd, kast, adr, kpr, apr, fkpr, fdpr, hs, clutch_rate").not_.is_("rating", "null").limit(10)
+    
     if "role" in param_dict and param_dict["role"] != "all":
         if ", " in param_dict['role']:
             roles = param_dict['role'].split(', ')
@@ -39,6 +39,8 @@ def lambda_handler(event, context):
             response = response.ilike("region", f"%{param_dict['region']}%")
     if "sortBy" in param_dict and param_dict["sortBy"] != "none":
         response = response.order(param_dict["sortBy"], desc=True)
+    else:
+        response = response.order("random")
     
     response = response.execute()
 
@@ -94,24 +96,24 @@ def lambda_handler(event, context):
         
     return action_response
 
-# if __name__ == "__main__":
-#     res = lambda_handler({
-#         "actionGroup": None,
-#         "function": None,
-#         "parameters": [
-#           {
-#             "name": "league",
-#             "type": "string",
-#             "value": "VCT Challengers, VCT Game Changers"
-#           },
-#           {
-#             "name": "sortBy",
-#             "type": "string",
-#             "value": "rating"
-#           }
-#         ],
-#         "sessionAttributes": {},
-#         "promptSessionAttributes": {}
-#     }, None)
+if __name__ == "__main__":
+    res = lambda_handler({
+        "actionGroup": None,
+        "function": None,
+        "parameters": [
+          {
+            "name": "league",
+            "type": "string",
+            "value": "VCT Challengers, VCT Game Changers"
+          },
+        #   {
+        #     "name": "sortBy",
+        #     "type": "string",
+        #     "value": "rating"
+        #   }
+        ],
+        "sessionAttributes": {},
+        "promptSessionAttributes": {}
+    }, None)
 
-#     print(res)
+    print(res)
