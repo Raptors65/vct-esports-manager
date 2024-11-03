@@ -167,10 +167,10 @@ export default function Home() {
   };
 
   return (
-    <main className="container mx-auto pt-5">
+    <main className="container mx-auto pt-5 font-body">
       {messages.length === 0 && (
         <div className="text-center mx-auto max-w-xl text-gray-200">
-          <h1 className="text-3xl font-bold">TeamForge</h1>
+          <h1 className="text-3xl font-bold font-title">TeamForge</h1>
           <p className="my-2">
             Welcome to TeamForge, an LLM-powered digital assistant designed to
             help you build a VALORANT esports team. Enter a prompt in the text
@@ -179,7 +179,7 @@ export default function Home() {
           <div className="flex flex-wrap gap-x-3 gap-y-2 justify-center">
             {prewrittenPrompts.map((prompt) => (
               <button
-                className="border border-gray-500 text-gray-200 px-3 rounded-full hover:text-gray-400"
+                className="border border-gray-500 text-gray-200 px-3 rounded-full hover:text-white hover:bg-[#FF4655] transition duration-200"
                 key={prompt.title}
                 onClick={() => {
                   inputRef.current!.innerText = prompt.prompt;
