@@ -10,6 +10,11 @@ import {
   useState,
 } from "react";
 import { v6 as uuidv6 } from "uuid";
+// import remarkParse from "remark-parse";
+// import remarkRehype from "remark-rehype";
+// import rehypeSanitize from "rehype-sanitize";
+// import rehypeStringify from "rehype-stringify";
+// import { unified } from "unified";
 
 type Message = {
   author: "User" | "AI";
@@ -98,17 +103,19 @@ export default function Home() {
     if (!response.body) return; // TODO: error handling
 
     const decoder = new TextDecoder("utf-8");
-
+    // let aiContent = "";
     // @ts-expect-error for some reason trying to loop over response.body throws error
     for await (const chunk of response.body) {
       const data = decoder.decode(chunk);
 
       console.log(data);
 
+      // aiContent += decoder.decode(chunk);
+
       setMessages((messages) => [
         {
           author: "AI",
-          content: decoder.decode(chunk),
+          content: decoder.decode(chunk).replaceAll("```", ""),
         },
         ...messages.slice(1),
       ]);
@@ -117,6 +124,24 @@ export default function Home() {
         break;
       }
     }
+
+    // console.log("MESSAGES", messages);
+    // const content = String(
+    //   await unified()
+    //     .use(remarkParse)
+    //     .use(remarkRehype)
+    //     .use(rehypeSanitize)
+    //     .use(rehypeStringify)
+    //     .process(aiContent)
+    // );
+
+    // setMessages((messages) => [
+    //   {
+    //     author: "AI",
+    //     content,
+    //   },
+    //   ...messages.slice(1),
+    // ]);
 
     setIsLoading(false);
   };
